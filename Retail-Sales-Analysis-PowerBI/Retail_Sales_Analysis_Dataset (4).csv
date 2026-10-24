@@ -1,0 +1,1201 @@
+Order ID,Order Date,Customer ID,Customer Segment,Region,City,Sales Channel,Category,Product,Quantity,Unit Price,Discount,Sales,Cost,Profit,Payment Method
+ORD-00710,2024-01-01,CUST-0014,Corporate,North,Jaipur,Online,Electronics,Phone Charger,3,750,0.15,1912.5,1552.5,360.0,Debit Card
+ORD-01036,2024-01-02,CUST-0334,Consumer,North,Delhi,Online,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,Cash
+ORD-00266,2024-01-02,CUST-0089,Small Business,East,Guwahati,Marketplace,Electronics,Webcam,1,3200,0.1,2880.0,2464.0,416.0,Credit Card
+ORD-00539,2024-01-04,CUST-0158,Consumer,North,Delhi,Marketplace,Lifestyle,Backpack,4,1600,0.05,6080.0,4672.0,1408.0,UPI
+ORD-00078,2024-01-06,CUST-0187,Corporate,North,Jaipur,Online,Electronics,Monitor,2,12500,0.0,25000.0,21000.0,4000.0,Debit Card
+ORD-00566,2024-01-06,CUST-0096,Corporate,West,Ahmedabad,Marketplace,Lifestyle,Water Bottle,3,550,0.15,1402.5,1105.5,297.0,Cash
+ORD-00065,2024-01-06,CUST-0342,Small Business,North,Delhi,Store,Accessories,Keyboard,2,1200,0.2,1920.0,1680.0,240.0,UPI
+ORD-00317,2024-01-07,CUST-0232,Consumer,West,Ahmedabad,Online,Lifestyle,Backpack,5,1600,0.0,8000.0,5840.0,2160.0,Net Banking
+ORD-00361,2024-01-07,CUST-0112,Consumer,North,Lucknow,Online,Lifestyle,Backpack,1,1600,0.0,1600.0,1168.0,432.0,Credit Card
+ORD-00625,2024-01-08,CUST-0130,Small Business,West,Surat,Store,Electronics,Phone Charger,1,750,0.05,712.5,517.5,195.0,Cash
+ORD-00902,2024-01-08,CUST-0276,Corporate,Central,Bhopal,Online,Stationery,Gel Pens,3,120,0.15,306.0,223.2,82.8,Net Banking
+ORD-01180,2024-01-10,CUST-0242,Small Business,South,Chennai,Store,Stationery,Notebook Pack,2,250,0.1,450.0,325.0,125.0,Net Banking
+ORD-01166,2024-01-10,CUST-0130,Corporate,Central,Bhopal,Store,Stationery,Gel Pens,4,120,0.1,432.0,297.6,134.4,Credit Card
+ORD-00076,2024-01-10,CUST-0070,Consumer,South,Kochi,Store,Home Office,Desk Lamp,4,1350,0.1,4860.0,3834.0,1026.0,Net Banking
+ORD-01110,2024-01-11,CUST-0219,Consumer,West,Ahmedabad,Online,Accessories,USB-C Hub,1,1800,0.05,1710.0,1350.0,360.0,Credit Card
+ORD-00768,2024-01-14,CUST-0218,Consumer,Central,Nagpur,Store,Electronics,Headphones,2,2400,0.15,4080.0,3552.0,528.0,Net Banking
+ORD-00245,2024-01-14,CUST-0105,Consumer,Central,Nagpur,Marketplace,Stationery,Printer Paper,4,380,0.0,1520.0,1155.2,364.8,Credit Card
+ORD-00467,2024-01-16,CUST-0096,Small Business,North,Jaipur,Marketplace,Electronics,Headphones,3,2400,0.1,6480.0,5328.0,1152.0,Cash
+ORD-00112,2024-01-16,CUST-0227,Consumer,East,Bhubaneswar,Online,Electronics,Webcam,1,3200,0.15,2720.0,2464.0,256.0,Cash
+ORD-01129,2024-01-19,CUST-0294,Corporate,North,Delhi,Marketplace,Furniture,Office Chair,5,7800,0.0,39000.0,30420.0,8580.0,Net Banking
+ORD-01165,2024-01-19,CUST-0347,Small Business,East,Patna,Online,Electronics,Headphones,5,2400,0.05,11400.0,8880.0,2520.0,Cash
+ORD-00766,2024-01-19,CUST-0138,Corporate,West,Ahmedabad,Store,Electronics,Monitor,1,12500,0.0,12500.0,10500.0,2000.0,Cash
+ORD-00007,2024-01-19,CUST-0033,Consumer,Central,Nagpur,Online,Electronics,Webcam,5,3200,0.05,15200.0,12320.0,2880.0,UPI
+ORD-00928,2024-01-20,CUST-0250,Corporate,North,Chandigarh,Marketplace,Accessories,Wireless Mouse,1,650,0.2,520.0,442.0,78.0,UPI
+ORD-00651,2024-01-20,CUST-0124,Small Business,West,Ahmedabad,Marketplace,Furniture,Study Desk,2,9500,0.0,19000.0,15580.0,3420.0,UPI
+ORD-00072,2024-01-20,CUST-0035,Small Business,Central,Bhopal,Marketplace,Accessories,Keyboard,3,1200,0.0,3600.0,2520.0,1080.0,Net Banking
+ORD-01151,2024-01-20,CUST-0268,Consumer,East,Kolkata,Store,Furniture,Bookshelf,1,6200,0.1,5580.0,4960.0,620.0,UPI
+ORD-00332,2024-01-21,CUST-0277,Small Business,East,Kolkata,Marketplace,Electronics,Headphones,1,2400,0.15,2040.0,1776.0,264.0,Cash
+ORD-01055,2024-01-23,CUST-0181,Small Business,East,Kolkata,Marketplace,Lifestyle,Water Bottle,1,550,0.15,467.5,368.5,99.0,Cash
+ORD-00236,2024-01-23,CUST-0164,Corporate,Central,Nagpur,Store,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,Net Banking
+ORD-00749,2024-01-23,CUST-0071,Corporate,East,Patna,Marketplace,Home Office,Desk Lamp,5,1350,0.2,5400.0,4792.5,607.5,UPI
+ORD-00378,2024-01-24,CUST-0080,Corporate,North,Lucknow,Store,Home Office,Desk Lamp,3,1350,0.15,3442.5,2875.5,567.0,UPI
+ORD-00050,2024-01-25,CUST-0012,Consumer,North,Jaipur,Marketplace,Stationery,Printer Paper,4,380,0.05,1444.0,1155.2,288.8,Credit Card
+ORD-00039,2024-01-26,CUST-0182,Small Business,West,Surat,Store,Stationery,Notebook Pack,2,250,0.0,500.0,325.0,175.0,UPI
+ORD-00514,2024-01-27,CUST-0343,Corporate,Central,Indore,Marketplace,Electronics,Headphones,1,2400,0.0,2400.0,1776.0,624.0,Credit Card
+ORD-00656,2024-01-28,CUST-0172,Consumer,Central,Bhopal,Online,Stationery,Gel Pens,1,120,0.1,108.0,74.4,33.6,Net Banking
+ORD-00783,2024-01-30,CUST-0340,Corporate,East,Bhubaneswar,Store,Electronics,Headphones,2,2400,0.15,4080.0,3552.0,528.0,UPI
+ORD-00655,2024-01-31,CUST-0124,Consumer,West,Surat,Store,Electronics,Headphones,2,2400,0.15,4080.0,3552.0,528.0,Credit Card
+ORD-00373,2024-02-01,CUST-0332,Corporate,East,Bhubaneswar,Store,Lifestyle,Backpack,1,1600,0.0,1600.0,1168.0,432.0,Cash
+ORD-00093,2024-02-03,CUST-0238,Small Business,South,Chennai,Online,Accessories,USB-C Hub,2,1800,0.0,3600.0,2700.0,900.0,Debit Card
+ORD-00157,2024-02-03,CUST-0162,Small Business,East,Patna,Marketplace,Lifestyle,Backpack,1,1600,0.15,1360.0,1168.0,192.0,Net Banking
+ORD-00614,2024-02-04,CUST-0144,Consumer,South,Chennai,Store,Stationery,Gel Pens,2,120,0.2,192.0,148.8,43.2,UPI
+ORD-00487,2024-02-05,CUST-0005,Small Business,West,Pune,Online,Accessories,Laptop Stand,4,850,0.0,3400.0,2448.0,952.0,Credit Card
+ORD-00831,2024-02-05,CUST-0155,Small Business,Central,Indore,Marketplace,Furniture,Bookshelf,4,6200,0.0,24800.0,19840.0,4960.0,UPI
+ORD-00860,2024-02-06,CUST-0053,Consumer,North,Chandigarh,Store,Accessories,Laptop Stand,1,850,0.0,850.0,612.0,238.0,UPI
+ORD-00200,2024-02-06,CUST-0298,Small Business,East,Kolkata,Online,Furniture,Office Chair,1,7800,0.0,7800.0,6084.0,1716.0,Credit Card
+ORD-01048,2024-02-07,CUST-0237,Corporate,North,Jaipur,Marketplace,Stationery,Notebook Pack,5,250,0.2,1000.0,812.5,187.5,Credit Card
+ORD-01085,2024-02-07,CUST-0346,Small Business,West,Ahmedabad,Store,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,Credit Card
+ORD-00473,2024-02-08,CUST-0088,Consumer,East,Guwahati,Store,Home Office,Storage Box,2,480,0.2,768.0,691.2,76.8,Cash
+ORD-00746,2024-02-08,CUST-0123,Corporate,West,Surat,Online,Accessories,Keyboard,4,1200,0.1,4320.0,3360.0,960.0,Debit Card
+ORD-01167,2024-02-09,CUST-0185,Small Business,East,Bhubaneswar,Store,Accessories,USB-C Hub,1,1800,0.1,1620.0,1350.0,270.0,Debit Card
+ORD-00370,2024-02-09,CUST-0201,Consumer,Central,Nagpur,Online,Furniture,Study Desk,2,9500,0.0,19000.0,15580.0,3420.0,Debit Card
+ORD-00877,2024-02-10,CUST-0329,Small Business,South,Hyderabad,Store,Lifestyle,Water Bottle,5,550,0.0,2750.0,1842.5,907.5,Debit Card
+ORD-00413,2024-02-10,CUST-0168,Consumer,South,Kochi,Store,Furniture,Office Chair,3,7800,0.0,23400.0,18252.0,5148.0,UPI
+ORD-00727,2024-02-10,CUST-0155,Small Business,Central,Bhopal,Online,Home Office,Storage Box,1,480,0.0,480.0,345.6,134.4,Net Banking
+ORD-00017,2024-02-10,CUST-0175,Corporate,West,Mumbai,Online,Electronics,Phone Charger,1,750,0.15,637.5,517.5,120.0,Credit Card
+ORD-00448,2024-02-11,CUST-0115,Small Business,East,Guwahati,Online,Stationery,Gel Pens,2,120,0.15,204.0,148.8,55.2,UPI
+ORD-00787,2024-02-13,CUST-0088,Corporate,East,Kolkata,Store,Accessories,Keyboard,4,1200,0.0,4800.0,3360.0,1440.0,Debit Card
+ORD-00402,2024-02-14,CUST-0304,Corporate,East,Guwahati,Online,Electronics,Phone Charger,3,750,0.0,2250.0,1552.5,697.5,Credit Card
+ORD-00270,2024-02-14,CUST-0331,Small Business,South,Hyderabad,Store,Stationery,Notebook Pack,3,250,0.15,637.5,487.5,150.0,Debit Card
+ORD-00371,2024-02-15,CUST-0138,Consumer,West,Surat,Marketplace,Stationery,Gel Pens,3,120,0.1,324.0,223.2,100.8,Cash
+ORD-00848,2024-02-15,CUST-0316,Consumer,North,Chandigarh,Online,Accessories,USB-C Hub,3,1800,0.0,5400.0,4050.0,1350.0,Net Banking
+ORD-00301,2024-02-15,CUST-0052,Consumer,South,Hyderabad,Store,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,UPI
+ORD-00276,2024-02-16,CUST-0174,Corporate,North,Lucknow,Online,Electronics,Headphones,3,2400,0.1,6480.0,5328.0,1152.0,UPI
+ORD-00635,2024-02-17,CUST-0241,Small Business,West,Surat,Store,Electronics,Webcam,2,3200,0.1,5760.0,4928.0,832.0,Net Banking
+ORD-01035,2024-02-17,CUST-0251,Small Business,East,Patna,Online,Lifestyle,Backpack,2,1600,0.1,2880.0,2336.0,544.0,Credit Card
+ORD-01064,2024-02-18,CUST-0294,Consumer,East,Patna,Marketplace,Accessories,Keyboard,4,1200,0.0,4800.0,3360.0,1440.0,Credit Card
+ORD-00028,2024-02-18,CUST-0134,Small Business,Central,Raipur,Online,Electronics,Phone Charger,1,750,0.0,750.0,517.5,232.5,UPI
+ORD-00948,2024-02-19,CUST-0244,Corporate,Central,Raipur,Marketplace,Stationery,Gel Pens,2,120,0.15,204.0,148.8,55.2,Net Banking
+ORD-00051,2024-02-19,CUST-0213,Consumer,West,Surat,Marketplace,Home Office,Desk Lamp,2,1350,0.0,2700.0,1917.0,783.0,Debit Card
+ORD-00500,2024-02-20,CUST-0276,Small Business,East,Patna,Marketplace,Furniture,Bookshelf,2,6200,0.05,11780.0,9920.0,1860.0,Debit Card
+ORD-00339,2024-02-20,CUST-0160,Small Business,East,Bhubaneswar,Marketplace,Electronics,Phone Charger,3,750,0.15,1912.5,1552.5,360.0,UPI
+ORD-00265,2024-02-21,CUST-0317,Corporate,North,Lucknow,Online,Stationery,Gel Pens,1,120,0.1,108.0,74.4,33.6,Debit Card
+ORD-00974,2024-02-21,CUST-0137,Corporate,West,Pune,Marketplace,Furniture,Bookshelf,2,6200,0.0,12400.0,9920.0,2480.0,UPI
+ORD-00711,2024-02-22,CUST-0263,Corporate,North,Chandigarh,Online,Accessories,Laptop Stand,4,850,0.0,3400.0,2448.0,952.0,Debit Card
+ORD-00885,2024-02-22,CUST-0137,Small Business,South,Hyderabad,Marketplace,Accessories,Keyboard,5,1200,0.1,5400.0,4200.0,1200.0,Debit Card
+ORD-00303,2024-02-23,CUST-0214,Consumer,Central,Indore,Marketplace,Stationery,Gel Pens,2,120,0.15,204.0,148.8,55.2,Debit Card
+ORD-00957,2024-02-23,CUST-0148,Corporate,North,Jaipur,Online,Accessories,Laptop Stand,4,850,0.05,3230.0,2448.0,782.0,Cash
+ORD-00186,2024-02-23,CUST-0220,Consumer,West,Surat,Online,Accessories,Laptop Stand,1,850,0.1,765.0,612.0,153.0,Cash
+ORD-00792,2024-02-24,CUST-0180,Consumer,Central,Bhopal,Store,Lifestyle,Backpack,3,1600,0.0,4800.0,3504.0,1296.0,Debit Card
+ORD-00863,2024-02-24,CUST-0004,Small Business,West,Surat,Store,Home Office,Desk Lamp,2,1350,0.1,2430.0,1917.0,513.0,Credit Card
+ORD-00395,2024-02-25,CUST-0305,Small Business,Central,Nagpur,Online,Stationery,Gel Pens,4,120,0.1,432.0,297.6,134.4,UPI
+ORD-00696,2024-02-25,CUST-0197,Consumer,West,Pune,Online,Accessories,Wireless Mouse,2,650,0.15,1105.0,884.0,221.0,Net Banking
+ORD-00757,2024-02-25,CUST-0331,Consumer,West,Mumbai,Store,Furniture,Bookshelf,4,6200,0.15,21080.0,19840.0,1240.0,Net Banking
+ORD-00964,2024-02-26,CUST-0301,Small Business,East,Patna,Marketplace,Accessories,Wireless Mouse,5,650,0.2,2600.0,2210.0,390.0,Net Banking
+ORD-00565,2024-02-26,CUST-0016,Consumer,South,Hyderabad,Online,Stationery,Gel Pens,2,120,0.05,228.0,148.8,79.2,Credit Card
+ORD-00934,2024-02-27,CUST-0065,Small Business,North,Jaipur,Online,Furniture,Study Desk,5,9500,0.1,42750.0,38950.0,3800.0,Debit Card
+ORD-00132,2024-02-27,CUST-0065,Corporate,Central,Raipur,Store,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,Net Banking
+ORD-00443,2024-02-28,CUST-0321,Corporate,Central,Raipur,Online,Electronics,Headphones,2,2400,0.05,4560.0,3552.0,1008.0,Credit Card
+ORD-00834,2024-02-28,CUST-0232,Consumer,Central,Nagpur,Marketplace,Accessories,Wireless Mouse,2,650,0.15,1105.0,884.0,221.0,Cash
+ORD-00204,2024-02-28,CUST-0174,Small Business,East,Patna,Store,Electronics,Monitor,4,12500,0.2,40000.0,42000.0,-2000.0,Cash
+ORD-01100,2024-02-28,CUST-0327,Consumer,Central,Nagpur,Store,Accessories,USB-C Hub,5,1800,0.1,8100.0,6750.0,1350.0,Net Banking
+ORD-01152,2024-02-29,CUST-0091,Consumer,Central,Bhopal,Marketplace,Stationery,Printer Paper,3,380,0.15,969.0,866.4,102.6,UPI
+ORD-00170,2024-03-01,CUST-0141,Corporate,East,Patna,Marketplace,Electronics,Phone Charger,1,750,0.0,750.0,517.5,232.5,Debit Card
+ORD-00510,2024-03-04,CUST-0128,Small Business,West,Ahmedabad,Store,Accessories,Keyboard,3,1200,0.15,3060.0,2520.0,540.0,Credit Card
+ORD-01183,2024-03-05,CUST-0111,Consumer,East,Kolkata,Marketplace,Furniture,Bookshelf,2,6200,0.0,12400.0,9920.0,2480.0,UPI
+ORD-01121,2024-03-05,CUST-0184,Small Business,Central,Bhopal,Marketplace,Accessories,Keyboard,1,1200,0.2,960.0,840.0,120.0,Debit Card
+ORD-00906,2024-03-05,CUST-0158,Corporate,Central,Raipur,Store,Furniture,Study Desk,1,9500,0.0,9500.0,7790.0,1710.0,UPI
+ORD-01194,2024-03-06,CUST-0025,Consumer,South,Kochi,Marketplace,Accessories,USB-C Hub,2,1800,0.0,3600.0,2700.0,900.0,Net Banking
+ORD-01026,2024-03-06,CUST-0235,Corporate,South,Chennai,Store,Accessories,Keyboard,1,1200,0.1,1080.0,840.0,240.0,Net Banking
+ORD-00366,2024-03-06,CUST-0112,Corporate,East,Guwahati,Marketplace,Stationery,Gel Pens,1,120,0.0,120.0,74.4,45.6,Debit Card
+ORD-00273,2024-03-08,CUST-0021,Consumer,Central,Raipur,Marketplace,Lifestyle,Backpack,2,1600,0.2,2560.0,2336.0,224.0,Debit Card
+ORD-00293,2024-03-08,CUST-0257,Consumer,West,Surat,Online,Home Office,Desk Lamp,3,1350,0.2,3240.0,2875.5,364.5,Cash
+ORD-01195,2024-03-10,CUST-0039,Consumer,Central,Bhopal,Marketplace,Electronics,Headphones,1,2400,0.05,2280.0,1776.0,504.0,UPI
+ORD-00308,2024-03-11,CUST-0194,Consumer,West,Ahmedabad,Online,Lifestyle,Water Bottle,2,550,0.1,990.0,737.0,253.0,Credit Card
+ORD-01038,2024-03-11,CUST-0081,Consumer,South,Hyderabad,Online,Home Office,Desk Lamp,4,1350,0.0,5400.0,3834.0,1566.0,Cash
+ORD-00618,2024-03-11,CUST-0081,Corporate,West,Surat,Online,Electronics,Monitor,5,12500,0.0,62500.0,52500.0,10000.0,UPI
+ORD-00410,2024-03-12,CUST-0053,Consumer,West,Pune,Online,Stationery,Notebook Pack,3,250,0.05,712.5,487.5,225.0,Cash
+ORD-00845,2024-03-12,CUST-0133,Consumer,South,Bengaluru,Online,Furniture,Office Chair,5,7800,0.15,33150.0,30420.0,2730.0,Debit Card
+ORD-01054,2024-03-13,CUST-0196,Corporate,South,Chennai,Marketplace,Furniture,Office Chair,2,7800,0.0,15600.0,12168.0,3432.0,Cash
+ORD-00031,2024-03-13,CUST-0019,Small Business,West,Surat,Online,Accessories,Wireless Mouse,5,650,0.0,3250.0,2210.0,1040.0,UPI
+ORD-00763,2024-03-14,CUST-0291,Consumer,South,Bengaluru,Store,Lifestyle,Backpack,2,1600,0.15,2720.0,2336.0,384.0,UPI
+ORD-00806,2024-03-14,CUST-0138,Consumer,West,Ahmedabad,Online,Accessories,Wireless Mouse,1,650,0.05,617.5,442.0,175.5,Net Banking
+ORD-00340,2024-03-15,CUST-0346,Consumer,North,Lucknow,Online,Accessories,Keyboard,5,1200,0.05,5700.0,4200.0,1500.0,Debit Card
+ORD-00719,2024-03-15,CUST-0086,Small Business,Central,Bhopal,Store,Accessories,USB-C Hub,3,1800,0.05,5130.0,4050.0,1080.0,Cash
+ORD-00433,2024-03-15,CUST-0129,Small Business,South,Hyderabad,Marketplace,Stationery,Notebook Pack,5,250,0.1,1125.0,812.5,312.5,Debit Card
+ORD-00140,2024-03-16,CUST-0019,Consumer,Central,Nagpur,Online,Accessories,Wireless Mouse,2,650,0.15,1105.0,884.0,221.0,Net Banking
+ORD-01032,2024-03-16,CUST-0326,Consumer,Central,Nagpur,Marketplace,Lifestyle,Water Bottle,4,550,0.2,1760.0,1474.0,286.0,Debit Card
+ORD-00022,2024-03-16,CUST-0320,Corporate,North,Lucknow,Marketplace,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,Credit Card
+ORD-01164,2024-03-17,CUST-0266,Small Business,Central,Indore,Online,Furniture,Office Chair,2,7800,0.0,15600.0,12168.0,3432.0,UPI
+ORD-01025,2024-03-18,CUST-0096,Consumer,Central,Indore,Online,Furniture,Bookshelf,2,6200,0.2,9920.0,9920.0,0.0,Cash
+ORD-00949,2024-03-18,CUST-0329,Small Business,East,Guwahati,Online,Electronics,Webcam,3,3200,0.0,9600.0,7392.0,2208.0,Credit Card
+ORD-01185,2024-03-20,CUST-0108,Small Business,East,Guwahati,Marketplace,Accessories,Laptop Stand,3,850,0.1,2295.0,1836.0,459.0,Credit Card
+ORD-00636,2024-03-20,CUST-0254,Corporate,South,Kochi,Store,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,Debit Card
+ORD-00274,2024-03-20,CUST-0051,Small Business,West,Surat,Store,Electronics,Headphones,3,2400,0.1,6480.0,5328.0,1152.0,Credit Card
+ORD-00676,2024-03-21,CUST-0020,Small Business,East,Guwahati,Marketplace,Accessories,Laptop Stand,1,850,0.1,765.0,612.0,153.0,Net Banking
+ORD-01014,2024-03-21,CUST-0185,Corporate,West,Surat,Store,Stationery,Gel Pens,4,120,0.15,408.0,297.6,110.4,UPI
+ORD-00363,2024-03-22,CUST-0298,Consumer,West,Surat,Store,Stationery,Gel Pens,4,120,0.05,456.0,297.6,158.4,Cash
+ORD-00187,2024-03-23,CUST-0335,Small Business,West,Pune,Online,Electronics,Monitor,2,12500,0.1,22500.0,21000.0,1500.0,Cash
+ORD-00649,2024-03-23,CUST-0268,Consumer,Central,Bhopal,Marketplace,Home Office,Desk Lamp,3,1350,0.05,3847.5,2875.5,972.0,Debit Card
+ORD-00864,2024-03-24,CUST-0325,Small Business,East,Bhubaneswar,Online,Electronics,Phone Charger,1,750,0.05,712.5,517.5,195.0,Net Banking
+ORD-00255,2024-03-25,CUST-0053,Corporate,North,Jaipur,Marketplace,Home Office,Storage Box,2,480,0.1,864.0,691.2,172.8,Cash
+ORD-00607,2024-03-25,CUST-0126,Corporate,North,Lucknow,Marketplace,Stationery,Gel Pens,2,120,0.1,216.0,148.8,67.2,Cash
+ORD-00528,2024-03-26,CUST-0053,Corporate,East,Kolkata,Marketplace,Lifestyle,Backpack,2,1600,0.1,2880.0,2336.0,544.0,Cash
+ORD-00797,2024-03-26,CUST-0278,Small Business,South,Chennai,Marketplace,Accessories,Wireless Mouse,4,650,0.2,2080.0,1768.0,312.0,UPI
+ORD-00347,2024-03-26,CUST-0040,Corporate,West,Pune,Store,Electronics,Monitor,2,12500,0.0,25000.0,21000.0,4000.0,Credit Card
+ORD-00456,2024-03-27,CUST-0029,Consumer,West,Pune,Marketplace,Lifestyle,Water Bottle,1,550,0.0,550.0,368.5,181.5,UPI
+ORD-00089,2024-03-27,CUST-0335,Small Business,West,Ahmedabad,Marketplace,Stationery,Notebook Pack,5,250,0.05,1187.5,812.5,375.0,Credit Card
+ORD-00047,2024-03-28,CUST-0176,Consumer,South,Chennai,Online,Electronics,Webcam,1,3200,0.1,2880.0,2464.0,416.0,Credit Card
+ORD-00177,2024-03-28,CUST-0090,Small Business,South,Kochi,Marketplace,Home Office,Desk Lamp,2,1350,0.1,2430.0,1917.0,513.0,Credit Card
+ORD-01045,2024-03-29,CUST-0171,Small Business,South,Bengaluru,Online,Home Office,Storage Box,1,480,0.0,480.0,345.6,134.4,UPI
+ORD-00693,2024-03-29,CUST-0154,Small Business,West,Surat,Store,Accessories,USB-C Hub,2,1800,0.0,3600.0,2700.0,900.0,Net Banking
+ORD-00515,2024-03-30,CUST-0321,Consumer,Central,Raipur,Marketplace,Furniture,Study Desk,2,9500,0.05,18050.0,15580.0,2470.0,Net Banking
+ORD-00572,2024-03-30,CUST-0233,Small Business,South,Hyderabad,Store,Furniture,Bookshelf,2,6200,0.1,11160.0,9920.0,1240.0,UPI
+ORD-00644,2024-03-31,CUST-0275,Small Business,West,Pune,Marketplace,Furniture,Office Chair,1,7800,0.05,7410.0,6084.0,1326.0,Debit Card
+ORD-00180,2024-04-01,CUST-0083,Consumer,East,Guwahati,Marketplace,Stationery,Gel Pens,2,120,0.0,240.0,148.8,91.2,Credit Card
+ORD-00056,2024-04-01,CUST-0081,Small Business,North,Jaipur,Store,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,Net Banking
+ORD-00392,2024-04-03,CUST-0037,Small Business,West,Surat,Online,Electronics,Headphones,2,2400,0.0,4800.0,3552.0,1248.0,Credit Card
+ORD-00095,2024-04-05,CUST-0060,Small Business,South,Kochi,Store,Home Office,Storage Box,2,480,0.2,768.0,691.2,76.8,Credit Card
+ORD-00014,2024-04-05,CUST-0039,Small Business,North,Delhi,Online,Furniture,Bookshelf,5,6200,0.1,27900.0,24800.0,3100.0,Debit Card
+ORD-00675,2024-04-06,CUST-0284,Consumer,West,Pune,Online,Electronics,Phone Charger,3,750,0.0,2250.0,1552.5,697.5,Debit Card
+ORD-00449,2024-04-08,CUST-0157,Small Business,North,Lucknow,Marketplace,Furniture,Office Chair,3,7800,0.15,19890.0,18252.0,1638.0,Debit Card
+ORD-00389,2024-04-08,CUST-0282,Small Business,North,Jaipur,Store,Furniture,Office Chair,1,7800,0.05,7410.0,6084.0,1326.0,UPI
+ORD-00828,2024-04-09,CUST-0189,Consumer,South,Bengaluru,Store,Electronics,Headphones,4,2400,0.05,9120.0,7104.0,2016.0,Credit Card
+ORD-00129,2024-04-10,CUST-0081,Corporate,East,Kolkata,Online,Accessories,Wireless Mouse,2,650,0.0,1300.0,884.0,416.0,Credit Card
+ORD-00121,2024-04-11,CUST-0152,Consumer,South,Kochi,Online,Lifestyle,Water Bottle,2,550,0.0,1100.0,737.0,363.0,Credit Card
+ORD-00854,2024-04-12,CUST-0328,Consumer,Central,Bhopal,Online,Home Office,Storage Box,2,480,0.0,960.0,691.2,268.8,Credit Card
+ORD-00013,2024-04-13,CUST-0065,Corporate,North,Chandigarh,Online,Electronics,Monitor,3,12500,0.1,33750.0,31500.0,2250.0,Net Banking
+ORD-00634,2024-04-13,CUST-0115,Consumer,East,Kolkata,Store,Stationery,Gel Pens,3,120,0.1,324.0,223.2,100.8,Net Banking
+ORD-00214,2024-04-13,CUST-0147,Small Business,Central,Indore,Marketplace,Accessories,USB-C Hub,3,1800,0.0,5400.0,4050.0,1350.0,Net Banking
+ORD-00239,2024-04-14,CUST-0322,Consumer,East,Patna,Online,Electronics,Webcam,3,3200,0.1,8640.0,7392.0,1248.0,Debit Card
+ORD-00781,2024-04-14,CUST-0047,Small Business,West,Mumbai,Store,Furniture,Office Chair,5,7800,0.15,33150.0,30420.0,2730.0,UPI
+ORD-00563,2024-04-15,CUST-0072,Small Business,East,Bhubaneswar,Marketplace,Electronics,Monitor,3,12500,0.0,37500.0,31500.0,6000.0,Cash
+ORD-00407,2024-04-15,CUST-0214,Small Business,Central,Nagpur,Online,Stationery,Notebook Pack,2,250,0.15,425.0,325.0,100.0,Cash
+ORD-01178,2024-04-16,CUST-0319,Small Business,Central,Nagpur,Online,Electronics,Phone Charger,1,750,0.1,675.0,517.5,157.5,Net Banking
+ORD-00564,2024-04-16,CUST-0167,Consumer,North,Lucknow,Online,Accessories,Laptop Stand,3,850,0.0,2550.0,1836.0,714.0,Credit Card
+ORD-01148,2024-04-17,CUST-0305,Consumer,South,Bengaluru,Marketplace,Electronics,Phone Charger,1,750,0.1,675.0,517.5,157.5,UPI
+ORD-01125,2024-04-18,CUST-0257,Consumer,South,Hyderabad,Store,Accessories,Wireless Mouse,3,650,0.05,1852.5,1326.0,526.5,Credit Card
+ORD-00820,2024-04-18,CUST-0335,Corporate,South,Kochi,Marketplace,Stationery,Notebook Pack,4,250,0.15,850.0,650.0,200.0,Cash
+ORD-00021,2024-04-19,CUST-0347,Small Business,West,Pune,Store,Accessories,USB-C Hub,4,1800,0.15,6120.0,5400.0,720.0,UPI
+ORD-00591,2024-04-20,CUST-0102,Small Business,North,Delhi,Marketplace,Electronics,Headphones,1,2400,0.05,2280.0,1776.0,504.0,Cash
+ORD-00851,2024-04-20,CUST-0144,Consumer,North,Delhi,Store,Stationery,Notebook Pack,3,250,0.0,750.0,487.5,262.5,Cash
+ORD-00646,2024-04-20,CUST-0148,Consumer,Central,Bhopal,Store,Home Office,Storage Box,2,480,0.0,960.0,691.2,268.8,Cash
+ORD-00712,2024-04-20,CUST-0245,Corporate,West,Surat,Online,Stationery,Gel Pens,3,120,0.2,288.0,223.2,64.8,Cash
+ORD-00740,2024-04-21,CUST-0024,Corporate,West,Pune,Marketplace,Lifestyle,Backpack,2,1600,0.0,3200.0,2336.0,864.0,Cash
+ORD-01191,2024-04-22,CUST-0239,Corporate,West,Ahmedabad,Marketplace,Electronics,Headphones,1,2400,0.1,2160.0,1776.0,384.0,UPI
+ORD-01172,2024-04-22,CUST-0140,Small Business,North,Chandigarh,Marketplace,Home Office,Storage Box,4,480,0.2,1536.0,1382.4,153.6,Debit Card
+ORD-00318,2024-04-22,CUST-0317,Small Business,North,Lucknow,Online,Accessories,Laptop Stand,1,850,0.1,765.0,612.0,153.0,UPI
+ORD-00482,2024-04-22,CUST-0117,Corporate,East,Kolkata,Store,Stationery,Notebook Pack,2,250,0.0,500.0,325.0,175.0,UPI
+ORD-00847,2024-04-23,CUST-0256,Corporate,East,Guwahati,Marketplace,Furniture,Study Desk,1,9500,0.0,9500.0,7790.0,1710.0,Debit Card
+ORD-00495,2024-04-23,CUST-0265,Corporate,East,Patna,Online,Lifestyle,Backpack,1,1600,0.05,1520.0,1168.0,352.0,Debit Card
+ORD-01179,2024-04-23,CUST-0096,Corporate,Central,Raipur,Store,Home Office,Storage Box,1,480,0.05,456.0,345.6,110.4,UPI
+ORD-00261,2024-04-23,CUST-0159,Corporate,South,Hyderabad,Online,Accessories,Laptop Stand,2,850,0.15,1445.0,1224.0,221.0,Debit Card
+ORD-00217,2024-04-24,CUST-0111,Consumer,North,Lucknow,Online,Accessories,Wireless Mouse,2,650,0.0,1300.0,884.0,416.0,Net Banking
+ORD-00745,2024-04-24,CUST-0001,Small Business,South,Chennai,Store,Home Office,Desk Lamp,3,1350,0.0,4050.0,2875.5,1174.5,Cash
+ORD-00898,2024-04-25,CUST-0296,Small Business,North,Lucknow,Marketplace,Stationery,Gel Pens,2,120,0.05,228.0,148.8,79.2,Cash
+ORD-00241,2024-04-27,CUST-0259,Consumer,North,Chandigarh,Store,Electronics,Monitor,3,12500,0.0,37500.0,31500.0,6000.0,Debit Card
+ORD-00941,2024-04-27,CUST-0223,Consumer,South,Bengaluru,Online,Stationery,Notebook Pack,1,250,0.1,225.0,162.5,62.5,Debit Card
+ORD-00445,2024-04-28,CUST-0209,Consumer,North,Chandigarh,Store,Electronics,Webcam,3,3200,0.0,9600.0,7392.0,2208.0,Cash
+ORD-00054,2024-04-28,CUST-0193,Consumer,Central,Indore,Store,Furniture,Bookshelf,2,6200,0.0,12400.0,9920.0,2480.0,Cash
+ORD-00866,2024-04-29,CUST-0295,Consumer,West,Surat,Marketplace,Furniture,Bookshelf,1,6200,0.15,5270.0,4960.0,310.0,Cash
+ORD-00522,2024-04-29,CUST-0077,Corporate,East,Guwahati,Online,Electronics,Phone Charger,1,750,0.0,750.0,517.5,232.5,Debit Card
+ORD-00225,2024-04-29,CUST-0282,Small Business,South,Hyderabad,Online,Accessories,Laptop Stand,3,850,0.05,2422.5,1836.0,586.5,Net Banking
+ORD-01135,2024-04-29,CUST-0049,Small Business,North,Lucknow,Store,Lifestyle,Backpack,2,1600,0.05,3040.0,2336.0,704.0,Cash
+ORD-00639,2024-04-29,CUST-0015,Corporate,North,Delhi,Marketplace,Home Office,Storage Box,2,480,0.15,816.0,691.2,124.8,UPI
+ORD-00178,2024-04-29,CUST-0135,Small Business,North,Lucknow,Online,Lifestyle,Backpack,1,1600,0.0,1600.0,1168.0,432.0,Cash
+ORD-00704,2024-04-30,CUST-0232,Corporate,West,Mumbai,Online,Furniture,Office Chair,1,7800,0.15,6630.0,6084.0,546.0,UPI
+ORD-00899,2024-04-30,CUST-0088,Corporate,West,Pune,Marketplace,Electronics,Monitor,1,12500,0.1,11250.0,10500.0,750.0,Net Banking
+ORD-00605,2024-05-02,CUST-0119,Corporate,Central,Bhopal,Online,Stationery,Gel Pens,3,120,0.1,324.0,223.2,100.8,Net Banking
+ORD-00954,2024-05-04,CUST-0052,Corporate,South,Bengaluru,Store,Stationery,Printer Paper,1,380,0.05,361.0,288.8,72.2,Net Banking
+ORD-00871,2024-05-05,CUST-0097,Corporate,East,Kolkata,Online,Accessories,USB-C Hub,1,1800,0.2,1440.0,1350.0,90.0,UPI
+ORD-00358,2024-05-06,CUST-0177,Small Business,West,Ahmedabad,Online,Electronics,Monitor,2,12500,0.0,25000.0,21000.0,4000.0,Credit Card
+ORD-00356,2024-05-06,CUST-0073,Corporate,North,Jaipur,Online,Home Office,Storage Box,2,480,0.0,960.0,691.2,268.8,Net Banking
+ORD-00553,2024-05-07,CUST-0160,Corporate,Central,Nagpur,Marketplace,Furniture,Office Chair,3,7800,0.2,18720.0,18252.0,468.0,UPI
+ORD-00672,2024-05-07,CUST-0128,Small Business,North,Lucknow,Store,Lifestyle,Water Bottle,1,550,0.2,440.0,368.5,71.5,Net Banking
+ORD-00782,2024-05-07,CUST-0248,Small Business,East,Bhubaneswar,Store,Furniture,Bookshelf,1,6200,0.2,4960.0,4960.0,0.0,Net Banking
+ORD-00996,2024-05-08,CUST-0113,Consumer,West,Mumbai,Marketplace,Stationery,Notebook Pack,4,250,0.0,1000.0,650.0,350.0,Net Banking
+ORD-01149,2024-05-09,CUST-0001,Corporate,East,Bhubaneswar,Store,Home Office,Desk Lamp,3,1350,0.2,3240.0,2875.5,364.5,Debit Card
+ORD-01147,2024-05-09,CUST-0045,Small Business,West,Ahmedabad,Store,Accessories,Laptop Stand,1,850,0.2,680.0,612.0,68.0,Cash
+ORD-00462,2024-05-09,CUST-0136,Corporate,West,Ahmedabad,Store,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,Net Banking
+ORD-01120,2024-05-11,CUST-0068,Small Business,South,Chennai,Online,Furniture,Bookshelf,2,6200,0.0,12400.0,9920.0,2480.0,Credit Card
+ORD-00331,2024-05-11,CUST-0036,Small Business,South,Chennai,Marketplace,Lifestyle,Water Bottle,2,550,0.05,1045.0,737.0,308.0,UPI
+ORD-00355,2024-05-12,CUST-0299,Small Business,East,Guwahati,Store,Accessories,Wireless Mouse,4,650,0.05,2470.0,1768.0,702.0,UPI
+ORD-00298,2024-05-13,CUST-0176,Corporate,South,Chennai,Marketplace,Home Office,Storage Box,1,480,0.15,408.0,345.6,62.4,Net Banking
+ORD-00501,2024-05-13,CUST-0048,Small Business,South,Hyderabad,Marketplace,Furniture,Study Desk,1,9500,0.1,8550.0,7790.0,760.0,Cash
+ORD-00033,2024-05-15,CUST-0193,Corporate,South,Bengaluru,Online,Furniture,Study Desk,2,9500,0.15,16150.0,15580.0,570.0,Net Banking
+ORD-00325,2024-05-15,CUST-0149,Corporate,South,Hyderabad,Marketplace,Stationery,Notebook Pack,2,250,0.0,500.0,325.0,175.0,Cash
+ORD-00965,2024-05-17,CUST-0015,Consumer,East,Kolkata,Store,Stationery,Notebook Pack,1,250,0.05,237.5,162.5,75.0,Credit Card
+ORD-00284,2024-05-17,CUST-0331,Small Business,West,Pune,Store,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,UPI
+ORD-00942,2024-05-18,CUST-0281,Consumer,West,Ahmedabad,Store,Accessories,Keyboard,5,1200,0.1,5400.0,4200.0,1200.0,Cash
+ORD-00987,2024-05-18,CUST-0122,Corporate,Central,Nagpur,Store,Furniture,Bookshelf,1,6200,0.1,5580.0,4960.0,620.0,Debit Card
+ORD-00267,2024-05-20,CUST-0045,Consumer,Central,Nagpur,Online,Stationery,Gel Pens,4,120,0.1,432.0,297.6,134.4,UPI
+ORD-00486,2024-05-20,CUST-0186,Small Business,North,Chandigarh,Store,Furniture,Bookshelf,1,6200,0.2,4960.0,4960.0,0.0,Credit Card
+ORD-00874,2024-05-20,CUST-0103,Corporate,Central,Raipur,Store,Furniture,Study Desk,2,9500,0.15,16150.0,15580.0,570.0,Debit Card
+ORD-00316,2024-05-21,CUST-0026,Corporate,East,Kolkata,Store,Furniture,Study Desk,1,9500,0.05,9025.0,7790.0,1235.0,Credit Card
+ORD-01007,2024-05-21,CUST-0317,Corporate,South,Hyderabad,Online,Electronics,Headphones,2,2400,0.1,4320.0,3552.0,768.0,Net Banking
+ORD-00894,2024-05-22,CUST-0277,Small Business,East,Bhubaneswar,Online,Stationery,Gel Pens,2,120,0.0,240.0,148.8,91.2,Net Banking
+ORD-00910,2024-05-22,CUST-0296,Corporate,South,Bengaluru,Marketplace,Electronics,Webcam,3,3200,0.1,8640.0,7392.0,1248.0,Cash
+ORD-00602,2024-05-22,CUST-0175,Consumer,South,Chennai,Store,Home Office,Desk Lamp,4,1350,0.0,5400.0,3834.0,1566.0,Credit Card
+ORD-00409,2024-05-22,CUST-0212,Corporate,South,Chennai,Marketplace,Stationery,Gel Pens,3,120,0.15,306.0,223.2,82.8,UPI
+ORD-01160,2024-05-23,CUST-0301,Corporate,West,Mumbai,Online,Electronics,Headphones,5,2400,0.0,12000.0,8880.0,3120.0,UPI
+ORD-00254,2024-05-23,CUST-0090,Corporate,West,Pune,Store,Furniture,Study Desk,4,9500,0.0,38000.0,31160.0,6840.0,Credit Card
+ORD-00481,2024-05-24,CUST-0086,Corporate,West,Pune,Marketplace,Electronics,Phone Charger,1,750,0.1,675.0,517.5,157.5,Credit Card
+ORD-01099,2024-05-25,CUST-0026,Corporate,South,Hyderabad,Online,Electronics,Headphones,4,2400,0.0,9600.0,7104.0,2496.0,Net Banking
+ORD-00751,2024-05-27,CUST-0097,Consumer,West,Mumbai,Online,Electronics,Headphones,4,2400,0.05,9120.0,7104.0,2016.0,Cash
+ORD-01128,2024-05-28,CUST-0214,Consumer,South,Bengaluru,Marketplace,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,Credit Card
+ORD-00956,2024-05-28,CUST-0279,Consumer,Central,Raipur,Marketplace,Furniture,Study Desk,3,9500,0.15,24225.0,23370.0,855.0,Debit Card
+ORD-00176,2024-05-29,CUST-0077,Corporate,Central,Indore,Online,Electronics,Webcam,3,3200,0.05,9120.0,7392.0,1728.0,Debit Card
+ORD-00764,2024-05-30,CUST-0196,Consumer,North,Lucknow,Online,Furniture,Office Chair,1,7800,0.0,7800.0,6084.0,1716.0,Debit Card
+ORD-01031,2024-05-30,CUST-0067,Small Business,Central,Raipur,Store,Stationery,Printer Paper,3,380,0.0,1140.0,866.4,273.6,Net Banking
+ORD-00993,2024-05-31,CUST-0320,Consumer,North,Lucknow,Store,Home Office,Desk Lamp,5,1350,0.05,6412.5,4792.5,1620.0,Credit Card
+ORD-00536,2024-06-02,CUST-0324,Small Business,South,Chennai,Online,Accessories,USB-C Hub,1,1800,0.2,1440.0,1350.0,90.0,Credit Card
+ORD-00583,2024-06-02,CUST-0011,Small Business,South,Kochi,Marketplace,Accessories,Keyboard,2,1200,0.1,2160.0,1680.0,480.0,Cash
+ORD-00706,2024-06-03,CUST-0143,Small Business,North,Chandigarh,Online,Lifestyle,Backpack,2,1600,0.1,2880.0,2336.0,544.0,Net Banking
+ORD-00100,2024-06-03,CUST-0218,Small Business,Central,Bhopal,Online,Furniture,Bookshelf,2,6200,0.05,11780.0,9920.0,1860.0,Cash
+ORD-00330,2024-06-04,CUST-0121,Small Business,East,Kolkata,Marketplace,Accessories,USB-C Hub,2,1800,0.2,2880.0,2700.0,180.0,UPI
+ORD-00975,2024-06-05,CUST-0258,Small Business,South,Hyderabad,Online,Accessories,USB-C Hub,2,1800,0.2,2880.0,2700.0,180.0,Net Banking
+ORD-00691,2024-06-05,CUST-0329,Corporate,South,Kochi,Marketplace,Lifestyle,Water Bottle,1,550,0.15,467.5,368.5,99.0,Net Banking
+ORD-01122,2024-06-05,CUST-0223,Corporate,North,Lucknow,Marketplace,Furniture,Study Desk,1,9500,0.05,9025.0,7790.0,1235.0,Net Banking
+ORD-00923,2024-06-07,CUST-0288,Consumer,South,Kochi,Marketplace,Accessories,Wireless Mouse,5,650,0.0,3250.0,2210.0,1040.0,UPI
+ORD-01109,2024-06-08,CUST-0117,Consumer,Central,Indore,Online,Home Office,Desk Lamp,4,1350,0.05,5130.0,3834.0,1296.0,Net Banking
+ORD-00723,2024-06-08,CUST-0078,Small Business,West,Pune,Store,Electronics,Phone Charger,2,750,0.05,1425.0,1035.0,390.0,Debit Card
+ORD-00755,2024-06-09,CUST-0033,Corporate,East,Patna,Store,Home Office,Desk Lamp,2,1350,0.1,2430.0,1917.0,513.0,UPI
+ORD-00440,2024-06-10,CUST-0139,Consumer,West,Mumbai,Online,Stationery,Notebook Pack,5,250,0.0,1250.0,812.5,437.5,Cash
+ORD-00626,2024-06-12,CUST-0067,Corporate,North,Chandigarh,Store,Stationery,Gel Pens,2,120,0.0,240.0,148.8,91.2,Debit Card
+ORD-01173,2024-06-12,CUST-0063,Corporate,North,Chandigarh,Online,Furniture,Bookshelf,3,6200,0.15,15810.0,14880.0,930.0,UPI
+ORD-00613,2024-06-12,CUST-0212,Consumer,East,Patna,Marketplace,Electronics,Headphones,3,2400,0.05,6840.0,5328.0,1512.0,Net Banking
+ORD-01006,2024-06-13,CUST-0302,Corporate,East,Guwahati,Store,Stationery,Printer Paper,2,380,0.1,684.0,577.6,106.4,UPI
+ORD-00567,2024-06-13,CUST-0004,Small Business,South,Hyderabad,Store,Lifestyle,Backpack,1,1600,0.0,1600.0,1168.0,432.0,Cash
+ORD-00173,2024-06-15,CUST-0035,Consumer,North,Chandigarh,Store,Home Office,Storage Box,2,480,0.0,960.0,691.2,268.8,Credit Card
+ORD-00637,2024-06-15,CUST-0021,Consumer,East,Patna,Online,Home Office,Storage Box,1,480,0.1,432.0,345.6,86.4,Net Banking
+ORD-00822,2024-06-15,CUST-0028,Small Business,West,Surat,Online,Accessories,USB-C Hub,2,1800,0.0,3600.0,2700.0,900.0,Cash
+ORD-00334,2024-06-15,CUST-0342,Corporate,North,Delhi,Store,Lifestyle,Backpack,1,1600,0.05,1520.0,1168.0,352.0,UPI
+ORD-00048,2024-06-16,CUST-0338,Small Business,North,Jaipur,Marketplace,Home Office,Storage Box,1,480,0.05,456.0,345.6,110.4,UPI
+ORD-00329,2024-06-17,CUST-0033,Consumer,South,Hyderabad,Online,Stationery,Gel Pens,3,120,0.1,324.0,223.2,100.8,UPI
+ORD-00958,2024-06-19,CUST-0314,Small Business,Central,Nagpur,Store,Accessories,USB-C Hub,2,1800,0.15,3060.0,2700.0,360.0,Cash
+ORD-00714,2024-06-20,CUST-0255,Small Business,South,Kochi,Store,Lifestyle,Water Bottle,1,550,0.0,550.0,368.5,181.5,Cash
+ORD-00384,2024-06-21,CUST-0064,Corporate,North,Delhi,Store,Furniture,Bookshelf,2,6200,0.05,11780.0,9920.0,1860.0,Net Banking
+ORD-00036,2024-06-21,CUST-0272,Small Business,Central,Nagpur,Online,Stationery,Notebook Pack,5,250,0.15,1062.5,812.5,250.0,Credit Card
+ORD-00801,2024-06-22,CUST-0083,Corporate,South,Chennai,Store,Furniture,Study Desk,2,9500,0.05,18050.0,15580.0,2470.0,Cash
+ORD-00045,2024-06-24,CUST-0106,Corporate,Central,Raipur,Marketplace,Stationery,Gel Pens,1,120,0.1,108.0,74.4,33.6,UPI
+ORD-00925,2024-06-24,CUST-0134,Consumer,West,Mumbai,Online,Home Office,Storage Box,2,480,0.0,960.0,691.2,268.8,Debit Card
+ORD-00617,2024-06-24,CUST-0202,Consumer,East,Patna,Online,Electronics,Webcam,1,3200,0.1,2880.0,2464.0,416.0,UPI
+ORD-01101,2024-06-24,CUST-0274,Consumer,North,Jaipur,Online,Home Office,Desk Lamp,1,1350,0.15,1147.5,958.5,189.0,Debit Card
+ORD-00491,2024-06-25,CUST-0216,Corporate,South,Kochi,Marketplace,Stationery,Notebook Pack,3,250,0.0,750.0,487.5,262.5,UPI
+ORD-00715,2024-06-25,CUST-0170,Consumer,Central,Nagpur,Store,Stationery,Printer Paper,4,380,0.0,1520.0,1155.2,364.8,Debit Card
+ORD-01132,2024-06-26,CUST-0177,Corporate,West,Ahmedabad,Online,Home Office,Storage Box,2,480,0.05,912.0,691.2,220.8,Net Banking
+ORD-00024,2024-06-28,CUST-0315,Small Business,East,Kolkata,Online,Accessories,Keyboard,2,1200,0.0,2400.0,1680.0,720.0,Cash
+ORD-00589,2024-06-29,CUST-0153,Corporate,South,Kochi,Marketplace,Accessories,USB-C Hub,2,1800,0.15,3060.0,2700.0,360.0,Cash
+ORD-00585,2024-06-29,CUST-0192,Corporate,East,Kolkata,Online,Electronics,Monitor,5,12500,0.05,59375.0,52500.0,6875.0,Net Banking
+ORD-00375,2024-06-29,CUST-0291,Small Business,North,Lucknow,Online,Stationery,Notebook Pack,1,250,0.0,250.0,162.5,87.5,UPI
+ORD-00226,2024-07-01,CUST-0343,Consumer,East,Patna,Marketplace,Accessories,USB-C Hub,1,1800,0.05,1710.0,1350.0,360.0,UPI
+ORD-00869,2024-07-01,CUST-0016,Consumer,South,Chennai,Marketplace,Home Office,Desk Lamp,1,1350,0.2,1080.0,958.5,121.5,Credit Card
+ORD-00472,2024-07-03,CUST-0158,Consumer,East,Patna,Marketplace,Furniture,Study Desk,1,9500,0.0,9500.0,7790.0,1710.0,Net Banking
+ORD-01116,2024-07-03,CUST-0256,Corporate,North,Delhi,Online,Lifestyle,Water Bottle,2,550,0.1,990.0,737.0,253.0,Credit Card
+ORD-00540,2024-07-04,CUST-0052,Small Business,Central,Raipur,Online,Furniture,Study Desk,3,9500,0.0,28500.0,23370.0,5130.0,Debit Card
+ORD-00259,2024-07-04,CUST-0316,Corporate,South,Bengaluru,Store,Furniture,Study Desk,3,9500,0.1,25650.0,23370.0,2280.0,UPI
+ORD-01150,2024-07-04,CUST-0115,Corporate,South,Bengaluru,Store,Accessories,Laptop Stand,1,850,0.05,807.5,612.0,195.5,Debit Card
+ORD-00229,2024-07-04,CUST-0106,Corporate,East,Kolkata,Store,Accessories,Keyboard,3,1200,0.05,3420.0,2520.0,900.0,Credit Card
+ORD-00025,2024-07-04,CUST-0034,Corporate,East,Bhubaneswar,Store,Furniture,Office Chair,2,7800,0.0,15600.0,12168.0,3432.0,Credit Card
+ORD-01127,2024-07-04,CUST-0259,Consumer,West,Ahmedabad,Online,Accessories,USB-C Hub,5,1800,0.15,7650.0,6750.0,900.0,Credit Card
+ORD-00679,2024-07-05,CUST-0192,Consumer,West,Ahmedabad,Store,Lifestyle,Backpack,4,1600,0.2,5120.0,4672.0,448.0,Credit Card
+ORD-00748,2024-07-05,CUST-0169,Corporate,South,Bengaluru,Online,Accessories,USB-C Hub,2,1800,0.15,3060.0,2700.0,360.0,Credit Card
+ORD-00859,2024-07-06,CUST-0218,Consumer,Central,Indore,Store,Accessories,Laptop Stand,4,850,0.05,3230.0,2448.0,782.0,Credit Card
+ORD-00483,2024-07-07,CUST-0002,Corporate,North,Chandigarh,Store,Furniture,Bookshelf,2,6200,0.1,11160.0,9920.0,1240.0,Debit Card
+ORD-00451,2024-07-07,CUST-0136,Small Business,East,Guwahati,Store,Accessories,USB-C Hub,3,1800,0.1,4860.0,4050.0,810.0,Credit Card
+ORD-00252,2024-07-07,CUST-0046,Consumer,West,Surat,Store,Stationery,Printer Paper,2,380,0.0,760.0,577.6,182.4,Net Banking
+ORD-00094,2024-07-08,CUST-0085,Consumer,South,Kochi,Store,Electronics,Phone Charger,2,750,0.15,1275.0,1035.0,240.0,UPI
+ORD-00538,2024-07-09,CUST-0342,Consumer,East,Guwahati,Marketplace,Stationery,Gel Pens,1,120,0.0,120.0,74.4,45.6,UPI
+ORD-00475,2024-07-10,CUST-0280,Corporate,North,Jaipur,Marketplace,Electronics,Webcam,3,3200,0.0,9600.0,7392.0,2208.0,UPI
+ORD-01016,2024-07-11,CUST-0213,Corporate,West,Surat,Online,Furniture,Office Chair,2,7800,0.1,14040.0,12168.0,1872.0,UPI
+ORD-00909,2024-07-11,CUST-0171,Consumer,Central,Bhopal,Online,Furniture,Bookshelf,3,6200,0.05,17670.0,14880.0,2790.0,Debit Card
+ORD-00436,2024-07-11,CUST-0211,Corporate,South,Kochi,Marketplace,Home Office,Desk Lamp,2,1350,0.15,2295.0,1917.0,378.0,Net Banking
+ORD-00713,2024-07-11,CUST-0186,Consumer,West,Ahmedabad,Store,Lifestyle,Backpack,2,1600,0.1,2880.0,2336.0,544.0,Credit Card
+ORD-00966,2024-07-12,CUST-0176,Corporate,East,Guwahati,Store,Furniture,Office Chair,2,7800,0.2,12480.0,12168.0,312.0,Cash
+ORD-00926,2024-07-13,CUST-0285,Small Business,Central,Bhopal,Store,Accessories,Keyboard,3,1200,0.0,3600.0,2520.0,1080.0,Net Banking
+ORD-01019,2024-07-14,CUST-0166,Corporate,East,Bhubaneswar,Store,Lifestyle,Backpack,1,1600,0.1,1440.0,1168.0,272.0,Credit Card
+ORD-00086,2024-07-14,CUST-0247,Small Business,South,Kochi,Store,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,Credit Card
+ORD-00394,2024-07-14,CUST-0038,Corporate,North,Jaipur,Online,Electronics,Webcam,4,3200,0.15,10880.0,9856.0,1024.0,UPI
+ORD-00811,2024-07-16,CUST-0336,Small Business,South,Kochi,Marketplace,Electronics,Monitor,2,12500,0.0,25000.0,21000.0,4000.0,Net Banking
+ORD-00372,2024-07-17,CUST-0294,Small Business,East,Bhubaneswar,Marketplace,Stationery,Gel Pens,2,120,0.05,228.0,148.8,79.2,UPI
+ORD-00541,2024-07-17,CUST-0029,Corporate,Central,Nagpur,Online,Furniture,Study Desk,5,9500,0.0,47500.0,38950.0,8550.0,Cash
+ORD-01162,2024-07-18,CUST-0003,Corporate,Central,Indore,Store,Accessories,Wireless Mouse,2,650,0.0,1300.0,884.0,416.0,UPI
+ORD-00147,2024-07-18,CUST-0119,Small Business,Central,Raipur,Store,Home Office,Desk Lamp,2,1350,0.1,2430.0,1917.0,513.0,Debit Card
+ORD-00478,2024-07-19,CUST-0316,Corporate,North,Chandigarh,Marketplace,Electronics,Phone Charger,2,750,0.1,1350.0,1035.0,315.0,Credit Card
+ORD-00627,2024-07-21,CUST-0147,Corporate,Central,Raipur,Marketplace,Home Office,Desk Lamp,1,1350,0.1,1215.0,958.5,256.5,UPI
+ORD-00202,2024-07-22,CUST-0285,Small Business,West,Pune,Marketplace,Home Office,Desk Lamp,2,1350,0.1,2430.0,1917.0,513.0,Cash
+ORD-01113,2024-07-23,CUST-0179,Small Business,South,Bengaluru,Store,Stationery,Notebook Pack,1,250,0.05,237.5,162.5,75.0,Credit Card
+ORD-00278,2024-07-24,CUST-0207,Consumer,South,Bengaluru,Store,Stationery,Gel Pens,2,120,0.1,216.0,148.8,67.2,Cash
+ORD-00770,2024-07-25,CUST-0293,Consumer,North,Chandigarh,Online,Furniture,Office Chair,4,7800,0.0,31200.0,24336.0,6864.0,Credit Card
+ORD-00477,2024-07-25,CUST-0229,Corporate,West,Mumbai,Store,Lifestyle,Water Bottle,4,550,0.15,1870.0,1474.0,396.0,Net Banking
+ORD-01176,2024-07-27,CUST-0233,Consumer,East,Patna,Marketplace,Stationery,Notebook Pack,2,250,0.0,500.0,325.0,175.0,Credit Card
+ORD-00360,2024-07-27,CUST-0235,Small Business,Central,Nagpur,Online,Lifestyle,Backpack,3,1600,0.0,4800.0,3504.0,1296.0,Net Banking
+ORD-01189,2024-07-28,CUST-0128,Small Business,East,Patna,Store,Stationery,Printer Paper,2,380,0.15,646.0,577.6,68.4,Net Banking
+ORD-00105,2024-07-28,CUST-0162,Consumer,North,Jaipur,Online,Accessories,Keyboard,1,1200,0.2,960.0,840.0,120.0,UPI
+ORD-00582,2024-07-29,CUST-0256,Small Business,North,Delhi,Marketplace,Accessories,Wireless Mouse,2,650,0.0,1300.0,884.0,416.0,Debit Card
+ORD-00088,2024-07-30,CUST-0104,Consumer,Central,Bhopal,Online,Furniture,Office Chair,2,7800,0.0,15600.0,12168.0,3432.0,Credit Card
+ORD-00652,2024-07-30,CUST-0125,Consumer,East,Guwahati,Online,Stationery,Printer Paper,3,380,0.15,969.0,866.4,102.6,Debit Card
+ORD-00145,2024-08-01,CUST-0243,Consumer,South,Hyderabad,Online,Accessories,Wireless Mouse,2,650,0.1,1170.0,884.0,286.0,Cash
+ORD-00027,2024-08-02,CUST-0029,Consumer,East,Patna,Store,Lifestyle,Water Bottle,1,550,0.1,495.0,368.5,126.5,Cash
+ORD-00927,2024-08-02,CUST-0065,Corporate,East,Guwahati,Store,Lifestyle,Backpack,2,1600,0.1,2880.0,2336.0,544.0,Cash
+ORD-00773,2024-08-03,CUST-0182,Corporate,Central,Raipur,Online,Electronics,Monitor,1,12500,0.15,10625.0,10500.0,125.0,Net Banking
+ORD-00166,2024-08-03,CUST-0174,Corporate,East,Patna,Online,Stationery,Printer Paper,2,380,0.1,684.0,577.6,106.4,Credit Card
+ORD-00063,2024-08-03,CUST-0094,Small Business,South,Chennai,Online,Accessories,Keyboard,2,1200,0.0,2400.0,1680.0,720.0,Net Banking
+ORD-00633,2024-08-04,CUST-0204,Corporate,South,Kochi,Marketplace,Stationery,Notebook Pack,4,250,0.15,850.0,650.0,200.0,Net Banking
+ORD-00568,2024-08-04,CUST-0350,Small Business,South,Hyderabad,Online,Stationery,Gel Pens,4,120,0.15,408.0,297.6,110.4,Credit Card
+ORD-01146,2024-08-05,CUST-0015,Corporate,South,Chennai,Store,Home Office,Desk Lamp,1,1350,0.0,1350.0,958.5,391.5,Cash
+ORD-01137,2024-08-05,CUST-0071,Small Business,West,Ahmedabad,Marketplace,Furniture,Office Chair,1,7800,0.1,7020.0,6084.0,936.0,Net Banking
+ORD-00071,2024-08-06,CUST-0079,Corporate,West,Ahmedabad,Store,Lifestyle,Backpack,2,1600,0.0,3200.0,2336.0,864.0,Debit Card
+ORD-00404,2024-08-06,CUST-0127,Consumer,West,Mumbai,Store,Electronics,Webcam,2,3200,0.1,5760.0,4928.0,832.0,Debit Card
+ORD-01181,2024-08-06,CUST-0229,Small Business,East,Patna,Store,Home Office,Desk Lamp,1,1350,0.1,1215.0,958.5,256.5,Cash
+ORD-00546,2024-08-07,CUST-0235,Consumer,West,Pune,Marketplace,Electronics,Phone Charger,3,750,0.15,1912.5,1552.5,360.0,Net Banking
+ORD-00405,2024-08-07,CUST-0045,Corporate,South,Bengaluru,Marketplace,Electronics,Webcam,1,3200,0.0,3200.0,2464.0,736.0,Credit Card
+ORD-01177,2024-08-07,CUST-0262,Consumer,West,Surat,Marketplace,Lifestyle,Backpack,4,1600,0.05,6080.0,4672.0,1408.0,Net Banking
+ORD-00403,2024-08-08,CUST-0166,Small Business,East,Patna,Marketplace,Stationery,Notebook Pack,2,250,0.15,425.0,325.0,100.0,Debit Card
+ORD-00442,2024-08-08,CUST-0176,Corporate,Central,Bhopal,Online,Accessories,USB-C Hub,4,1800,0.05,6840.0,5400.0,1440.0,Credit Card
+ORD-00351,2024-08-08,CUST-0170,Small Business,South,Hyderabad,Store,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,Credit Card
+ORD-00280,2024-08-09,CUST-0144,Small Business,North,Chandigarh,Store,Accessories,Keyboard,1,1200,0.15,1020.0,840.0,180.0,Net Banking
+ORD-00352,2024-08-09,CUST-0112,Small Business,Central,Raipur,Marketplace,Electronics,Monitor,3,12500,0.0,37500.0,31500.0,6000.0,Net Banking
+ORD-00198,2024-08-09,CUST-0146,Small Business,West,Ahmedabad,Online,Accessories,Laptop Stand,1,850,0.05,807.5,612.0,195.5,UPI
+ORD-00294,2024-08-10,CUST-0001,Small Business,East,Bhubaneswar,Store,Stationery,Printer Paper,1,380,0.05,361.0,288.8,72.2,Credit Card
+ORD-00555,2024-08-10,CUST-0016,Consumer,South,Chennai,Online,Home Office,Desk Lamp,2,1350,0.0,2700.0,1917.0,783.0,Net Banking
+ORD-00220,2024-08-10,CUST-0165,Consumer,East,Patna,Marketplace,Stationery,Notebook Pack,1,250,0.1,225.0,162.5,62.5,Cash
+ORD-00099,2024-08-12,CUST-0255,Corporate,East,Bhubaneswar,Marketplace,Accessories,Laptop Stand,3,850,0.0,2550.0,1836.0,714.0,UPI
+ORD-00474,2024-08-12,CUST-0245,Small Business,North,Delhi,Marketplace,Accessories,Keyboard,3,1200,0.0,3600.0,2520.0,1080.0,Credit Card
+ORD-00990,2024-08-12,CUST-0267,Small Business,North,Chandigarh,Marketplace,Furniture,Bookshelf,1,6200,0.15,5270.0,4960.0,310.0,Net Banking
+ORD-00369,2024-08-13,CUST-0275,Corporate,East,Bhubaneswar,Store,Stationery,Notebook Pack,2,250,0.1,450.0,325.0,125.0,Net Banking
+ORD-01154,2024-08-14,CUST-0070,Consumer,South,Kochi,Marketplace,Electronics,Headphones,1,2400,0.15,2040.0,1776.0,264.0,Net Banking
+ORD-00702,2024-08-14,CUST-0035,Small Business,Central,Raipur,Online,Lifestyle,Backpack,2,1600,0.0,3200.0,2336.0,864.0,Net Banking
+ORD-00312,2024-08-14,CUST-0087,Small Business,North,Delhi,Online,Home Office,Desk Lamp,3,1350,0.15,3442.5,2875.5,567.0,UPI
+ORD-01078,2024-08-15,CUST-0139,Small Business,South,Kochi,Store,Home Office,Storage Box,1,480,0.15,408.0,345.6,62.4,Cash
+ORD-00244,2024-08-15,CUST-0259,Consumer,North,Lucknow,Online,Accessories,Wireless Mouse,2,650,0.1,1170.0,884.0,286.0,Cash
+ORD-01193,2024-08-16,CUST-0139,Consumer,Central,Raipur,Online,Electronics,Monitor,1,12500,0.0,12500.0,10500.0,2000.0,Debit Card
+ORD-00616,2024-08-16,CUST-0195,Corporate,East,Bhubaneswar,Online,Accessories,USB-C Hub,1,1800,0.15,1530.0,1350.0,180.0,Cash
+ORD-00141,2024-08-18,CUST-0189,Corporate,South,Chennai,Store,Accessories,Keyboard,2,1200,0.0,2400.0,1680.0,720.0,UPI
+ORD-00824,2024-08-19,CUST-0234,Small Business,North,Jaipur,Marketplace,Accessories,Laptop Stand,3,850,0.2,2040.0,1836.0,204.0,Net Banking
+ORD-00867,2024-08-21,CUST-0341,Consumer,East,Bhubaneswar,Store,Home Office,Desk Lamp,4,1350,0.15,4590.0,3834.0,756.0,Net Banking
+ORD-00935,2024-08-21,CUST-0008,Corporate,North,Chandigarh,Store,Furniture,Study Desk,2,9500,0.05,18050.0,15580.0,2470.0,Cash
+ORD-00829,2024-08-23,CUST-0035,Small Business,North,Chandigarh,Store,Furniture,Study Desk,1,9500,0.15,8075.0,7790.0,285.0,Cash
+ORD-01003,2024-08-23,CUST-0163,Consumer,East,Kolkata,Online,Electronics,Phone Charger,2,750,0.0,1500.0,1035.0,465.0,Debit Card
+ORD-00544,2024-08-24,CUST-0181,Consumer,West,Pune,Store,Electronics,Webcam,5,3200,0.0,16000.0,12320.0,3680.0,UPI
+ORD-00796,2024-08-24,CUST-0312,Consumer,East,Patna,Store,Electronics,Phone Charger,1,750,0.15,637.5,517.5,120.0,UPI
+ORD-01117,2024-08-25,CUST-0134,Consumer,South,Chennai,Marketplace,Stationery,Printer Paper,1,380,0.1,342.0,288.8,53.2,Cash
+ORD-00819,2024-08-25,CUST-0174,Corporate,Central,Bhopal,Online,Home Office,Storage Box,2,480,0.05,912.0,691.2,220.8,Credit Card
+ORD-00171,2024-08-27,CUST-0062,Corporate,North,Jaipur,Online,Furniture,Office Chair,1,7800,0.0,7800.0,6084.0,1716.0,Credit Card
+ORD-01027,2024-08-27,CUST-0027,Consumer,West,Ahmedabad,Online,Electronics,Phone Charger,2,750,0.15,1275.0,1035.0,240.0,Credit Card
+ORD-00653,2024-08-27,CUST-0174,Consumer,South,Kochi,Online,Lifestyle,Backpack,3,1600,0.0,4800.0,3504.0,1296.0,Credit Card
+ORD-00008,2024-08-27,CUST-0192,Consumer,North,Jaipur,Online,Furniture,Study Desk,4,9500,0.15,32300.0,31160.0,1140.0,Net Banking
+ORD-00207,2024-08-27,CUST-0089,Consumer,East,Guwahati,Online,Furniture,Bookshelf,2,6200,0.15,10540.0,9920.0,620.0,Debit Card
+ORD-00977,2024-08-28,CUST-0056,Consumer,Central,Bhopal,Marketplace,Lifestyle,Backpack,5,1600,0.15,6800.0,5840.0,960.0,Cash
+ORD-00969,2024-08-28,CUST-0252,Small Business,North,Jaipur,Online,Accessories,Wireless Mouse,4,650,0.1,2340.0,1768.0,572.0,Cash
+ORD-00135,2024-08-29,CUST-0003,Corporate,South,Kochi,Online,Lifestyle,Water Bottle,1,550,0.15,467.5,368.5,99.0,UPI
+ORD-00578,2024-08-29,CUST-0269,Small Business,North,Delhi,Store,Furniture,Bookshelf,3,6200,0.1,16740.0,14880.0,1860.0,Cash
+ORD-00998,2024-08-31,CUST-0118,Corporate,North,Jaipur,Store,Lifestyle,Water Bottle,4,550,0.05,2090.0,1474.0,616.0,UPI
+ORD-00581,2024-08-31,CUST-0117,Corporate,North,Jaipur,Marketplace,Accessories,Keyboard,4,1200,0.1,4320.0,3360.0,960.0,Debit Card
+ORD-01023,2024-09-01,CUST-0096,Small Business,East,Guwahati,Store,Stationery,Notebook Pack,5,250,0.1,1125.0,812.5,312.5,Debit Card
+ORD-00175,2024-09-02,CUST-0226,Small Business,Central,Indore,Marketplace,Lifestyle,Backpack,2,1600,0.0,3200.0,2336.0,864.0,Cash
+ORD-01123,2024-09-02,CUST-0051,Consumer,East,Patna,Store,Lifestyle,Water Bottle,3,550,0.1,1485.0,1105.5,379.5,UPI
+ORD-00377,2024-09-02,CUST-0269,Small Business,Central,Nagpur,Online,Electronics,Monitor,5,12500,0.15,53125.0,52500.0,625.0,Cash
+ORD-00692,2024-09-03,CUST-0175,Corporate,East,Kolkata,Online,Accessories,Laptop Stand,3,850,0.1,2295.0,1836.0,459.0,Cash
+ORD-01015,2024-09-03,CUST-0089,Consumer,West,Surat,Store,Electronics,Headphones,1,2400,0.15,2040.0,1776.0,264.0,Debit Card
+ORD-00195,2024-09-04,CUST-0141,Consumer,Central,Bhopal,Marketplace,Lifestyle,Backpack,4,1600,0.2,5120.0,4672.0,448.0,Net Banking
+ORD-01005,2024-09-04,CUST-0178,Consumer,West,Ahmedabad,Store,Electronics,Headphones,1,2400,0.1,2160.0,1776.0,384.0,Debit Card
+ORD-00531,2024-09-04,CUST-0312,Consumer,Central,Raipur,Store,Furniture,Office Chair,2,7800,0.1,14040.0,12168.0,1872.0,Credit Card
+ORD-01029,2024-09-04,CUST-0328,Small Business,South,Hyderabad,Online,Accessories,Laptop Stand,1,850,0.15,722.5,612.0,110.5,Debit Card
+ORD-01170,2024-09-04,CUST-0076,Corporate,East,Guwahati,Marketplace,Home Office,Storage Box,1,480,0.0,480.0,345.6,134.4,Credit Card
+ORD-00479,2024-09-06,CUST-0065,Consumer,North,Lucknow,Marketplace,Stationery,Gel Pens,2,120,0.0,240.0,148.8,91.2,Debit Card
+ORD-00434,2024-09-06,CUST-0308,Small Business,Central,Nagpur,Store,Furniture,Bookshelf,2,6200,0.2,9920.0,9920.0,0.0,Debit Card
+ORD-00463,2024-09-06,CUST-0016,Small Business,East,Bhubaneswar,Online,Stationery,Printer Paper,5,380,0.15,1615.0,1444.0,171.0,Credit Card
+ORD-00776,2024-09-08,CUST-0241,Corporate,East,Guwahati,Marketplace,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,Credit Card
+ORD-00257,2024-09-08,CUST-0259,Corporate,South,Chennai,Store,Home Office,Desk Lamp,2,1350,0.0,2700.0,1917.0,783.0,Net Banking
+ORD-00889,2024-09-09,CUST-0163,Consumer,Central,Bhopal,Marketplace,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,Cash
+ORD-00817,2024-09-10,CUST-0287,Consumer,Central,Nagpur,Online,Accessories,USB-C Hub,1,1800,0.1,1620.0,1350.0,270.0,Credit Card
+ORD-01013,2024-09-10,CUST-0234,Consumer,West,Surat,Marketplace,Furniture,Office Chair,2,7800,0.0,15600.0,12168.0,3432.0,Debit Card
+ORD-01046,2024-09-11,CUST-0343,Small Business,North,Delhi,Marketplace,Accessories,Keyboard,5,1200,0.1,5400.0,4200.0,1200.0,Cash
+ORD-00802,2024-09-11,CUST-0068,Consumer,South,Bengaluru,Marketplace,Accessories,Keyboard,1,1200,0.2,960.0,840.0,120.0,Cash
+ORD-00367,2024-09-11,CUST-0111,Consumer,North,Delhi,Online,Accessories,Wireless Mouse,1,650,0.0,650.0,442.0,208.0,Net Banking
+ORD-00030,2024-09-12,CUST-0005,Consumer,West,Surat,Store,Accessories,Wireless Mouse,2,650,0.0,1300.0,884.0,416.0,Credit Card
+ORD-00983,2024-09-12,CUST-0298,Corporate,North,Chandigarh,Store,Lifestyle,Water Bottle,1,550,0.1,495.0,368.5,126.5,Debit Card
+ORD-00681,2024-09-12,CUST-0140,Small Business,North,Jaipur,Online,Stationery,Gel Pens,4,120,0.0,480.0,297.6,182.4,Debit Card
+ORD-00827,2024-09-12,CUST-0211,Consumer,North,Jaipur,Online,Stationery,Printer Paper,2,380,0.0,760.0,577.6,182.4,Debit Card
+ORD-01056,2024-09-13,CUST-0258,Consumer,East,Patna,Store,Accessories,USB-C Hub,4,1800,0.15,6120.0,5400.0,720.0,Debit Card
+ORD-00785,2024-09-14,CUST-0056,Small Business,East,Kolkata,Marketplace,Electronics,Phone Charger,2,750,0.15,1275.0,1035.0,240.0,Debit Card
+ORD-00678,2024-09-15,CUST-0299,Consumer,South,Bengaluru,Store,Furniture,Bookshelf,3,6200,0.0,18600.0,14880.0,3720.0,Net Banking
+ORD-00299,2024-09-16,CUST-0180,Small Business,East,Patna,Store,Furniture,Study Desk,1,9500,0.2,7600.0,7790.0,-190.0,Debit Card
+ORD-00937,2024-09-17,CUST-0171,Corporate,South,Chennai,Marketplace,Lifestyle,Backpack,4,1600,0.05,6080.0,4672.0,1408.0,Cash
+ORD-00960,2024-09-17,CUST-0294,Small Business,South,Kochi,Marketplace,Furniture,Bookshelf,2,6200,0.0,12400.0,9920.0,2480.0,Net Banking
+ORD-01126,2024-09-18,CUST-0301,Consumer,Central,Bhopal,Online,Electronics,Phone Charger,3,750,0.15,1912.5,1552.5,360.0,UPI
+ORD-00067,2024-09-18,CUST-0036,Consumer,Central,Nagpur,Store,Accessories,USB-C Hub,2,1800,0.05,3420.0,2700.0,720.0,Cash
+ORD-00657,2024-09-18,CUST-0004,Corporate,Central,Raipur,Marketplace,Electronics,Monitor,5,12500,0.05,59375.0,52500.0,6875.0,UPI
+ORD-00049,2024-09-19,CUST-0324,Corporate,East,Guwahati,Marketplace,Accessories,USB-C Hub,1,1800,0.05,1710.0,1350.0,360.0,Net Banking
+ORD-00608,2024-09-21,CUST-0045,Corporate,North,Chandigarh,Online,Furniture,Bookshelf,5,6200,0.1,27900.0,24800.0,3100.0,UPI
+ORD-00784,2024-09-21,CUST-0102,Corporate,North,Lucknow,Store,Electronics,Webcam,1,3200,0.2,2560.0,2464.0,96.0,Credit Card
+ORD-00302,2024-09-21,CUST-0119,Corporate,South,Chennai,Marketplace,Accessories,USB-C Hub,1,1800,0.1,1620.0,1350.0,270.0,Net Banking
+ORD-00936,2024-09-21,CUST-0081,Consumer,North,Lucknow,Marketplace,Stationery,Notebook Pack,3,250,0.0,750.0,487.5,262.5,Credit Card
+ORD-00623,2024-09-22,CUST-0062,Corporate,West,Surat,Store,Accessories,Wireless Mouse,3,650,0.05,1852.5,1326.0,526.5,UPI
+ORD-01088,2024-09-23,CUST-0035,Consumer,West,Mumbai,Marketplace,Stationery,Notebook Pack,1,250,0.1,225.0,162.5,62.5,UPI
+ORD-00800,2024-09-23,CUST-0332,Small Business,East,Patna,Store,Furniture,Office Chair,2,7800,0.2,12480.0,12168.0,312.0,Debit Card
+ORD-01010,2024-09-23,CUST-0036,Corporate,West,Ahmedabad,Online,Stationery,Printer Paper,1,380,0.05,361.0,288.8,72.2,Credit Card
+ORD-00978,2024-09-24,CUST-0060,Corporate,Central,Nagpur,Online,Accessories,Laptop Stand,3,850,0.2,2040.0,1836.0,204.0,Net Banking
+ORD-01188,2024-09-24,CUST-0090,Small Business,North,Jaipur,Store,Lifestyle,Backpack,2,1600,0.0,3200.0,2336.0,864.0,Debit Card
+ORD-00736,2024-09-24,CUST-0050,Consumer,Central,Indore,Store,Furniture,Study Desk,1,9500,0.0,9500.0,7790.0,1710.0,Cash
+ORD-00149,2024-09-25,CUST-0102,Corporate,East,Kolkata,Marketplace,Electronics,Monitor,3,12500,0.1,33750.0,31500.0,2250.0,Cash
+ORD-00979,2024-09-25,CUST-0204,Corporate,North,Lucknow,Marketplace,Electronics,Webcam,2,3200,0.2,5120.0,4928.0,192.0,Credit Card
+ORD-01037,2024-09-25,CUST-0130,Consumer,South,Hyderabad,Marketplace,Lifestyle,Backpack,1,1600,0.05,1520.0,1168.0,352.0,Cash
+ORD-01190,2024-09-26,CUST-0103,Consumer,West,Pune,Marketplace,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,UPI
+ORD-00397,2024-09-26,CUST-0229,Consumer,West,Ahmedabad,Online,Accessories,USB-C Hub,1,1800,0.1,1620.0,1350.0,270.0,Cash
+ORD-00517,2024-09-28,CUST-0318,Small Business,South,Kochi,Marketplace,Lifestyle,Backpack,2,1600,0.0,3200.0,2336.0,864.0,Credit Card
+ORD-00922,2024-09-28,CUST-0186,Consumer,North,Lucknow,Store,Electronics,Headphones,2,2400,0.1,4320.0,3552.0,768.0,Credit Card
+ORD-00622,2024-09-29,CUST-0044,Small Business,North,Jaipur,Store,Lifestyle,Backpack,2,1600,0.15,2720.0,2336.0,384.0,UPI
+ORD-00464,2024-09-30,CUST-0076,Consumer,North,Jaipur,Online,Stationery,Notebook Pack,1,250,0.05,237.5,162.5,75.0,Cash
+ORD-00554,2024-10-01,CUST-0264,Corporate,West,Mumbai,Store,Stationery,Printer Paper,2,380,0.15,646.0,577.6,68.4,UPI
+ORD-01082,2024-10-01,CUST-0148,Small Business,South,Kochi,Marketplace,Stationery,Notebook Pack,3,250,0.1,675.0,487.5,187.5,Cash
+ORD-00767,2024-10-01,CUST-0165,Corporate,Central,Bhopal,Store,Stationery,Printer Paper,1,380,0.15,323.0,288.8,34.2,Net Banking
+ORD-00044,2024-10-01,CUST-0198,Small Business,South,Chennai,Online,Electronics,Headphones,1,2400,0.0,2400.0,1776.0,624.0,Debit Card
+ORD-00264,2024-10-02,CUST-0034,Consumer,East,Guwahati,Online,Lifestyle,Water Bottle,1,550,0.15,467.5,368.5,99.0,Cash
+ORD-00242,2024-10-03,CUST-0154,Corporate,North,Lucknow,Online,Stationery,Printer Paper,1,380,0.2,304.0,288.8,15.2,Debit Card
+ORD-01069,2024-10-03,CUST-0292,Consumer,East,Bhubaneswar,Online,Furniture,Bookshelf,2,6200,0.05,11780.0,9920.0,1860.0,UPI
+ORD-01039,2024-10-04,CUST-0259,Consumer,North,Jaipur,Marketplace,Accessories,Laptop Stand,1,850,0.0,850.0,612.0,238.0,Credit Card
+ORD-00148,2024-10-05,CUST-0116,Corporate,Central,Indore,Online,Home Office,Storage Box,2,480,0.05,912.0,691.2,220.8,Net Banking
+ORD-00683,2024-10-07,CUST-0220,Consumer,Central,Nagpur,Online,Electronics,Webcam,1,3200,0.15,2720.0,2464.0,256.0,UPI
+ORD-01169,2024-10-08,CUST-0197,Corporate,Central,Bhopal,Store,Furniture,Office Chair,1,7800,0.0,7800.0,6084.0,1716.0,Credit Card
+ORD-00953,2024-10-08,CUST-0124,Consumer,Central,Raipur,Marketplace,Accessories,Laptop Stand,3,850,0.1,2295.0,1836.0,459.0,Cash
+ORD-00728,2024-10-09,CUST-0087,Small Business,South,Hyderabad,Online,Furniture,Office Chair,2,7800,0.15,13260.0,12168.0,1092.0,Credit Card
+ORD-00903,2024-10-09,CUST-0001,Consumer,Central,Bhopal,Marketplace,Lifestyle,Water Bottle,2,550,0.05,1045.0,737.0,308.0,Net Banking
+ORD-00164,2024-10-10,CUST-0312,Small Business,East,Bhubaneswar,Store,Home Office,Storage Box,2,480,0.05,912.0,691.2,220.8,Net Banking
+ORD-00884,2024-10-10,CUST-0281,Consumer,North,Jaipur,Marketplace,Accessories,Wireless Mouse,2,650,0.15,1105.0,884.0,221.0,UPI
+ORD-00268,2024-10-10,CUST-0001,Consumer,North,Chandigarh,Store,Home Office,Desk Lamp,1,1350,0.15,1147.5,958.5,189.0,Net Banking
+ORD-00124,2024-10-11,CUST-0207,Small Business,South,Chennai,Store,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,UPI
+ORD-00461,2024-10-12,CUST-0036,Small Business,North,Chandigarh,Online,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,Credit Card
+ORD-01018,2024-10-12,CUST-0161,Corporate,South,Hyderabad,Store,Lifestyle,Water Bottle,1,550,0.1,495.0,368.5,126.5,Credit Card
+ORD-00718,2024-10-13,CUST-0325,Corporate,Central,Bhopal,Store,Furniture,Study Desk,3,9500,0.15,24225.0,23370.0,855.0,Cash
+ORD-00837,2024-10-13,CUST-0333,Corporate,Central,Bhopal,Store,Accessories,USB-C Hub,2,1800,0.15,3060.0,2700.0,360.0,UPI
+ORD-00570,2024-10-14,CUST-0288,Corporate,North,Jaipur,Marketplace,Furniture,Office Chair,2,7800,0.0,15600.0,12168.0,3432.0,Debit Card
+ORD-00804,2024-10-15,CUST-0133,Small Business,South,Bengaluru,Marketplace,Stationery,Printer Paper,2,380,0.1,684.0,577.6,106.4,Credit Card
+ORD-00237,2024-10-15,CUST-0217,Small Business,West,Ahmedabad,Marketplace,Accessories,Laptop Stand,2,850,0.15,1445.0,1224.0,221.0,Credit Card
+ORD-00951,2024-10-15,CUST-0276,Small Business,East,Bhubaneswar,Store,Electronics,Monitor,2,12500,0.0,25000.0,21000.0,4000.0,UPI
+ORD-00809,2024-10-16,CUST-0346,Consumer,East,Bhubaneswar,Online,Electronics,Webcam,5,3200,0.0,16000.0,12320.0,3680.0,Net Banking
+ORD-00808,2024-10-16,CUST-0051,Consumer,South,Bengaluru,Marketplace,Home Office,Desk Lamp,1,1350,0.0,1350.0,958.5,391.5,Debit Card
+ORD-00519,2024-10-18,CUST-0056,Small Business,North,Delhi,Store,Stationery,Notebook Pack,1,250,0.0,250.0,162.5,87.5,Credit Card
+ORD-00701,2024-10-18,CUST-0086,Corporate,West,Pune,Store,Accessories,Wireless Mouse,1,650,0.1,585.0,442.0,143.0,UPI
+ORD-00203,2024-10-19,CUST-0315,Small Business,West,Ahmedabad,Marketplace,Electronics,Monitor,5,12500,0.0,62500.0,52500.0,10000.0,UPI
+ORD-00191,2024-10-20,CUST-0060,Consumer,Central,Bhopal,Marketplace,Accessories,Laptop Stand,2,850,0.0,1700.0,1224.0,476.0,Net Banking
+ORD-00224,2024-10-21,CUST-0245,Small Business,East,Patna,Marketplace,Stationery,Gel Pens,1,120,0.0,120.0,74.4,45.6,Debit Card
+ORD-00399,2024-10-23,CUST-0137,Small Business,North,Delhi,Marketplace,Electronics,Headphones,1,2400,0.2,1920.0,1776.0,144.0,Debit Card
+ORD-01114,2024-10-23,CUST-0175,Corporate,North,Chandigarh,Marketplace,Electronics,Headphones,3,2400,0.2,5760.0,5328.0,432.0,Net Banking
+ORD-00163,2024-10-23,CUST-0210,Consumer,East,Patna,Marketplace,Lifestyle,Water Bottle,1,550,0.0,550.0,368.5,181.5,UPI
+ORD-00386,2024-10-24,CUST-0342,Consumer,East,Patna,Online,Electronics,Monitor,2,12500,0.0,25000.0,21000.0,4000.0,Credit Card
+ORD-00420,2024-10-24,CUST-0328,Small Business,East,Guwahati,Online,Accessories,Wireless Mouse,1,650,0.0,650.0,442.0,208.0,Cash
+ORD-00999,2024-10-25,CUST-0283,Consumer,East,Guwahati,Online,Home Office,Desk Lamp,1,1350,0.15,1147.5,958.5,189.0,Cash
+ORD-00881,2024-10-25,CUST-0051,Small Business,Central,Nagpur,Online,Electronics,Monitor,2,12500,0.0,25000.0,21000.0,4000.0,Debit Card
+ORD-00790,2024-10-25,CUST-0177,Corporate,East,Kolkata,Marketplace,Stationery,Printer Paper,4,380,0.0,1520.0,1155.2,364.8,Credit Card
+ORD-01142,2024-10-26,CUST-0299,Consumer,East,Bhubaneswar,Online,Accessories,USB-C Hub,5,1800,0.0,9000.0,6750.0,2250.0,Debit Card
+ORD-00468,2024-10-26,CUST-0326,Small Business,West,Pune,Store,Electronics,Headphones,2,2400,0.1,4320.0,3552.0,768.0,Credit Card
+ORD-00825,2024-10-26,CUST-0009,Small Business,North,Lucknow,Online,Furniture,Office Chair,1,7800,0.0,7800.0,6084.0,1716.0,Net Banking
+ORD-00104,2024-10-26,CUST-0192,Corporate,East,Guwahati,Online,Stationery,Printer Paper,2,380,0.0,760.0,577.6,182.4,Credit Card
+ORD-00891,2024-10-27,CUST-0254,Small Business,North,Lucknow,Marketplace,Stationery,Printer Paper,2,380,0.1,684.0,577.6,106.4,Cash
+ORD-00379,2024-10-27,CUST-0334,Consumer,East,Patna,Online,Accessories,Wireless Mouse,1,650,0.0,650.0,442.0,208.0,Credit Card
+ORD-00037,2024-10-27,CUST-0221,Small Business,South,Hyderabad,Store,Furniture,Office Chair,1,7800,0.15,6630.0,6084.0,546.0,UPI
+ORD-00425,2024-10-28,CUST-0177,Small Business,Central,Indore,Online,Stationery,Printer Paper,5,380,0.05,1805.0,1444.0,361.0,Net Banking
+ORD-00855,2024-10-29,CUST-0119,Consumer,South,Kochi,Marketplace,Accessories,Laptop Stand,1,850,0.15,722.5,612.0,110.5,UPI
+ORD-00231,2024-10-29,CUST-0086,Corporate,North,Lucknow,Online,Electronics,Monitor,1,12500,0.15,10625.0,10500.0,125.0,Credit Card
+ORD-01107,2024-10-29,CUST-0284,Corporate,Central,Raipur,Marketplace,Stationery,Gel Pens,2,120,0.0,240.0,148.8,91.2,Debit Card
+ORD-00142,2024-10-31,CUST-0339,Corporate,North,Lucknow,Marketplace,Electronics,Monitor,4,12500,0.05,47500.0,42000.0,5500.0,Cash
+ORD-00454,2024-10-31,CUST-0156,Consumer,Central,Raipur,Online,Home Office,Desk Lamp,1,1350,0.05,1282.5,958.5,324.0,Credit Card
+ORD-01059,2024-11-01,CUST-0223,Small Business,North,Lucknow,Marketplace,Accessories,Keyboard,2,1200,0.0,2400.0,1680.0,720.0,Net Banking
+ORD-00886,2024-11-01,CUST-0181,Small Business,Central,Bhopal,Online,Electronics,Webcam,1,3200,0.15,2720.0,2464.0,256.0,Cash
+ORD-01106,2024-11-03,CUST-0111,Consumer,East,Guwahati,Store,Furniture,Bookshelf,2,6200,0.15,10540.0,9920.0,620.0,Net Banking
+ORD-01053,2024-11-04,CUST-0305,Corporate,Central,Raipur,Online,Lifestyle,Backpack,1,1600,0.15,1360.0,1168.0,192.0,Cash
+ORD-00741,2024-11-06,CUST-0100,Corporate,South,Chennai,Store,Accessories,Keyboard,2,1200,0.1,2160.0,1680.0,480.0,Net Banking
+ORD-00305,2024-11-08,CUST-0137,Consumer,Central,Bhopal,Marketplace,Accessories,Laptop Stand,3,850,0.0,2550.0,1836.0,714.0,Debit Card
+ORD-00131,2024-11-08,CUST-0011,Consumer,South,Bengaluru,Store,Furniture,Office Chair,3,7800,0.0,23400.0,18252.0,5148.0,Cash
+ORD-00383,2024-11-08,CUST-0203,Consumer,West,Surat,Online,Furniture,Office Chair,3,7800,0.15,19890.0,18252.0,1638.0,Credit Card
+ORD-00061,2024-11-09,CUST-0254,Small Business,South,Hyderabad,Online,Stationery,Notebook Pack,3,250,0.2,600.0,487.5,112.5,Net Banking
+ORD-00897,2024-11-09,CUST-0310,Corporate,West,Mumbai,Online,Furniture,Study Desk,4,9500,0.0,38000.0,31160.0,6840.0,Net Banking
+ORD-00391,2024-11-10,CUST-0093,Small Business,North,Chandigarh,Store,Furniture,Office Chair,5,7800,0.05,37050.0,30420.0,6630.0,Debit Card
+ORD-01124,2024-11-10,CUST-0284,Corporate,East,Guwahati,Marketplace,Home Office,Desk Lamp,2,1350,0.0,2700.0,1917.0,783.0,Net Banking
+ORD-00523,2024-11-11,CUST-0149,Consumer,South,Hyderabad,Online,Stationery,Gel Pens,1,120,0.05,114.0,74.4,39.6,UPI
+ORD-00963,2024-11-12,CUST-0336,Small Business,East,Kolkata,Marketplace,Furniture,Bookshelf,2,6200,0.0,12400.0,9920.0,2480.0,Net Banking
+ORD-00530,2024-11-13,CUST-0149,Corporate,South,Bengaluru,Online,Electronics,Phone Charger,1,750,0.2,600.0,517.5,82.5,Credit Card
+ORD-00292,2024-11-13,CUST-0066,Corporate,Central,Bhopal,Online,Stationery,Notebook Pack,5,250,0.0,1250.0,812.5,437.5,UPI
+ORD-00872,2024-11-14,CUST-0339,Consumer,East,Kolkata,Online,Home Office,Storage Box,2,480,0.0,960.0,691.2,268.8,UPI
+ORD-00083,2024-11-15,CUST-0014,Small Business,East,Patna,Store,Accessories,Wireless Mouse,1,650,0.2,520.0,442.0,78.0,Net Banking
+ORD-00026,2024-11-15,CUST-0020,Corporate,North,Lucknow,Store,Stationery,Notebook Pack,1,250,0.2,200.0,162.5,37.5,Credit Card
+ORD-00215,2024-11-15,CUST-0040,Corporate,West,Pune,Store,Accessories,Laptop Stand,1,850,0.15,722.5,612.0,110.5,UPI
+ORD-00181,2024-11-16,CUST-0200,Corporate,Central,Indore,Store,Furniture,Study Desk,2,9500,0.15,16150.0,15580.0,570.0,Credit Card
+ORD-00738,2024-11-16,CUST-0044,Consumer,North,Lucknow,Marketplace,Electronics,Monitor,3,12500,0.15,31875.0,31500.0,375.0,UPI
+ORD-00747,2024-11-17,CUST-0289,Small Business,Central,Raipur,Store,Furniture,Study Desk,1,9500,0.0,9500.0,7790.0,1710.0,Credit Card
+ORD-00348,2024-11-17,CUST-0196,Consumer,South,Bengaluru,Online,Lifestyle,Backpack,4,1600,0.1,5760.0,4672.0,1088.0,UPI
+ORD-00658,2024-11-17,CUST-0168,Consumer,Central,Indore,Online,Accessories,USB-C Hub,2,1800,0.2,2880.0,2700.0,180.0,Debit Card
+ORD-00703,2024-11-18,CUST-0262,Small Business,Central,Nagpur,Online,Accessories,Wireless Mouse,3,650,0.15,1657.5,1326.0,331.5,Cash
+ORD-00698,2024-11-18,CUST-0186,Small Business,Central,Raipur,Marketplace,Electronics,Phone Charger,2,750,0.1,1350.0,1035.0,315.0,Debit Card
+ORD-00258,2024-11-18,CUST-0265,Corporate,North,Chandigarh,Marketplace,Electronics,Headphones,1,2400,0.0,2400.0,1776.0,624.0,UPI
+ORD-00336,2024-11-19,CUST-0094,Small Business,North,Lucknow,Store,Accessories,Laptop Stand,5,850,0.15,3612.5,3060.0,552.5,Cash
+ORD-00619,2024-11-20,CUST-0043,Small Business,North,Delhi,Store,Stationery,Printer Paper,1,380,0.1,342.0,288.8,53.2,Cash
+ORD-00315,2024-11-20,CUST-0264,Corporate,West,Surat,Store,Furniture,Study Desk,3,9500,0.0,28500.0,23370.0,5130.0,Cash
+ORD-00844,2024-11-20,CUST-0117,Small Business,West,Mumbai,Store,Accessories,Laptop Stand,2,850,0.0,1700.0,1224.0,476.0,Credit Card
+ORD-00772,2024-11-20,CUST-0240,Small Business,Central,Raipur,Marketplace,Lifestyle,Water Bottle,4,550,0.2,1760.0,1474.0,286.0,Debit Card
+ORD-01030,2024-11-20,CUST-0190,Corporate,South,Hyderabad,Online,Home Office,Storage Box,1,480,0.15,408.0,345.6,62.4,Credit Card
+ORD-00575,2024-11-21,CUST-0165,Consumer,West,Ahmedabad,Online,Stationery,Gel Pens,1,120,0.15,102.0,74.4,27.6,Debit Card
+ORD-00424,2024-11-21,CUST-0171,Consumer,North,Chandigarh,Online,Accessories,Wireless Mouse,2,650,0.1,1170.0,884.0,286.0,Credit Card
+ORD-00343,2024-11-22,CUST-0315,Corporate,North,Chandigarh,Marketplace,Stationery,Printer Paper,1,380,0.0,380.0,288.8,91.2,Cash
+ORD-00915,2024-11-22,CUST-0332,Small Business,South,Bengaluru,Store,Electronics,Monitor,1,12500,0.1,11250.0,10500.0,750.0,Credit Card
+ORD-00620,2024-11-23,CUST-0198,Consumer,Central,Indore,Online,Home Office,Storage Box,1,480,0.0,480.0,345.6,134.4,Cash
+ORD-00160,2024-11-23,CUST-0255,Small Business,North,Jaipur,Marketplace,Home Office,Desk Lamp,2,1350,0.05,2565.0,1917.0,648.0,UPI
+ORD-01155,2024-11-25,CUST-0182,Corporate,South,Bengaluru,Marketplace,Furniture,Study Desk,1,9500,0.0,9500.0,7790.0,1710.0,Credit Card
+ORD-00930,2024-11-26,CUST-0010,Corporate,North,Delhi,Marketplace,Electronics,Webcam,2,3200,0.2,5120.0,4928.0,192.0,UPI
+ORD-00542,2024-11-27,CUST-0327,Small Business,East,Patna,Marketplace,Accessories,Wireless Mouse,2,650,0.15,1105.0,884.0,221.0,Net Banking
+ORD-00230,2024-11-27,CUST-0045,Corporate,East,Guwahati,Store,Stationery,Printer Paper,1,380,0.15,323.0,288.8,34.2,Debit Card
+ORD-00777,2024-11-27,CUST-0062,Small Business,Central,Indore,Store,Electronics,Headphones,2,2400,0.1,4320.0,3552.0,768.0,Credit Card
+ORD-01092,2024-11-29,CUST-0175,Corporate,North,Jaipur,Online,Electronics,Webcam,2,3200,0.15,5440.0,4928.0,512.0,Net Banking
+ORD-00408,2024-11-29,CUST-0056,Corporate,Central,Raipur,Online,Furniture,Office Chair,5,7800,0.0,39000.0,30420.0,8580.0,UPI
+ORD-00490,2024-11-30,CUST-0183,Small Business,East,Bhubaneswar,Store,Furniture,Study Desk,3,9500,0.1,25650.0,23370.0,2280.0,Debit Card
+ORD-00946,2024-12-01,CUST-0215,Consumer,North,Delhi,Marketplace,Accessories,USB-C Hub,1,1800,0.1,1620.0,1350.0,270.0,Credit Card
+ORD-00931,2024-12-01,CUST-0049,Consumer,West,Surat,Online,Stationery,Printer Paper,2,380,0.15,646.0,577.6,68.4,Net Banking
+ORD-00201,2024-12-04,CUST-0199,Consumer,East,Kolkata,Store,Home Office,Storage Box,2,480,0.15,816.0,691.2,124.8,Net Banking
+ORD-00559,2024-12-04,CUST-0310,Consumer,North,Chandigarh,Store,Furniture,Office Chair,2,7800,0.1,14040.0,12168.0,1872.0,Net Banking
+ORD-00053,2024-12-04,CUST-0035,Small Business,North,Chandigarh,Store,Furniture,Office Chair,2,7800,0.2,12480.0,12168.0,312.0,Credit Card
+ORD-01182,2024-12-04,CUST-0326,Consumer,South,Kochi,Marketplace,Stationery,Printer Paper,3,380,0.2,912.0,866.4,45.6,Debit Card
+ORD-00668,2024-12-05,CUST-0220,Consumer,North,Jaipur,Store,Home Office,Storage Box,2,480,0.0,960.0,691.2,268.8,UPI
+ORD-00401,2024-12-05,CUST-0114,Small Business,Central,Bhopal,Online,Accessories,Laptop Stand,3,850,0.1,2295.0,1836.0,459.0,Cash
+ORD-00545,2024-12-06,CUST-0330,Corporate,West,Pune,Marketplace,Furniture,Bookshelf,1,6200,0.1,5580.0,4960.0,620.0,UPI
+ORD-00610,2024-12-06,CUST-0277,Small Business,West,Ahmedabad,Online,Accessories,Wireless Mouse,5,650,0.15,2762.5,2210.0,552.5,Credit Card
+ORD-01196,2024-12-06,CUST-0106,Consumer,Central,Raipur,Marketplace,Furniture,Bookshelf,4,6200,0.0,24800.0,19840.0,4960.0,UPI
+ORD-00269,2024-12-06,CUST-0258,Small Business,West,Ahmedabad,Marketplace,Lifestyle,Backpack,2,1600,0.15,2720.0,2336.0,384.0,Credit Card
+ORD-00600,2024-12-07,CUST-0336,Corporate,North,Jaipur,Marketplace,Accessories,Wireless Mouse,3,650,0.0,1950.0,1326.0,624.0,Net Banking
+ORD-00414,2024-12-08,CUST-0303,Corporate,North,Lucknow,Online,Home Office,Storage Box,1,480,0.1,432.0,345.6,86.4,UPI
+ORD-00199,2024-12-08,CUST-0113,Small Business,West,Surat,Store,Accessories,Wireless Mouse,4,650,0.2,2080.0,1768.0,312.0,Cash
+ORD-00400,2024-12-08,CUST-0137,Small Business,North,Jaipur,Store,Accessories,Keyboard,3,1200,0.15,3060.0,2520.0,540.0,Debit Card
+ORD-00697,2024-12-08,CUST-0107,Corporate,South,Hyderabad,Store,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,Cash
+ORD-00115,2024-12-08,CUST-0101,Corporate,West,Ahmedabad,Marketplace,Home Office,Storage Box,4,480,0.0,1920.0,1382.4,537.6,Cash
+ORD-00599,2024-12-09,CUST-0032,Consumer,Central,Indore,Marketplace,Furniture,Office Chair,2,7800,0.1,14040.0,12168.0,1872.0,Net Banking
+ORD-00940,2024-12-10,CUST-0111,Small Business,Central,Bhopal,Online,Lifestyle,Backpack,3,1600,0.1,4320.0,3504.0,816.0,Credit Card
+ORD-00663,2024-12-10,CUST-0175,Consumer,East,Bhubaneswar,Store,Accessories,Keyboard,2,1200,0.1,2160.0,1680.0,480.0,Credit Card
+ORD-00309,2024-12-10,CUST-0231,Small Business,Central,Nagpur,Marketplace,Electronics,Monitor,4,12500,0.1,45000.0,42000.0,3000.0,Net Banking
+ORD-00222,2024-12-12,CUST-0213,Small Business,East,Bhubaneswar,Online,Lifestyle,Water Bottle,2,550,0.0,1100.0,737.0,363.0,Credit Card
+ORD-00895,2024-12-12,CUST-0276,Corporate,West,Mumbai,Marketplace,Electronics,Webcam,2,3200,0.1,5760.0,4928.0,832.0,Cash
+ORD-00499,2024-12-13,CUST-0014,Small Business,West,Pune,Marketplace,Stationery,Gel Pens,4,120,0.0,480.0,297.6,182.4,Credit Card
+ORD-00069,2024-12-13,CUST-0093,Small Business,South,Kochi,Store,Furniture,Bookshelf,3,6200,0.1,16740.0,14880.0,1860.0,Debit Card
+ORD-00388,2024-12-13,CUST-0276,Small Business,East,Bhubaneswar,Online,Accessories,Laptop Stand,3,850,0.0,2550.0,1836.0,714.0,Cash
+ORD-00621,2024-12-14,CUST-0339,Corporate,West,Surat,Marketplace,Accessories,USB-C Hub,3,1800,0.1,4860.0,4050.0,810.0,Net Banking
+ORD-00892,2024-12-15,CUST-0119,Small Business,Central,Raipur,Marketplace,Lifestyle,Backpack,5,1600,0.0,8000.0,5840.0,2160.0,Cash
+ORD-00775,2024-12-17,CUST-0308,Consumer,East,Kolkata,Marketplace,Electronics,Webcam,2,3200,0.15,5440.0,4928.0,512.0,Net Banking
+ORD-00228,2024-12-17,CUST-0006,Corporate,North,Lucknow,Online,Electronics,Webcam,2,3200,0.1,5760.0,4928.0,832.0,UPI
+ORD-00341,2024-12-18,CUST-0308,Small Business,East,Patna,Store,Electronics,Phone Charger,5,750,0.1,3375.0,2587.5,787.5,Debit Card
+ORD-01083,2024-12-18,CUST-0283,Small Business,Central,Bhopal,Marketplace,Accessories,USB-C Hub,2,1800,0.0,3600.0,2700.0,900.0,UPI
+ORD-01153,2024-12-19,CUST-0125,Small Business,East,Kolkata,Online,Lifestyle,Water Bottle,2,550,0.0,1100.0,737.0,363.0,Debit Card
+ORD-00852,2024-12-20,CUST-0137,Corporate,North,Jaipur,Store,Electronics,Phone Charger,4,750,0.15,2550.0,2070.0,480.0,Net Banking
+ORD-00082,2024-12-20,CUST-0030,Small Business,Central,Bhopal,Online,Stationery,Notebook Pack,1,250,0.0,250.0,162.5,87.5,Net Banking
+ORD-00716,2024-12-20,CUST-0313,Corporate,South,Kochi,Online,Electronics,Webcam,3,3200,0.15,8160.0,7392.0,768.0,Debit Card
+ORD-01049,2024-12-21,CUST-0081,Consumer,East,Guwahati,Store,Stationery,Notebook Pack,3,250,0.05,712.5,487.5,225.0,UPI
+ORD-00326,2024-12-21,CUST-0123,Small Business,Central,Indore,Store,Electronics,Headphones,2,2400,0.15,4080.0,3552.0,528.0,UPI
+ORD-00285,2024-12-23,CUST-0278,Small Business,West,Ahmedabad,Store,Electronics,Phone Charger,1,750,0.1,675.0,517.5,157.5,Cash
+ORD-00192,2024-12-23,CUST-0033,Consumer,South,Hyderabad,Online,Furniture,Study Desk,2,9500,0.1,17100.0,15580.0,1520.0,Net Banking
+ORD-00604,2024-12-24,CUST-0310,Corporate,East,Kolkata,Store,Electronics,Monitor,1,12500,0.1,11250.0,10500.0,750.0,Cash
+ORD-00390,2024-12-24,CUST-0174,Corporate,West,Mumbai,Online,Electronics,Monitor,2,12500,0.0,25000.0,21000.0,4000.0,Debit Card
+ORD-00595,2024-12-24,CUST-0134,Small Business,West,Pune,Online,Furniture,Study Desk,3,9500,0.15,24225.0,23370.0,855.0,Cash
+ORD-00196,2024-12-24,CUST-0175,Consumer,East,Patna,Store,Stationery,Notebook Pack,2,250,0.0,500.0,325.0,175.0,Cash
+ORD-00470,2024-12-25,CUST-0211,Corporate,East,Kolkata,Online,Furniture,Bookshelf,4,6200,0.1,22320.0,19840.0,2480.0,Cash
+ORD-00594,2024-12-25,CUST-0090,Corporate,North,Chandigarh,Online,Stationery,Notebook Pack,3,250,0.0,750.0,487.5,262.5,Net Banking
+ORD-00840,2024-12-26,CUST-0161,Corporate,South,Hyderabad,Online,Accessories,Laptop Stand,1,850,0.0,850.0,612.0,238.0,Credit Card
+ORD-00991,2024-12-26,CUST-0153,Corporate,Central,Indore,Online,Stationery,Gel Pens,5,120,0.0,600.0,372.0,228.0,Debit Card
+ORD-01187,2024-12-27,CUST-0033,Small Business,West,Surat,Marketplace,Electronics,Phone Charger,1,750,0.15,637.5,517.5,120.0,Debit Card
+ORD-00717,2024-12-29,CUST-0313,Corporate,East,Bhubaneswar,Marketplace,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,Cash
+ORD-00494,2024-12-30,CUST-0173,Consumer,West,Surat,Marketplace,Accessories,USB-C Hub,1,1800,0.0,1800.0,1350.0,450.0,Credit Card
+ORD-00310,2024-12-30,CUST-0296,Corporate,Central,Indore,Marketplace,Stationery,Gel Pens,1,120,0.0,120.0,74.4,45.6,UPI
+ORD-01111,2024-12-31,CUST-0116,Consumer,South,Chennai,Marketplace,Electronics,Monitor,4,12500,0.05,47500.0,42000.0,5500.0,Cash
+ORD-00795,2024-12-31,CUST-0141,Small Business,North,Jaipur,Marketplace,Furniture,Bookshelf,3,6200,0.15,15810.0,14880.0,930.0,Cash
+ORD-00765,2025-01-01,CUST-0337,Corporate,West,Ahmedabad,Store,Accessories,USB-C Hub,1,1800,0.1,1620.0,1350.0,270.0,Net Banking
+ORD-00029,2025-01-02,CUST-0033,Corporate,South,Bengaluru,Store,Electronics,Monitor,5,12500,0.0,62500.0,52500.0,10000.0,Cash
+ORD-00642,2025-01-04,CUST-0146,Consumer,South,Bengaluru,Store,Lifestyle,Water Bottle,2,550,0.0,1100.0,737.0,363.0,Credit Card
+ORD-00688,2025-01-05,CUST-0339,Corporate,North,Delhi,Marketplace,Electronics,Headphones,5,2400,0.15,10200.0,8880.0,1320.0,UPI
+ORD-01060,2025-01-05,CUST-0038,Corporate,South,Bengaluru,Store,Furniture,Study Desk,1,9500,0.1,8550.0,7790.0,760.0,Net Banking
+ORD-01168,2025-01-06,CUST-0288,Consumer,North,Lucknow,Marketplace,Home Office,Storage Box,2,480,0.15,816.0,691.2,124.8,Credit Card
+ORD-00739,2025-01-07,CUST-0162,Corporate,South,Hyderabad,Store,Furniture,Office Chair,3,7800,0.15,19890.0,18252.0,1638.0,UPI
+ORD-00648,2025-01-07,CUST-0064,Corporate,North,Chandigarh,Online,Lifestyle,Water Bottle,4,550,0.0,2200.0,1474.0,726.0,Cash
+ORD-00450,2025-01-09,CUST-0347,Small Business,South,Hyderabad,Store,Accessories,Keyboard,5,1200,0.0,6000.0,4200.0,1800.0,Debit Card
+ORD-00057,2025-01-09,CUST-0339,Corporate,West,Pune,Marketplace,Electronics,Webcam,3,3200,0.0,9600.0,7392.0,2208.0,Credit Card
+ORD-00660,2025-01-09,CUST-0008,Consumer,Central,Indore,Store,Electronics,Monitor,1,12500,0.05,11875.0,10500.0,1375.0,Credit Card
+ORD-00516,2025-01-09,CUST-0258,Small Business,East,Guwahati,Store,Furniture,Study Desk,2,9500,0.0,19000.0,15580.0,3420.0,Net Banking
+ORD-00139,2025-01-09,CUST-0126,Corporate,North,Chandigarh,Online,Electronics,Phone Charger,1,750,0.0,750.0,517.5,232.5,Debit Card
+ORD-00650,2025-01-10,CUST-0301,Consumer,Central,Raipur,Marketplace,Furniture,Study Desk,4,9500,0.1,34200.0,31160.0,3040.0,UPI
+ORD-00673,2025-01-10,CUST-0072,Corporate,East,Kolkata,Online,Accessories,Laptop Stand,2,850,0.15,1445.0,1224.0,221.0,Debit Card
+ORD-00968,2025-01-11,CUST-0270,Small Business,South,Bengaluru,Marketplace,Electronics,Monitor,5,12500,0.15,53125.0,52500.0,625.0,Net Banking
+ORD-01156,2025-01-11,CUST-0094,Consumer,Central,Raipur,Marketplace,Accessories,USB-C Hub,3,1800,0.0,5400.0,4050.0,1350.0,UPI
+ORD-00667,2025-01-13,CUST-0021,Small Business,North,Chandigarh,Store,Electronics,Headphones,1,2400,0.1,2160.0,1776.0,384.0,Debit Card
+ORD-00034,2025-01-13,CUST-0009,Consumer,South,Hyderabad,Store,Furniture,Office Chair,4,7800,0.0,31200.0,24336.0,6864.0,Net Banking
+ORD-00460,2025-01-15,CUST-0028,Corporate,East,Bhubaneswar,Online,Accessories,Wireless Mouse,3,650,0.0,1950.0,1326.0,624.0,UPI
+ORD-00924,2025-01-15,CUST-0270,Small Business,South,Kochi,Store,Accessories,USB-C Hub,1,1800,0.0,1800.0,1350.0,450.0,UPI
+ORD-00984,2025-01-15,CUST-0008,Corporate,South,Kochi,Marketplace,Home Office,Desk Lamp,1,1350,0.05,1282.5,958.5,324.0,Net Banking
+ORD-00988,2025-01-16,CUST-0315,Corporate,South,Chennai,Online,Accessories,Keyboard,3,1200,0.05,3420.0,2520.0,900.0,Debit Card
+ORD-00143,2025-01-16,CUST-0086,Corporate,East,Patna,Store,Furniture,Bookshelf,2,6200,0.15,10540.0,9920.0,620.0,UPI
+ORD-01066,2025-01-17,CUST-0266,Corporate,South,Bengaluru,Marketplace,Accessories,Keyboard,5,1200,0.0,6000.0,4200.0,1800.0,Debit Card
+ORD-00376,2025-01-17,CUST-0054,Consumer,Central,Nagpur,Store,Stationery,Printer Paper,2,380,0.05,722.0,577.6,144.4,Net Banking
+ORD-00779,2025-01-19,CUST-0096,Corporate,North,Jaipur,Online,Lifestyle,Backpack,4,1600,0.0,6400.0,4672.0,1728.0,Net Banking
+ORD-00896,2025-01-20,CUST-0103,Small Business,West,Pune,Store,Accessories,USB-C Hub,1,1800,0.05,1710.0,1350.0,360.0,Net Banking
+ORD-00431,2025-01-20,CUST-0308,Corporate,North,Chandigarh,Store,Home Office,Storage Box,1,480,0.15,408.0,345.6,62.4,Credit Card
+ORD-00537,2025-01-20,CUST-0339,Consumer,South,Chennai,Store,Electronics,Headphones,3,2400,0.1,6480.0,5328.0,1152.0,UPI
+ORD-00955,2025-01-21,CUST-0264,Corporate,East,Guwahati,Marketplace,Electronics,Headphones,1,2400,0.1,2160.0,1776.0,384.0,UPI
+ORD-00938,2025-01-21,CUST-0074,Consumer,Central,Bhopal,Store,Furniture,Office Chair,1,7800,0.2,6240.0,6084.0,156.0,Cash
+ORD-00001,2025-01-21,CUST-0131,Consumer,East,Kolkata,Store,Accessories,Laptop Stand,1,850,0.15,722.5,612.0,110.5,Net Banking
+ORD-01197,2025-01-22,CUST-0239,Small Business,South,Bengaluru,Store,Stationery,Gel Pens,4,120,0.0,480.0,297.6,182.4,Cash
+ORD-00686,2025-01-23,CUST-0268,Small Business,West,Pune,Marketplace,Furniture,Office Chair,1,7800,0.0,7800.0,6084.0,1716.0,Net Banking
+ORD-00732,2025-01-23,CUST-0066,Small Business,North,Lucknow,Online,Stationery,Printer Paper,2,380,0.0,760.0,577.6,182.4,Net Banking
+ORD-00833,2025-01-24,CUST-0015,Corporate,East,Patna,Store,Furniture,Bookshelf,1,6200,0.1,5580.0,4960.0,620.0,Credit Card
+ORD-00558,2025-01-25,CUST-0271,Small Business,Central,Raipur,Marketplace,Furniture,Bookshelf,1,6200,0.2,4960.0,4960.0,0.0,Net Banking
+ORD-00799,2025-01-25,CUST-0036,Corporate,West,Surat,Store,Lifestyle,Water Bottle,1,550,0.0,550.0,368.5,181.5,Debit Card
+ORD-00116,2025-01-26,CUST-0002,Corporate,West,Ahmedabad,Online,Home Office,Desk Lamp,2,1350,0.1,2430.0,1917.0,513.0,Credit Card
+ORD-01001,2025-01-26,CUST-0151,Small Business,West,Ahmedabad,Store,Stationery,Printer Paper,2,380,0.05,722.0,577.6,144.4,Net Banking
+ORD-01079,2025-01-27,CUST-0121,Corporate,North,Lucknow,Online,Lifestyle,Water Bottle,5,550,0.0,2750.0,1842.5,907.5,Net Banking
+ORD-00092,2025-01-30,CUST-0004,Consumer,North,Chandigarh,Marketplace,Accessories,USB-C Hub,1,1800,0.1,1620.0,1350.0,270.0,Credit Card
+ORD-00194,2025-01-30,CUST-0317,Consumer,North,Chandigarh,Store,Electronics,Webcam,1,3200,0.1,2880.0,2464.0,416.0,Cash
+ORD-00023,2025-01-30,CUST-0258,Small Business,West,Ahmedabad,Marketplace,Lifestyle,Backpack,2,1600,0.0,3200.0,2336.0,864.0,Credit Card
+ORD-00109,2025-01-31,CUST-0195,Consumer,North,Delhi,Store,Electronics,Phone Charger,1,750,0.05,712.5,517.5,195.0,UPI
+ORD-00798,2025-02-03,CUST-0283,Corporate,North,Delhi,Marketplace,Accessories,USB-C Hub,3,1800,0.0,5400.0,4050.0,1350.0,Net Banking
+ORD-00322,2025-02-03,CUST-0295,Corporate,East,Patna,Marketplace,Home Office,Storage Box,1,480,0.1,432.0,345.6,86.4,UPI
+ORD-00416,2025-02-03,CUST-0139,Corporate,North,Chandigarh,Marketplace,Furniture,Bookshelf,1,6200,0.05,5890.0,4960.0,930.0,Net Banking
+ORD-00471,2025-02-05,CUST-0264,Corporate,East,Bhubaneswar,Online,Lifestyle,Backpack,4,1600,0.0,6400.0,4672.0,1728.0,Cash
+ORD-00362,2025-02-05,CUST-0092,Consumer,West,Mumbai,Marketplace,Electronics,Phone Charger,1,750,0.0,750.0,517.5,232.5,UPI
+ORD-00862,2025-02-06,CUST-0030,Consumer,North,Jaipur,Marketplace,Stationery,Gel Pens,2,120,0.05,228.0,148.8,79.2,Net Banking
+ORD-00281,2025-02-06,CUST-0122,Small Business,South,Kochi,Marketplace,Lifestyle,Backpack,4,1600,0.05,6080.0,4672.0,1408.0,Debit Card
+ORD-00571,2025-02-07,CUST-0015,Small Business,Central,Nagpur,Store,Electronics,Webcam,3,3200,0.15,8160.0,7392.0,768.0,Debit Card
+ORD-00645,2025-02-08,CUST-0169,Corporate,West,Surat,Store,Electronics,Phone Charger,1,750,0.1,675.0,517.5,157.5,Cash
+ORD-00234,2025-02-08,CUST-0320,Corporate,East,Patna,Marketplace,Furniture,Bookshelf,5,6200,0.2,24800.0,24800.0,0.0,Credit Card
+ORD-00101,2025-02-09,CUST-0306,Consumer,North,Chandigarh,Marketplace,Stationery,Gel Pens,3,120,0.15,306.0,223.2,82.8,UPI
+ORD-00256,2025-02-11,CUST-0114,Small Business,East,Bhubaneswar,Marketplace,Furniture,Office Chair,3,7800,0.2,18720.0,18252.0,468.0,UPI
+ORD-00387,2025-02-11,CUST-0247,Corporate,West,Ahmedabad,Marketplace,Electronics,Monitor,2,12500,0.0,25000.0,21000.0,4000.0,UPI
+ORD-00630,2025-02-11,CUST-0197,Corporate,Central,Nagpur,Store,Lifestyle,Backpack,2,1600,0.05,3040.0,2336.0,704.0,Net Banking
+ORD-00218,2025-02-11,CUST-0008,Consumer,Central,Indore,Marketplace,Accessories,USB-C Hub,1,1800,0.1,1620.0,1350.0,270.0,Cash
+ORD-00839,2025-02-14,CUST-0037,Corporate,East,Kolkata,Online,Lifestyle,Water Bottle,1,550,0.0,550.0,368.5,181.5,Debit Card
+ORD-00055,2025-02-14,CUST-0169,Corporate,North,Jaipur,Online,Furniture,Study Desk,4,9500,0.1,34200.0,31160.0,3040.0,Cash
+ORD-00671,2025-02-17,CUST-0042,Consumer,East,Guwahati,Store,Stationery,Notebook Pack,1,250,0.0,250.0,162.5,87.5,Net Banking
+ORD-00729,2025-02-18,CUST-0282,Consumer,Central,Raipur,Store,Electronics,Webcam,2,3200,0.15,5440.0,4928.0,512.0,Credit Card
+ORD-01044,2025-02-19,CUST-0271,Corporate,South,Kochi,Marketplace,Accessories,Wireless Mouse,2,650,0.05,1235.0,884.0,351.0,Debit Card
+ORD-00345,2025-02-20,CUST-0063,Consumer,Central,Indore,Marketplace,Stationery,Notebook Pack,3,250,0.1,675.0,487.5,187.5,Debit Card
+ORD-00753,2025-02-22,CUST-0043,Corporate,South,Kochi,Marketplace,Furniture,Office Chair,4,7800,0.15,26520.0,24336.0,2184.0,Debit Card
+ORD-00992,2025-02-23,CUST-0138,Small Business,South,Chennai,Online,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,Debit Card
+ORD-01096,2025-02-24,CUST-0172,Consumer,South,Bengaluru,Online,Accessories,Wireless Mouse,2,650,0.1,1170.0,884.0,286.0,Credit Card
+ORD-00805,2025-02-24,CUST-0285,Consumer,Central,Indore,Online,Electronics,Headphones,3,2400,0.0,7200.0,5328.0,1872.0,Credit Card
+ORD-00684,2025-02-25,CUST-0328,Small Business,West,Ahmedabad,Marketplace,Electronics,Phone Charger,2,750,0.15,1275.0,1035.0,240.0,UPI
+ORD-00247,2025-02-26,CUST-0022,Corporate,North,Jaipur,Marketplace,Stationery,Printer Paper,4,380,0.0,1520.0,1155.2,364.8,UPI
+ORD-00060,2025-02-27,CUST-0223,Small Business,North,Chandigarh,Marketplace,Furniture,Office Chair,1,7800,0.1,7020.0,6084.0,936.0,UPI
+ORD-00382,2025-02-27,CUST-0248,Small Business,Central,Indore,Online,Electronics,Phone Charger,5,750,0.1,3375.0,2587.5,787.5,Cash
+ORD-00810,2025-02-27,CUST-0240,Corporate,Central,Indore,Online,Stationery,Notebook Pack,2,250,0.1,450.0,325.0,125.0,Credit Card
+ORD-00907,2025-02-28,CUST-0197,Small Business,North,Jaipur,Store,Furniture,Bookshelf,1,6200,0.1,5580.0,4960.0,620.0,Net Banking
+ORD-00418,2025-02-28,CUST-0315,Consumer,West,Pune,Marketplace,Accessories,Laptop Stand,1,850,0.05,807.5,612.0,195.5,Debit Card
+ORD-00314,2025-03-02,CUST-0164,Corporate,South,Chennai,Store,Stationery,Notebook Pack,2,250,0.1,450.0,325.0,125.0,Cash
+ORD-00019,2025-03-02,CUST-0267,Consumer,North,Lucknow,Online,Accessories,Keyboard,1,1200,0.1,1080.0,840.0,240.0,Credit Card
+ORD-00459,2025-03-02,CUST-0192,Consumer,West,Mumbai,Marketplace,Electronics,Webcam,2,3200,0.1,5760.0,4928.0,832.0,UPI
+ORD-00677,2025-03-02,CUST-0005,Small Business,East,Bhubaneswar,Online,Accessories,USB-C Hub,5,1800,0.1,8100.0,6750.0,1350.0,Debit Card
+ORD-00832,2025-03-03,CUST-0281,Small Business,Central,Nagpur,Marketplace,Electronics,Monitor,1,12500,0.15,10625.0,10500.0,125.0,Cash
+ORD-00421,2025-03-04,CUST-0252,Corporate,South,Bengaluru,Marketplace,Accessories,USB-C Hub,2,1800,0.0,3600.0,2700.0,900.0,Net Banking
+ORD-00151,2025-03-04,CUST-0076,Small Business,Central,Raipur,Store,Accessories,Wireless Mouse,1,650,0.1,585.0,442.0,143.0,Cash
+ORD-00506,2025-03-05,CUST-0216,Small Business,West,Pune,Marketplace,Accessories,Laptop Stand,1,850,0.15,722.5,612.0,110.5,Debit Card
+ORD-00526,2025-03-05,CUST-0147,Consumer,West,Surat,Marketplace,Stationery,Printer Paper,1,380,0.0,380.0,288.8,91.2,Credit Card
+ORD-00762,2025-03-05,CUST-0334,Corporate,East,Patna,Marketplace,Electronics,Phone Charger,1,750,0.05,712.5,517.5,195.0,UPI
+ORD-00842,2025-03-06,CUST-0014,Small Business,South,Kochi,Online,Lifestyle,Backpack,1,1600,0.15,1360.0,1168.0,192.0,Debit Card
+ORD-00743,2025-03-06,CUST-0146,Consumer,West,Mumbai,Marketplace,Home Office,Storage Box,2,480,0.1,864.0,691.2,172.8,Credit Card
+ORD-00861,2025-03-07,CUST-0250,Consumer,South,Bengaluru,Store,Home Office,Desk Lamp,1,1350,0.2,1080.0,958.5,121.5,Cash
+ORD-00647,2025-03-07,CUST-0309,Consumer,North,Lucknow,Online,Electronics,Monitor,1,12500,0.0,12500.0,10500.0,2000.0,UPI
+ORD-01002,2025-03-08,CUST-0287,Consumer,East,Guwahati,Online,Accessories,Laptop Stand,1,850,0.05,807.5,612.0,195.5,Debit Card
+ORD-00307,2025-03-09,CUST-0255,Small Business,East,Bhubaneswar,Store,Home Office,Desk Lamp,1,1350,0.15,1147.5,958.5,189.0,Cash
+ORD-00551,2025-03-09,CUST-0096,Small Business,North,Delhi,Online,Stationery,Gel Pens,3,120,0.05,342.0,223.2,118.8,UPI
+ORD-00002,2025-03-10,CUST-0093,Small Business,North,Chandigarh,Store,Accessories,USB-C Hub,2,1800,0.0,3600.0,2700.0,900.0,Net Banking
+ORD-01103,2025-03-10,CUST-0255,Consumer,North,Delhi,Online,Lifestyle,Backpack,2,1600,0.15,2720.0,2336.0,384.0,Debit Card
+ORD-01062,2025-03-11,CUST-0190,Consumer,South,Bengaluru,Online,Home Office,Storage Box,2,480,0.1,864.0,691.2,172.8,Cash
+ORD-01158,2025-03-11,CUST-0054,Corporate,Central,Raipur,Marketplace,Stationery,Printer Paper,2,380,0.05,722.0,577.6,144.4,Net Banking
+ORD-00917,2025-03-12,CUST-0060,Consumer,West,Mumbai,Store,Electronics,Webcam,2,3200,0.05,6080.0,4928.0,1152.0,Credit Card
+ORD-00919,2025-03-12,CUST-0078,Small Business,North,Lucknow,Marketplace,Furniture,Office Chair,3,7800,0.0,23400.0,18252.0,5148.0,Credit Card
+ORD-00428,2025-03-13,CUST-0149,Corporate,East,Patna,Store,Furniture,Bookshelf,2,6200,0.0,12400.0,9920.0,2480.0,UPI
+ORD-00197,2025-03-14,CUST-0301,Consumer,Central,Indore,Store,Stationery,Notebook Pack,2,250,0.1,450.0,325.0,125.0,Credit Card
+ORD-00725,2025-03-14,CUST-0254,Small Business,West,Mumbai,Marketplace,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,UPI
+ORD-01104,2025-03-14,CUST-0019,Small Business,East,Guwahati,Online,Electronics,Monitor,2,12500,0.0,25000.0,21000.0,4000.0,Credit Card
+ORD-00972,2025-03-15,CUST-0021,Corporate,West,Ahmedabad,Store,Electronics,Monitor,3,12500,0.1,33750.0,31500.0,2250.0,UPI
+ORD-00643,2025-03-15,CUST-0245,Small Business,North,Delhi,Online,Stationery,Printer Paper,2,380,0.15,646.0,577.6,68.4,Cash
+ORD-00823,2025-03-16,CUST-0040,Small Business,Central,Indore,Marketplace,Accessories,Wireless Mouse,1,650,0.2,520.0,442.0,78.0,Cash
+ORD-00756,2025-03-16,CUST-0278,Corporate,North,Lucknow,Online,Stationery,Printer Paper,3,380,0.1,1026.0,866.4,159.6,UPI
+ORD-00412,2025-03-17,CUST-0094,Small Business,Central,Indore,Store,Stationery,Printer Paper,4,380,0.0,1520.0,1155.2,364.8,Credit Card
+ORD-00458,2025-03-17,CUST-0004,Small Business,East,Kolkata,Online,Furniture,Bookshelf,4,6200,0.1,22320.0,19840.0,2480.0,Net Banking
+ORD-00994,2025-03-17,CUST-0023,Small Business,West,Surat,Marketplace,Lifestyle,Water Bottle,1,550,0.0,550.0,368.5,181.5,Credit Card
+ORD-00338,2025-03-17,CUST-0180,Consumer,West,Ahmedabad,Online,Lifestyle,Water Bottle,2,550,0.0,1100.0,737.0,363.0,Debit Card
+ORD-00908,2025-03-17,CUST-0230,Small Business,North,Delhi,Store,Electronics,Phone Charger,3,750,0.0,2250.0,1552.5,697.5,UPI
+ORD-00932,2025-03-17,CUST-0209,Corporate,East,Patna,Store,Stationery,Notebook Pack,2,250,0.15,425.0,325.0,100.0,Net Banking
+ORD-00349,2025-03-17,CUST-0145,Small Business,West,Mumbai,Store,Electronics,Phone Charger,1,750,0.0,750.0,517.5,232.5,Credit Card
+ORD-00982,2025-03-19,CUST-0207,Corporate,East,Bhubaneswar,Store,Accessories,Wireless Mouse,5,650,0.2,2600.0,2210.0,390.0,Net Banking
+ORD-01138,2025-03-20,CUST-0156,Small Business,South,Chennai,Store,Home Office,Desk Lamp,4,1350,0.0,5400.0,3834.0,1566.0,UPI
+ORD-00185,2025-03-20,CUST-0311,Consumer,West,Ahmedabad,Online,Accessories,USB-C Hub,4,1800,0.05,6840.0,5400.0,1440.0,Debit Card
+ORD-00441,2025-03-22,CUST-0089,Small Business,South,Bengaluru,Store,Home Office,Storage Box,1,480,0.1,432.0,345.6,86.4,Cash
+ORD-00138,2025-03-23,CUST-0171,Small Business,North,Lucknow,Store,Home Office,Storage Box,4,480,0.0,1920.0,1382.4,537.6,Debit Card
+ORD-01022,2025-03-23,CUST-0249,Consumer,South,Chennai,Store,Electronics,Webcam,1,3200,0.1,2880.0,2464.0,416.0,Cash
+ORD-00761,2025-03-24,CUST-0036,Consumer,Central,Nagpur,Online,Lifestyle,Backpack,1,1600,0.1,1440.0,1168.0,272.0,Cash
+ORD-01086,2025-03-25,CUST-0270,Consumer,West,Mumbai,Online,Stationery,Printer Paper,2,380,0.1,684.0,577.6,106.4,Net Banking
+ORD-00091,2025-03-26,CUST-0056,Consumer,North,Delhi,Online,Home Office,Storage Box,2,480,0.0,960.0,691.2,268.8,UPI
+ORD-00134,2025-03-26,CUST-0288,Consumer,Central,Nagpur,Marketplace,Home Office,Storage Box,3,480,0.0,1440.0,1036.8,403.2,Debit Card
+ORD-00271,2025-03-28,CUST-0142,Small Business,Central,Nagpur,Online,Accessories,USB-C Hub,4,1800,0.1,6480.0,5400.0,1080.0,Net Banking
+ORD-00043,2025-03-28,CUST-0176,Corporate,Central,Indore,Store,Electronics,Monitor,2,12500,0.05,23750.0,21000.0,2750.0,Net Banking
+ORD-00006,2025-03-28,CUST-0210,Corporate,North,Delhi,Marketplace,Accessories,Wireless Mouse,3,650,0.05,1852.5,1326.0,526.5,Cash
+ORD-00887,2025-03-28,CUST-0226,Small Business,Central,Indore,Marketplace,Electronics,Phone Charger,3,750,0.0,2250.0,1552.5,697.5,Credit Card
+ORD-00879,2025-03-29,CUST-0185,Corporate,Central,Nagpur,Store,Accessories,Wireless Mouse,1,650,0.0,650.0,442.0,208.0,Cash
+ORD-00868,2025-03-29,CUST-0026,Consumer,South,Hyderabad,Online,Furniture,Office Chair,1,7800,0.15,6630.0,6084.0,546.0,Cash
+ORD-01071,2025-03-30,CUST-0031,Corporate,North,Delhi,Marketplace,Electronics,Phone Charger,5,750,0.0,3750.0,2587.5,1162.5,Credit Card
+ORD-00068,2025-03-30,CUST-0208,Corporate,North,Delhi,Store,Accessories,Keyboard,3,1200,0.05,3420.0,2520.0,900.0,UPI
+ORD-00664,2025-03-31,CUST-0061,Consumer,West,Surat,Store,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,Net Banking
+ORD-00971,2025-03-31,CUST-0161,Corporate,North,Delhi,Online,Accessories,Keyboard,3,1200,0.0,3600.0,2520.0,1080.0,Debit Card
+ORD-00685,2025-03-31,CUST-0343,Consumer,West,Mumbai,Marketplace,Furniture,Bookshelf,3,6200,0.2,14880.0,14880.0,0.0,UPI
+ORD-00888,2025-04-04,CUST-0243,Consumer,Central,Raipur,Online,Accessories,Laptop Stand,5,850,0.0,4250.0,3060.0,1190.0,Cash
+ORD-00493,2025-04-04,CUST-0063,Small Business,West,Surat,Online,Accessories,USB-C Hub,2,1800,0.1,3240.0,2700.0,540.0,UPI
+ORD-00272,2025-04-04,CUST-0115,Corporate,North,Lucknow,Online,Furniture,Bookshelf,1,6200,0.1,5580.0,4960.0,620.0,Debit Card
+ORD-00010,2025-04-04,CUST-0214,Corporate,West,Ahmedabad,Online,Home Office,Desk Lamp,2,1350,0.2,2160.0,1917.0,243.0,Net Banking
+ORD-00249,2025-04-06,CUST-0073,Small Business,South,Bengaluru,Marketplace,Accessories,Keyboard,1,1200,0.05,1140.0,840.0,300.0,Debit Card
+ORD-00206,2025-04-07,CUST-0330,Small Business,West,Mumbai,Marketplace,Accessories,USB-C Hub,1,1800,0.1,1620.0,1350.0,270.0,Credit Card
+ORD-00304,2025-04-07,CUST-0277,Consumer,Central,Bhopal,Marketplace,Electronics,Webcam,4,3200,0.1,11520.0,9856.0,1664.0,Cash
+ORD-00880,2025-04-09,CUST-0003,Corporate,East,Patna,Online,Stationery,Printer Paper,1,380,0.05,361.0,288.8,72.2,Cash
+ORD-00916,2025-04-09,CUST-0265,Small Business,Central,Indore,Store,Home Office,Storage Box,3,480,0.0,1440.0,1036.8,403.2,Net Banking
+ORD-00720,2025-04-09,CUST-0099,Consumer,North,Jaipur,Online,Stationery,Notebook Pack,2,250,0.1,450.0,325.0,125.0,UPI
+ORD-00503,2025-04-10,CUST-0107,Consumer,South,Kochi,Online,Stationery,Notebook Pack,1,250,0.2,200.0,162.5,37.5,Credit Card
+ORD-00737,2025-04-10,CUST-0240,Small Business,Central,Bhopal,Store,Furniture,Office Chair,2,7800,0.2,12480.0,12168.0,312.0,Cash
+ORD-00665,2025-04-11,CUST-0293,Consumer,West,Surat,Store,Lifestyle,Backpack,4,1600,0.0,6400.0,4672.0,1728.0,Cash
+ORD-00950,2025-04-11,CUST-0309,Corporate,South,Bengaluru,Online,Accessories,USB-C Hub,3,1800,0.15,4590.0,4050.0,540.0,Credit Card
+ORD-00320,2025-04-12,CUST-0007,Consumer,North,Jaipur,Store,Furniture,Study Desk,1,9500,0.15,8075.0,7790.0,285.0,Net Banking
+ORD-00182,2025-04-12,CUST-0262,Corporate,West,Surat,Store,Electronics,Headphones,2,2400,0.2,3840.0,3552.0,288.0,Debit Card
+ORD-00943,2025-04-13,CUST-0030,Small Business,South,Chennai,Online,Electronics,Webcam,1,3200,0.0,3200.0,2464.0,736.0,Net Banking
+ORD-00838,2025-04-13,CUST-0078,Small Business,East,Kolkata,Online,Stationery,Notebook Pack,1,250,0.0,250.0,162.5,87.5,UPI
+ORD-00111,2025-04-14,CUST-0222,Consumer,West,Mumbai,Store,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,Cash
+ORD-00169,2025-04-17,CUST-0056,Corporate,South,Bengaluru,Store,Accessories,Wireless Mouse,1,650,0.1,585.0,442.0,143.0,Credit Card
+ORD-00521,2025-04-18,CUST-0085,Corporate,Central,Nagpur,Online,Electronics,Webcam,4,3200,0.15,10880.0,9856.0,1024.0,Cash
+ORD-00793,2025-04-18,CUST-0004,Corporate,South,Bengaluru,Marketplace,Electronics,Headphones,2,2400,0.15,4080.0,3552.0,528.0,UPI
+ORD-00900,2025-04-19,CUST-0094,Consumer,West,Surat,Online,Furniture,Bookshelf,4,6200,0.0,24800.0,19840.0,4960.0,UPI
+ORD-00989,2025-04-19,CUST-0204,Small Business,South,Kochi,Online,Accessories,USB-C Hub,4,1800,0.1,6480.0,5400.0,1080.0,UPI
+ORD-00113,2025-04-19,CUST-0269,Corporate,East,Guwahati,Store,Accessories,USB-C Hub,3,1800,0.2,4320.0,4050.0,270.0,UPI
+ORD-00815,2025-04-19,CUST-0145,Small Business,East,Bhubaneswar,Store,Electronics,Phone Charger,1,750,0.1,675.0,517.5,157.5,Cash
+ORD-00629,2025-04-20,CUST-0025,Consumer,West,Pune,Store,Accessories,Wireless Mouse,2,650,0.0,1300.0,884.0,416.0,Credit Card
+ORD-01033,2025-04-21,CUST-0129,Consumer,East,Guwahati,Store,Home Office,Storage Box,1,480,0.15,408.0,345.6,62.4,UPI
+ORD-00253,2025-04-21,CUST-0103,Consumer,Central,Nagpur,Store,Electronics,Headphones,2,2400,0.1,4320.0,3552.0,768.0,UPI
+ORD-00760,2025-04-21,CUST-0274,Consumer,West,Ahmedabad,Marketplace,Accessories,Keyboard,3,1200,0.0,3600.0,2520.0,1080.0,Cash
+ORD-00846,2025-04-22,CUST-0330,Consumer,North,Jaipur,Online,Home Office,Desk Lamp,1,1350,0.1,1215.0,958.5,256.5,Net Banking
+ORD-00730,2025-04-24,CUST-0097,Corporate,West,Ahmedabad,Store,Home Office,Desk Lamp,1,1350,0.05,1282.5,958.5,324.0,UPI
+ORD-00574,2025-04-25,CUST-0162,Consumer,South,Kochi,Store,Stationery,Gel Pens,1,120,0.15,102.0,74.4,27.6,Credit Card
+ORD-00003,2025-04-25,CUST-0213,Corporate,West,Ahmedabad,Online,Electronics,Phone Charger,1,750,0.2,600.0,517.5,82.5,Credit Card
+ORD-00374,2025-04-28,CUST-0258,Small Business,West,Surat,Marketplace,Stationery,Notebook Pack,2,250,0.0,500.0,325.0,175.0,Net Banking
+ORD-01075,2025-04-29,CUST-0253,Consumer,West,Surat,Marketplace,Electronics,Webcam,3,3200,0.0,9600.0,7392.0,2208.0,Cash
+ORD-01161,2025-04-29,CUST-0153,Corporate,North,Jaipur,Online,Stationery,Gel Pens,1,120,0.1,108.0,74.4,33.6,Net Banking
+ORD-00985,2025-04-29,CUST-0253,Corporate,East,Bhubaneswar,Marketplace,Lifestyle,Water Bottle,1,550,0.1,495.0,368.5,126.5,UPI
+ORD-00576,2025-04-30,CUST-0308,Small Business,Central,Raipur,Marketplace,Home Office,Storage Box,3,480,0.1,1296.0,1036.8,259.2,Cash
+ORD-00813,2025-04-30,CUST-0212,Corporate,East,Guwahati,Online,Electronics,Webcam,1,3200,0.1,2880.0,2464.0,416.0,UPI
+ORD-00945,2025-05-01,CUST-0242,Consumer,North,Jaipur,Marketplace,Electronics,Phone Charger,2,750,0.0,1500.0,1035.0,465.0,Cash
+ORD-00291,2025-05-02,CUST-0168,Consumer,East,Kolkata,Store,Accessories,Laptop Stand,4,850,0.1,3060.0,2448.0,612.0,Credit Card
+ORD-00883,2025-05-02,CUST-0203,Consumer,South,Hyderabad,Marketplace,Lifestyle,Water Bottle,2,550,0.1,990.0,737.0,253.0,Debit Card
+ORD-01061,2025-05-02,CUST-0285,Small Business,West,Ahmedabad,Marketplace,Accessories,USB-C Hub,2,1800,0.2,2880.0,2700.0,180.0,Credit Card
+ORD-00103,2025-05-02,CUST-0125,Corporate,East,Guwahati,Online,Furniture,Office Chair,2,7800,0.0,15600.0,12168.0,3432.0,Credit Card
+ORD-00669,2025-05-02,CUST-0060,Corporate,East,Kolkata,Marketplace,Electronics,Monitor,1,12500,0.15,10625.0,10500.0,125.0,Credit Card
+ORD-00835,2025-05-03,CUST-0057,Corporate,East,Guwahati,Online,Electronics,Headphones,3,2400,0.0,7200.0,5328.0,1872.0,UPI
+ORD-00505,2025-05-05,CUST-0174,Small Business,South,Kochi,Store,Lifestyle,Water Bottle,4,550,0.1,1980.0,1474.0,506.0,Credit Card
+ORD-00606,2025-05-05,CUST-0088,Small Business,East,Bhubaneswar,Store,Stationery,Printer Paper,1,380,0.2,304.0,288.8,15.2,Net Banking
+ORD-00659,2025-05-05,CUST-0067,Corporate,West,Mumbai,Store,Home Office,Desk Lamp,1,1350,0.05,1282.5,958.5,324.0,Cash
+ORD-00970,2025-05-06,CUST-0195,Corporate,Central,Bhopal,Marketplace,Furniture,Bookshelf,2,6200,0.0,12400.0,9920.0,2480.0,Credit Card
+ORD-00123,2025-05-06,CUST-0191,Consumer,South,Hyderabad,Marketplace,Lifestyle,Backpack,3,1600,0.15,4080.0,3504.0,576.0,Cash
+ORD-00110,2025-05-06,CUST-0127,Small Business,West,Mumbai,Online,Stationery,Gel Pens,2,120,0.0,240.0,148.8,91.2,Cash
+ORD-00306,2025-05-07,CUST-0199,Corporate,South,Bengaluru,Marketplace,Accessories,Wireless Mouse,1,650,0.05,617.5,442.0,175.5,Credit Card
+ORD-00137,2025-05-07,CUST-0138,Corporate,East,Bhubaneswar,Online,Electronics,Phone Charger,1,750,0.0,750.0,517.5,232.5,Cash
+ORD-00346,2025-05-09,CUST-0215,Consumer,Central,Nagpur,Store,Stationery,Notebook Pack,1,250,0.0,250.0,162.5,87.5,Credit Card
+ORD-01144,2025-05-10,CUST-0058,Consumer,East,Patna,Online,Stationery,Notebook Pack,2,250,0.1,450.0,325.0,125.0,Credit Card
+ORD-00457,2025-05-10,CUST-0239,Corporate,West,Pune,Marketplace,Stationery,Gel Pens,3,120,0.1,324.0,223.2,100.8,Net Banking
+ORD-01087,2025-05-10,CUST-0327,Consumer,South,Hyderabad,Online,Stationery,Gel Pens,5,120,0.0,600.0,372.0,228.0,UPI
+ORD-00248,2025-05-10,CUST-0336,Consumer,Central,Raipur,Marketplace,Electronics,Phone Charger,4,750,0.0,3000.0,2070.0,930.0,Debit Card
+ORD-00243,2025-05-10,CUST-0004,Small Business,East,Patna,Marketplace,Furniture,Office Chair,1,7800,0.05,7410.0,6084.0,1326.0,Debit Card
+ORD-00690,2025-05-10,CUST-0191,Corporate,Central,Indore,Store,Accessories,Wireless Mouse,1,650,0.0,650.0,442.0,208.0,Credit Card
+ORD-00275,2025-05-12,CUST-0120,Consumer,Central,Raipur,Online,Accessories,Laptop Stand,1,850,0.15,722.5,612.0,110.5,Credit Card
+ORD-00513,2025-05-12,CUST-0172,Small Business,West,Surat,Store,Home Office,Storage Box,3,480,0.2,1152.0,1036.8,115.2,Net Banking
+ORD-00694,2025-05-12,CUST-0079,Small Business,North,Lucknow,Online,Furniture,Study Desk,4,9500,0.0,38000.0,31160.0,6840.0,Credit Card
+ORD-00597,2025-05-13,CUST-0178,Small Business,South,Kochi,Store,Electronics,Webcam,5,3200,0.0,16000.0,12320.0,3680.0,Cash
+ORD-00354,2025-05-13,CUST-0078,Corporate,Central,Nagpur,Marketplace,Lifestyle,Backpack,2,1600,0.05,3040.0,2336.0,704.0,Credit Card
+ORD-00774,2025-05-13,CUST-0100,Consumer,East,Bhubaneswar,Store,Lifestyle,Backpack,2,1600,0.1,2880.0,2336.0,544.0,Net Banking
+ORD-00533,2025-05-14,CUST-0117,Small Business,Central,Bhopal,Marketplace,Accessories,Wireless Mouse,4,650,0.15,2210.0,1768.0,442.0,UPI
+ORD-00794,2025-05-14,CUST-0040,Consumer,East,Patna,Marketplace,Lifestyle,Backpack,1,1600,0.0,1600.0,1168.0,432.0,Debit Card
+ORD-01175,2025-05-14,CUST-0239,Small Business,West,Pune,Marketplace,Accessories,Wireless Mouse,3,650,0.0,1950.0,1326.0,624.0,Net Banking
+ORD-00018,2025-05-14,CUST-0161,Corporate,South,Kochi,Online,Electronics,Headphones,2,2400,0.1,4320.0,3552.0,768.0,Debit Card
+ORD-00584,2025-05-14,CUST-0016,Consumer,West,Surat,Online,Accessories,USB-C Hub,2,1800,0.15,3060.0,2700.0,360.0,Cash
+ORD-00836,2025-05-15,CUST-0021,Consumer,Central,Raipur,Store,Electronics,Monitor,1,12500,0.2,10000.0,10500.0,-500.0,UPI
+ORD-01143,2025-05-15,CUST-0323,Corporate,North,Jaipur,Online,Electronics,Headphones,3,2400,0.0,7200.0,5328.0,1872.0,Debit Card
+ORD-01184,2025-05-15,CUST-0185,Small Business,North,Chandigarh,Marketplace,Stationery,Gel Pens,1,120,0.05,114.0,74.4,39.6,UPI
+ORD-00097,2025-05-15,CUST-0334,Corporate,South,Bengaluru,Store,Furniture,Office Chair,2,7800,0.05,14820.0,12168.0,2652.0,UPI
+ORD-00535,2025-05-16,CUST-0041,Corporate,Central,Nagpur,Online,Home Office,Desk Lamp,3,1350,0.05,3847.5,2875.5,972.0,UPI
+ORD-01021,2025-05-16,CUST-0256,Consumer,South,Bengaluru,Online,Furniture,Office Chair,3,7800,0.1,21060.0,18252.0,2808.0,UPI
+ORD-00615,2025-05-16,CUST-0168,Corporate,Central,Raipur,Online,Electronics,Phone Charger,2,750,0.15,1275.0,1035.0,240.0,Net Banking
+ORD-00077,2025-05-16,CUST-0038,Small Business,North,Delhi,Online,Stationery,Gel Pens,3,120,0.15,306.0,223.2,82.8,Cash
+ORD-00136,2025-05-17,CUST-0107,Consumer,East,Bhubaneswar,Store,Furniture,Bookshelf,1,6200,0.1,5580.0,4960.0,620.0,Debit Card
+ORD-00297,2025-05-18,CUST-0247,Consumer,South,Kochi,Store,Accessories,Laptop Stand,4,850,0.15,2890.0,2448.0,442.0,Credit Card
+ORD-00875,2025-05-20,CUST-0337,Small Business,West,Surat,Online,Home Office,Desk Lamp,4,1350,0.1,4860.0,3834.0,1026.0,UPI
+ORD-00939,2025-05-20,CUST-0291,Consumer,South,Hyderabad,Online,Stationery,Printer Paper,1,380,0.05,361.0,288.8,72.2,Credit Card
+ORD-00724,2025-05-21,CUST-0135,Consumer,South,Bengaluru,Store,Accessories,Keyboard,4,1200,0.15,4080.0,3360.0,720.0,UPI
+ORD-01141,2025-05-22,CUST-0263,Corporate,East,Guwahati,Marketplace,Stationery,Gel Pens,3,120,0.15,306.0,223.2,82.8,Debit Card
+ORD-00700,2025-05-22,CUST-0256,Corporate,North,Jaipur,Marketplace,Accessories,Laptop Stand,2,850,0.1,1530.0,1224.0,306.0,Net Banking
+ORD-00670,2025-05-24,CUST-0199,Corporate,East,Patna,Marketplace,Lifestyle,Backpack,2,1600,0.1,2880.0,2336.0,544.0,Cash
+ORD-00117,2025-05-24,CUST-0331,Small Business,East,Kolkata,Marketplace,Furniture,Study Desk,4,9500,0.0,38000.0,31160.0,6840.0,Debit Card
+ORD-00411,2025-05-25,CUST-0307,Consumer,North,Jaipur,Online,Electronics,Webcam,1,3200,0.05,3040.0,2464.0,576.0,Net Banking
+ORD-00734,2025-05-25,CUST-0118,Small Business,South,Bengaluru,Marketplace,Electronics,Monitor,1,12500,0.0,12500.0,10500.0,2000.0,UPI
+ORD-00232,2025-05-25,CUST-0191,Consumer,Central,Bhopal,Marketplace,Lifestyle,Backpack,1,1600,0.0,1600.0,1168.0,432.0,Debit Card
+ORD-00066,2025-05-27,CUST-0100,Small Business,South,Hyderabad,Store,Home Office,Storage Box,3,480,0.15,1224.0,1036.8,187.2,UPI
+ORD-00890,2025-05-27,CUST-0277,Small Business,North,Delhi,Marketplace,Stationery,Notebook Pack,1,250,0.1,225.0,162.5,62.5,Net Banking
+ORD-01097,2025-05-28,CUST-0190,Corporate,South,Hyderabad,Marketplace,Accessories,Wireless Mouse,1,650,0.0,650.0,442.0,208.0,Cash
+ORD-00758,2025-05-29,CUST-0265,Small Business,West,Mumbai,Online,Electronics,Monitor,1,12500,0.05,11875.0,10500.0,1375.0,Net Banking
+ORD-00721,2025-05-29,CUST-0186,Corporate,North,Jaipur,Marketplace,Electronics,Phone Charger,2,750,0.1,1350.0,1035.0,315.0,Debit Card
+ORD-00952,2025-05-30,CUST-0172,Corporate,West,Ahmedabad,Store,Furniture,Study Desk,1,9500,0.0,9500.0,7790.0,1710.0,Credit Card
+ORD-00119,2025-05-30,CUST-0106,Corporate,East,Patna,Store,Accessories,Keyboard,1,1200,0.1,1080.0,840.0,240.0,Debit Card
+ORD-01093,2025-05-31,CUST-0277,Corporate,East,Guwahati,Online,Electronics,Webcam,1,3200,0.0,3200.0,2464.0,736.0,Cash
+ORD-00359,2025-05-31,CUST-0111,Small Business,West,Pune,Store,Stationery,Notebook Pack,1,250,0.05,237.5,162.5,75.0,Credit Card
+ORD-00085,2025-06-01,CUST-0237,Corporate,North,Chandigarh,Marketplace,Electronics,Headphones,4,2400,0.1,8640.0,7104.0,1536.0,Credit Card
+ORD-00556,2025-06-01,CUST-0143,Small Business,Central,Bhopal,Online,Furniture,Bookshelf,2,6200,0.1,11160.0,9920.0,1240.0,Credit Card
+ORD-00096,2025-06-01,CUST-0054,Consumer,West,Ahmedabad,Marketplace,Stationery,Gel Pens,1,120,0.0,120.0,74.4,45.6,Debit Card
+ORD-00592,2025-06-01,CUST-0261,Small Business,South,Chennai,Marketplace,Furniture,Office Chair,1,7800,0.0,7800.0,6084.0,1716.0,Debit Card
+ORD-00283,2025-06-01,CUST-0348,Small Business,South,Hyderabad,Marketplace,Lifestyle,Water Bottle,1,550,0.15,467.5,368.5,99.0,Net Banking
+ORD-01052,2025-06-01,CUST-0096,Corporate,West,Surat,Marketplace,Stationery,Printer Paper,1,380,0.15,323.0,288.8,34.2,UPI
+ORD-00981,2025-06-01,CUST-0273,Corporate,Central,Raipur,Online,Stationery,Notebook Pack,2,250,0.0,500.0,325.0,175.0,Credit Card
+ORD-00905,2025-06-01,CUST-0120,Corporate,West,Surat,Store,Accessories,USB-C Hub,2,1800,0.05,3420.0,2700.0,720.0,Credit Card
+ORD-00090,2025-06-02,CUST-0051,Corporate,East,Kolkata,Store,Accessories,Keyboard,4,1200,0.1,4320.0,3360.0,960.0,Cash
+ORD-00722,2025-06-04,CUST-0338,Small Business,South,Chennai,Store,Electronics,Phone Charger,1,750,0.2,600.0,517.5,82.5,Credit Card
+ORD-00853,2025-06-05,CUST-0175,Corporate,South,Chennai,Marketplace,Furniture,Office Chair,1,7800,0.1,7020.0,6084.0,936.0,UPI
+ORD-00075,2025-06-06,CUST-0066,Corporate,Central,Raipur,Online,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,Cash
+ORD-00221,2025-06-07,CUST-0161,Corporate,South,Kochi,Online,Electronics,Headphones,4,2400,0.05,9120.0,7104.0,2016.0,Net Banking
+ORD-00557,2025-06-07,CUST-0061,Small Business,West,Ahmedabad,Store,Furniture,Office Chair,1,7800,0.1,7020.0,6084.0,936.0,UPI
+ORD-00759,2025-06-07,CUST-0065,Small Business,South,Hyderabad,Marketplace,Stationery,Notebook Pack,5,250,0.0,1250.0,812.5,437.5,UPI
+ORD-00826,2025-06-08,CUST-0296,Small Business,Central,Indore,Store,Lifestyle,Backpack,1,1600,0.0,1600.0,1168.0,432.0,Credit Card
+ORD-00152,2025-06-09,CUST-0118,Small Business,East,Patna,Online,Home Office,Storage Box,3,480,0.15,1224.0,1036.8,187.2,Credit Card
+ORD-00216,2025-06-09,CUST-0089,Corporate,South,Chennai,Marketplace,Electronics,Webcam,5,3200,0.0,16000.0,12320.0,3680.0,UPI
+ORD-00496,2025-06-09,CUST-0046,Small Business,West,Surat,Store,Stationery,Notebook Pack,3,250,0.05,712.5,487.5,225.0,Debit Card
+ORD-00504,2025-06-09,CUST-0339,Small Business,West,Pune,Store,Home Office,Storage Box,1,480,0.05,456.0,345.6,110.4,Credit Card
+ORD-01159,2025-06-10,CUST-0291,Small Business,South,Kochi,Online,Accessories,Wireless Mouse,4,650,0.05,2470.0,1768.0,702.0,Net Banking
+ORD-00865,2025-06-10,CUST-0062,Corporate,South,Bengaluru,Marketplace,Furniture,Study Desk,5,9500,0.05,45125.0,38950.0,6175.0,UPI
+ORD-00212,2025-06-11,CUST-0020,Small Business,Central,Nagpur,Marketplace,Electronics,Phone Charger,3,750,0.0,2250.0,1552.5,697.5,Debit Card
+ORD-00911,2025-06-11,CUST-0177,Corporate,Central,Raipur,Store,Furniture,Study Desk,2,9500,0.05,18050.0,15580.0,2470.0,Net Banking
+ORD-00609,2025-06-11,CUST-0049,Small Business,Central,Bhopal,Marketplace,Accessories,Laptop Stand,5,850,0.1,3825.0,3060.0,765.0,Net Banking
+ORD-00465,2025-06-12,CUST-0038,Consumer,West,Ahmedabad,Store,Stationery,Printer Paper,1,380,0.0,380.0,288.8,91.2,Net Banking
+ORD-01163,2025-06-12,CUST-0152,Small Business,South,Hyderabad,Online,Home Office,Storage Box,5,480,0.0,2400.0,1728.0,672.0,Net Banking
+ORD-00944,2025-06-12,CUST-0006,Consumer,West,Surat,Store,Lifestyle,Water Bottle,1,550,0.2,440.0,368.5,71.5,Net Banking
+ORD-01072,2025-06-13,CUST-0089,Corporate,West,Ahmedabad,Marketplace,Accessories,Keyboard,4,1200,0.0,4800.0,3360.0,1440.0,Cash
+ORD-01157,2025-06-13,CUST-0097,Corporate,East,Patna,Store,Furniture,Study Desk,2,9500,0.1,17100.0,15580.0,1520.0,Cash
+ORD-00118,2025-06-16,CUST-0285,Consumer,East,Patna,Online,Accessories,Laptop Stand,1,850,0.1,765.0,612.0,153.0,Cash
+ORD-00417,2025-06-16,CUST-0294,Small Business,East,Patna,Store,Stationery,Gel Pens,3,120,0.0,360.0,223.2,136.8,Credit Card
+ORD-00286,2025-06-16,CUST-0342,Small Business,East,Bhubaneswar,Online,Stationery,Notebook Pack,1,250,0.15,212.5,162.5,50.0,Cash
+ORD-01140,2025-06-17,CUST-0069,Small Business,Central,Indore,Store,Furniture,Bookshelf,3,6200,0.15,15810.0,14880.0,930.0,Net Banking
+ORD-00818,2025-06-17,CUST-0203,Corporate,Central,Bhopal,Store,Accessories,Laptop Stand,1,850,0.05,807.5,612.0,195.5,Debit Card
+ORD-00227,2025-06-17,CUST-0031,Consumer,North,Delhi,Store,Lifestyle,Water Bottle,5,550,0.0,2750.0,1842.5,907.5,Cash
+ORD-00742,2025-06-18,CUST-0310,Consumer,Central,Indore,Online,Electronics,Phone Charger,5,750,0.15,3187.5,2587.5,600.0,Credit Card
+ORD-00052,2025-06-20,CUST-0055,Consumer,Central,Bhopal,Online,Electronics,Phone Charger,5,750,0.05,3562.5,2587.5,975.0,Debit Card
+ORD-00641,2025-06-21,CUST-0147,Small Business,Central,Nagpur,Marketplace,Stationery,Notebook Pack,5,250,0.1,1125.0,812.5,312.5,UPI
+ORD-01004,2025-06-22,CUST-0065,Consumer,West,Pune,Store,Accessories,Keyboard,3,1200,0.05,3420.0,2520.0,900.0,Credit Card
+ORD-00429,2025-06-22,CUST-0229,Corporate,East,Bhubaneswar,Marketplace,Accessories,USB-C Hub,2,1800,0.1,3240.0,2700.0,540.0,Credit Card
+ORD-00856,2025-06-22,CUST-0309,Small Business,Central,Nagpur,Store,Stationery,Printer Paper,3,380,0.05,1083.0,866.4,216.6,Net Banking
+ORD-00189,2025-06-25,CUST-0237,Corporate,Central,Raipur,Store,Accessories,Wireless Mouse,2,650,0.0,1300.0,884.0,416.0,Credit Card
+ORD-00162,2025-06-25,CUST-0201,Small Business,North,Delhi,Store,Furniture,Office Chair,4,7800,0.15,26520.0,24336.0,2184.0,Net Banking
+ORD-00878,2025-06-26,CUST-0016,Consumer,East,Bhubaneswar,Store,Stationery,Notebook Pack,5,250,0.05,1187.5,812.5,375.0,Net Banking
+ORD-00064,2025-06-29,CUST-0148,Corporate,East,Guwahati,Store,Accessories,USB-C Hub,1,1800,0.0,1800.0,1350.0,450.0,UPI
+ORD-00114,2025-06-30,CUST-0097,Consumer,West,Mumbai,Store,Accessories,Wireless Mouse,3,650,0.0,1950.0,1326.0,624.0,Net Banking
+ORD-00858,2025-06-30,CUST-0199,Consumer,South,Hyderabad,Store,Stationery,Printer Paper,1,380,0.0,380.0,288.8,91.2,Cash
+ORD-01024,2025-07-02,CUST-0153,Consumer,South,Bengaluru,Marketplace,Electronics,Webcam,1,3200,0.0,3200.0,2464.0,736.0,Net Banking
+ORD-00562,2025-07-03,CUST-0006,Small Business,South,Bengaluru,Store,Stationery,Printer Paper,1,380,0.1,342.0,288.8,53.2,Credit Card
+ORD-00876,2025-07-04,CUST-0222,Consumer,West,Surat,Marketplace,Furniture,Bookshelf,3,6200,0.0,18600.0,14880.0,3720.0,Cash
+ORD-00398,2025-07-04,CUST-0238,Corporate,West,Mumbai,Marketplace,Home Office,Desk Lamp,2,1350,0.0,2700.0,1917.0,783.0,Debit Card
+ORD-00074,2025-07-04,CUST-0218,Small Business,Central,Bhopal,Online,Home Office,Storage Box,2,480,0.0,960.0,691.2,268.8,Net Banking
+ORD-00432,2025-07-05,CUST-0320,Consumer,East,Patna,Marketplace,Accessories,Laptop Stand,1,850,0.1,765.0,612.0,153.0,UPI
+ORD-01192,2025-07-05,CUST-0330,Consumer,Central,Bhopal,Store,Home Office,Storage Box,2,480,0.05,912.0,691.2,220.8,UPI
+ORD-00695,2025-07-06,CUST-0285,Corporate,Central,Indore,Store,Furniture,Office Chair,1,7800,0.2,6240.0,6084.0,156.0,Credit Card
+ORD-01042,2025-07-07,CUST-0197,Consumer,East,Guwahati,Store,Furniture,Bookshelf,3,6200,0.1,16740.0,14880.0,1860.0,UPI
+ORD-00146,2025-07-07,CUST-0343,Small Business,Central,Raipur,Marketplace,Accessories,Keyboard,4,1200,0.15,4080.0,3360.0,720.0,UPI
+ORD-00507,2025-07-08,CUST-0312,Corporate,West,Ahmedabad,Online,Home Office,Storage Box,1,480,0.15,408.0,345.6,62.4,Debit Card
+ORD-00073,2025-07-08,CUST-0292,Corporate,South,Hyderabad,Online,Electronics,Webcam,5,3200,0.0,16000.0,12320.0,3680.0,Debit Card
+ORD-00058,2025-07-08,CUST-0023,Small Business,West,Pune,Online,Accessories,Wireless Mouse,1,650,0.0,650.0,442.0,208.0,Debit Card
+ORD-00733,2025-07-09,CUST-0232,Small Business,Central,Raipur,Marketplace,Accessories,Wireless Mouse,1,650,0.15,552.5,442.0,110.5,Credit Card
+ORD-00161,2025-07-09,CUST-0294,Small Business,West,Ahmedabad,Marketplace,Furniture,Bookshelf,2,6200,0.1,11160.0,9920.0,1240.0,UPI
+ORD-00396,2025-07-09,CUST-0305,Corporate,South,Hyderabad,Store,Electronics,Phone Charger,1,750,0.0,750.0,517.5,232.5,UPI
+ORD-00527,2025-07-09,CUST-0284,Corporate,East,Guwahati,Marketplace,Home Office,Storage Box,3,480,0.0,1440.0,1036.8,403.2,Credit Card
+ORD-00598,2025-07-09,CUST-0244,Consumer,South,Chennai,Marketplace,Furniture,Bookshelf,3,6200,0.1,16740.0,14880.0,1860.0,Credit Card
+ORD-00918,2025-07-10,CUST-0130,Small Business,North,Delhi,Store,Electronics,Phone Charger,1,750,0.1,675.0,517.5,157.5,Debit Card
+ORD-00492,2025-07-10,CUST-0016,Consumer,East,Bhubaneswar,Store,Electronics,Headphones,1,2400,0.15,2040.0,1776.0,264.0,Debit Card
+ORD-00976,2025-07-10,CUST-0172,Consumer,East,Patna,Store,Lifestyle,Water Bottle,1,550,0.05,522.5,368.5,154.0,Debit Card
+ORD-00841,2025-07-11,CUST-0268,Small Business,East,Patna,Marketplace,Accessories,Wireless Mouse,1,650,0.15,552.5,442.0,110.5,Debit Card
+ORD-01199,2025-07-11,CUST-0247,Corporate,South,Hyderabad,Online,Accessories,Laptop Stand,3,850,0.0,2550.0,1836.0,714.0,UPI
+ORD-00754,2025-07-12,CUST-0321,Corporate,South,Hyderabad,Online,Lifestyle,Backpack,3,1600,0.15,4080.0,3504.0,576.0,UPI
+ORD-00102,2025-07-13,CUST-0293,Consumer,West,Ahmedabad,Online,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,Credit Card
+ORD-00035,2025-07-13,CUST-0262,Consumer,East,Kolkata,Marketplace,Electronics,Headphones,2,2400,0.0,4800.0,3552.0,1248.0,UPI
+ORD-00435,2025-07-14,CUST-0259,Corporate,West,Ahmedabad,Store,Electronics,Webcam,3,3200,0.0,9600.0,7392.0,2208.0,Net Banking
+ORD-01084,2025-07-15,CUST-0328,Consumer,North,Lucknow,Store,Furniture,Study Desk,3,9500,0.2,22800.0,23370.0,-570.0,Net Banking
+ORD-00357,2025-07-15,CUST-0032,Small Business,Central,Bhopal,Online,Lifestyle,Water Bottle,1,550,0.0,550.0,368.5,181.5,Cash
+ORD-00453,2025-07-15,CUST-0337,Consumer,North,Chandigarh,Online,Furniture,Study Desk,2,9500,0.1,17100.0,15580.0,1520.0,Net Banking
+ORD-00929,2025-07-15,CUST-0001,Small Business,North,Lucknow,Marketplace,Lifestyle,Water Bottle,2,550,0.15,935.0,737.0,198.0,Credit Card
+ORD-01105,2025-07-16,CUST-0276,Small Business,South,Bengaluru,Store,Electronics,Monitor,3,12500,0.0,37500.0,31500.0,6000.0,Credit Card
+ORD-00368,2025-07-16,CUST-0251,Consumer,North,Lucknow,Store,Accessories,USB-C Hub,3,1800,0.1,4860.0,4050.0,810.0,Net Banking
+ORD-00752,2025-07-16,CUST-0046,Corporate,East,Bhubaneswar,Online,Electronics,Phone Charger,3,750,0.1,2025.0,1552.5,472.5,Credit Card
+ORD-01074,2025-07-18,CUST-0143,Small Business,East,Kolkata,Store,Lifestyle,Backpack,2,1600,0.2,2560.0,2336.0,224.0,Net Banking
+ORD-00577,2025-07-18,CUST-0197,Consumer,South,Kochi,Online,Home Office,Storage Box,2,480,0.15,816.0,691.2,124.8,Debit Card
+ORD-00967,2025-07-20,CUST-0233,Corporate,South,Chennai,Online,Accessories,Laptop Stand,1,850,0.0,850.0,612.0,238.0,Debit Card
+ORD-00251,2025-07-20,CUST-0336,Small Business,South,Chennai,Online,Accessories,Keyboard,3,1200,0.0,3600.0,2520.0,1080.0,Debit Card
+ORD-00552,2025-07-21,CUST-0009,Small Business,South,Kochi,Store,Electronics,Phone Charger,1,750,0.0,750.0,517.5,232.5,Cash
+ORD-00735,2025-07-21,CUST-0093,Small Business,East,Guwahati,Store,Accessories,Laptop Stand,1,850,0.0,850.0,612.0,238.0,UPI
+ORD-00193,2025-07-22,CUST-0161,Corporate,South,Hyderabad,Marketplace,Accessories,Laptop Stand,2,850,0.0,1700.0,1224.0,476.0,Cash
+ORD-00882,2025-07-22,CUST-0336,Corporate,West,Pune,Marketplace,Electronics,Webcam,3,3200,0.1,8640.0,7392.0,1248.0,UPI
+ORD-00708,2025-07-22,CUST-0207,Small Business,East,Patna,Marketplace,Furniture,Study Desk,2,9500,0.15,16150.0,15580.0,570.0,Credit Card
+ORD-00125,2025-07-24,CUST-0203,Small Business,South,Hyderabad,Marketplace,Stationery,Notebook Pack,4,250,0.0,1000.0,650.0,350.0,Debit Card
+ORD-00476,2025-07-24,CUST-0231,Consumer,South,Hyderabad,Online,Furniture,Study Desk,2,9500,0.15,16150.0,15580.0,570.0,UPI
+ORD-00904,2025-07-24,CUST-0122,Consumer,North,Jaipur,Online,Accessories,USB-C Hub,4,1800,0.15,6120.0,5400.0,720.0,UPI
+ORD-00323,2025-07-25,CUST-0130,Corporate,Central,Nagpur,Store,Electronics,Monitor,3,12500,0.05,35625.0,31500.0,4125.0,Net Banking
+ORD-00947,2025-07-26,CUST-0336,Small Business,East,Guwahati,Marketplace,Furniture,Bookshelf,2,6200,0.1,11160.0,9920.0,1240.0,Cash
+ORD-01043,2025-07-26,CUST-0236,Corporate,South,Hyderabad,Store,Accessories,Wireless Mouse,1,650,0.0,650.0,442.0,208.0,Net Banking
+ORD-00126,2025-07-28,CUST-0077,Small Business,East,Kolkata,Store,Accessories,Wireless Mouse,2,650,0.0,1300.0,884.0,416.0,UPI
+ORD-01009,2025-07-28,CUST-0286,Consumer,West,Ahmedabad,Marketplace,Lifestyle,Backpack,3,1600,0.1,4320.0,3504.0,816.0,Credit Card
+ORD-00183,2025-07-29,CUST-0269,Consumer,East,Patna,Online,Electronics,Headphones,2,2400,0.05,4560.0,3552.0,1008.0,Credit Card
+ORD-00873,2025-07-30,CUST-0170,Corporate,West,Ahmedabad,Online,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,Net Banking
+ORD-00962,2025-07-30,CUST-0310,Consumer,West,Pune,Marketplace,Lifestyle,Backpack,2,1600,0.05,3040.0,2336.0,704.0,Debit Card
+ORD-00518,2025-08-01,CUST-0142,Corporate,Central,Nagpur,Marketplace,Lifestyle,Water Bottle,2,550,0.0,1100.0,737.0,363.0,Credit Card
+ORD-00726,2025-08-02,CUST-0120,Small Business,Central,Bhopal,Marketplace,Stationery,Printer Paper,2,380,0.15,646.0,577.6,68.4,UPI
+ORD-00295,2025-08-02,CUST-0012,Small Business,Central,Nagpur,Online,Accessories,USB-C Hub,5,1800,0.0,9000.0,6750.0,2250.0,Debit Card
+ORD-00084,2025-08-02,CUST-0158,Consumer,South,Chennai,Online,Electronics,Monitor,1,12500,0.0,12500.0,10500.0,2000.0,UPI
+ORD-00437,2025-08-03,CUST-0100,Small Business,Central,Nagpur,Store,Stationery,Notebook Pack,5,250,0.0,1250.0,812.5,437.5,Cash
+ORD-00707,2025-08-04,CUST-0201,Consumer,Central,Nagpur,Marketplace,Stationery,Notebook Pack,2,250,0.0,500.0,325.0,175.0,Credit Card
+ORD-00466,2025-08-04,CUST-0226,Corporate,Central,Indore,Online,Furniture,Bookshelf,5,6200,0.05,29450.0,24800.0,4650.0,Net Banking
+ORD-01136,2025-08-06,CUST-0101,Corporate,East,Bhubaneswar,Store,Lifestyle,Backpack,3,1600,0.05,4560.0,3504.0,1056.0,UPI
+ORD-00385,2025-08-07,CUST-0241,Consumer,East,Kolkata,Online,Home Office,Desk Lamp,3,1350,0.1,3645.0,2875.5,769.5,Cash
+ORD-00612,2025-08-07,CUST-0177,Consumer,North,Delhi,Online,Accessories,Laptop Stand,3,850,0.05,2422.5,1836.0,586.5,Credit Card
+ORD-00153,2025-08-08,CUST-0158,Corporate,Central,Nagpur,Store,Home Office,Storage Box,1,480,0.0,480.0,345.6,134.4,Cash
+ORD-00812,2025-08-08,CUST-0007,Consumer,North,Lucknow,Marketplace,Stationery,Printer Paper,1,380,0.1,342.0,288.8,53.2,Credit Card
+ORD-01081,2025-08-09,CUST-0075,Corporate,West,Ahmedabad,Store,Lifestyle,Backpack,1,1600,0.15,1360.0,1168.0,192.0,Credit Card
+ORD-00098,2025-08-09,CUST-0050,Small Business,South,Chennai,Store,Electronics,Webcam,2,3200,0.2,5120.0,4928.0,192.0,Cash
+ORD-01068,2025-08-10,CUST-0148,Consumer,West,Pune,Online,Electronics,Phone Charger,3,750,0.0,2250.0,1552.5,697.5,UPI
+ORD-00857,2025-08-12,CUST-0265,Small Business,West,Ahmedabad,Online,Accessories,USB-C Hub,2,1800,0.1,3240.0,2700.0,540.0,Credit Card
+ORD-00680,2025-08-12,CUST-0001,Consumer,West,Pune,Online,Electronics,Monitor,2,12500,0.1,22500.0,21000.0,1500.0,UPI
+ORD-00381,2025-08-13,CUST-0221,Small Business,North,Chandigarh,Store,Accessories,USB-C Hub,4,1800,0.05,6840.0,5400.0,1440.0,Credit Card
+ORD-00560,2025-08-13,CUST-0214,Small Business,North,Jaipur,Store,Furniture,Bookshelf,4,6200,0.2,19840.0,19840.0,0.0,Cash
+ORD-00603,2025-08-13,CUST-0029,Consumer,East,Kolkata,Online,Electronics,Phone Charger,4,750,0.1,2700.0,2070.0,630.0,Net Banking
+ORD-00087,2025-08-14,CUST-0311,Corporate,South,Bengaluru,Online,Accessories,USB-C Hub,2,1800,0.1,3240.0,2700.0,540.0,Debit Card
+ORD-00041,2025-08-14,CUST-0292,Consumer,West,Mumbai,Marketplace,Furniture,Bookshelf,5,6200,0.1,27900.0,24800.0,3100.0,Net Banking
+ORD-00547,2025-08-15,CUST-0310,Small Business,North,Lucknow,Store,Stationery,Notebook Pack,1,250,0.1,225.0,162.5,62.5,Credit Card
+ORD-01145,2025-08-16,CUST-0251,Corporate,West,Mumbai,Store,Electronics,Monitor,1,12500,0.15,10625.0,10500.0,125.0,Debit Card
+ORD-00807,2025-08-16,CUST-0103,Consumer,East,Patna,Store,Furniture,Office Chair,1,7800,0.15,6630.0,6084.0,546.0,Debit Card
+ORD-00508,2025-08-17,CUST-0019,Small Business,West,Pune,Online,Furniture,Office Chair,3,7800,0.0,23400.0,18252.0,5148.0,Debit Card
+ORD-00210,2025-08-17,CUST-0100,Consumer,North,Delhi,Store,Accessories,Keyboard,1,1200,0.1,1080.0,840.0,240.0,Net Banking
+ORD-01063,2025-08-18,CUST-0062,Consumer,North,Chandigarh,Store,Furniture,Study Desk,3,9500,0.1,25650.0,23370.0,2280.0,Debit Card
+ORD-00005,2025-08-18,CUST-0253,Small Business,East,Guwahati,Marketplace,Stationery,Notebook Pack,3,250,0.15,637.5,487.5,150.0,Cash
+ORD-00628,2025-08-18,CUST-0142,Small Business,East,Patna,Online,Home Office,Desk Lamp,1,1350,0.0,1350.0,958.5,391.5,UPI
+ORD-00529,2025-08-19,CUST-0179,Consumer,Central,Indore,Online,Stationery,Gel Pens,1,120,0.0,120.0,74.4,45.6,Net Banking
+ORD-00814,2025-08-20,CUST-0214,Small Business,West,Ahmedabad,Store,Furniture,Study Desk,2,9500,0.15,16150.0,15580.0,570.0,Net Banking
+ORD-00497,2025-08-20,CUST-0014,Consumer,Central,Raipur,Marketplace,Stationery,Notebook Pack,2,250,0.2,400.0,325.0,75.0,UPI
+ORD-01115,2025-08-22,CUST-0217,Consumer,East,Guwahati,Store,Lifestyle,Backpack,2,1600,0.15,2720.0,2336.0,384.0,UPI
+ORD-00333,2025-08-23,CUST-0220,Corporate,South,Bengaluru,Online,Accessories,Laptop Stand,2,850,0.1,1530.0,1224.0,306.0,Net Banking
+ORD-00277,2025-08-23,CUST-0193,Corporate,Central,Nagpur,Store,Stationery,Notebook Pack,2,250,0.15,425.0,325.0,100.0,UPI
+ORD-00365,2025-08-23,CUST-0202,Consumer,North,Jaipur,Online,Stationery,Gel Pens,2,120,0.15,204.0,148.8,55.2,Net Banking
+ORD-01098,2025-08-24,CUST-0328,Small Business,Central,Bhopal,Online,Furniture,Study Desk,2,9500,0.0,19000.0,15580.0,3420.0,Credit Card
+ORD-00803,2025-08-24,CUST-0330,Small Business,North,Jaipur,Online,Home Office,Desk Lamp,2,1350,0.15,2295.0,1917.0,378.0,Net Banking
+ORD-00961,2025-08-25,CUST-0346,Corporate,South,Bengaluru,Online,Home Office,Desk Lamp,2,1350,0.15,2295.0,1917.0,378.0,Cash
+ORD-01051,2025-08-25,CUST-0258,Corporate,East,Kolkata,Marketplace,Stationery,Gel Pens,1,120,0.2,96.0,74.4,21.6,Net Banking
+ORD-00211,2025-08-28,CUST-0236,Small Business,West,Pune,Store,Stationery,Gel Pens,2,120,0.1,216.0,148.8,67.2,UPI
+ORD-00012,2025-08-28,CUST-0090,Small Business,West,Ahmedabad,Store,Accessories,Wireless Mouse,1,650,0.15,552.5,442.0,110.5,UPI
+ORD-01130,2025-08-28,CUST-0207,Small Business,East,Kolkata,Store,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,Cash
+ORD-00380,2025-08-29,CUST-0037,Corporate,South,Hyderabad,Marketplace,Electronics,Monitor,1,12500,0.2,10000.0,10500.0,-500.0,Cash
+ORD-01047,2025-08-29,CUST-0133,Small Business,West,Surat,Marketplace,Home Office,Storage Box,5,480,0.0,2400.0,1728.0,672.0,Credit Card
+ORD-00520,2025-08-30,CUST-0226,Small Business,Central,Indore,Marketplace,Electronics,Phone Charger,2,750,0.1,1350.0,1035.0,315.0,Net Banking
+ORD-01118,2025-08-31,CUST-0283,Corporate,West,Surat,Online,Accessories,Wireless Mouse,2,650,0.15,1105.0,884.0,221.0,Debit Card
+ORD-00279,2025-08-31,CUST-0060,Corporate,East,Patna,Marketplace,Furniture,Bookshelf,5,6200,0.0,31000.0,24800.0,6200.0,Debit Card
+ORD-00980,2025-08-31,CUST-0286,Consumer,East,Patna,Online,Furniture,Study Desk,1,9500,0.0,9500.0,7790.0,1710.0,UPI
+ORD-00130,2025-08-31,CUST-0209,Consumer,South,Kochi,Store,Lifestyle,Backpack,3,1600,0.05,4560.0,3504.0,1056.0,Net Banking
+ORD-00849,2025-09-01,CUST-0188,Consumer,Central,Raipur,Marketplace,Stationery,Gel Pens,1,120,0.05,114.0,74.4,39.6,Net Banking
+ORD-01080,2025-09-03,CUST-0281,Small Business,Central,Nagpur,Marketplace,Home Office,Storage Box,3,480,0.1,1296.0,1036.8,259.2,Net Banking
+ORD-00324,2025-09-03,CUST-0068,Small Business,North,Delhi,Marketplace,Accessories,Wireless Mouse,3,650,0.1,1755.0,1326.0,429.0,UPI
+ORD-00913,2025-09-03,CUST-0136,Corporate,Central,Bhopal,Online,Electronics,Headphones,4,2400,0.1,8640.0,7104.0,1536.0,Credit Card
+ORD-00260,2025-09-04,CUST-0188,Corporate,North,Chandigarh,Store,Electronics,Webcam,1,3200,0.0,3200.0,2464.0,736.0,UPI
+ORD-00282,2025-09-05,CUST-0278,Consumer,North,Chandigarh,Online,Stationery,Notebook Pack,4,250,0.0,1000.0,650.0,350.0,UPI
+ORD-00128,2025-09-05,CUST-0191,Consumer,North,Chandigarh,Marketplace,Accessories,Laptop Stand,3,850,0.05,2422.5,1836.0,586.5,Net Banking
+ORD-00771,2025-09-05,CUST-0317,Consumer,North,Jaipur,Store,Stationery,Notebook Pack,2,250,0.05,475.0,325.0,150.0,Credit Card
+ORD-00016,2025-09-05,CUST-0029,Consumer,South,Hyderabad,Store,Stationery,Printer Paper,3,380,0.05,1083.0,866.4,216.6,Cash
+ORD-00426,2025-09-06,CUST-0096,Corporate,Central,Raipur,Store,Stationery,Printer Paper,3,380,0.0,1140.0,866.4,273.6,Debit Card
+ORD-00079,2025-09-06,CUST-0155,Corporate,North,Chandigarh,Store,Stationery,Notebook Pack,1,250,0.15,212.5,162.5,50.0,Debit Card
+ORD-00238,2025-09-07,CUST-0220,Consumer,Central,Indore,Online,Electronics,Headphones,2,2400,0.2,3840.0,3552.0,288.0,Credit Card
+ORD-01040,2025-09-08,CUST-0279,Corporate,Central,Nagpur,Store,Furniture,Office Chair,2,7800,0.1,14040.0,12168.0,1872.0,Cash
+ORD-00328,2025-09-08,CUST-0015,Corporate,North,Delhi,Online,Stationery,Gel Pens,2,120,0.2,192.0,148.8,43.2,Cash
+ORD-01090,2025-09-08,CUST-0218,Corporate,East,Bhubaneswar,Online,Electronics,Phone Charger,1,750,0.15,637.5,517.5,120.0,Credit Card
+ORD-00311,2025-09-08,CUST-0156,Corporate,East,Kolkata,Store,Stationery,Printer Paper,2,380,0.0,760.0,577.6,182.4,Cash
+ORD-00353,2025-09-10,CUST-0106,Consumer,Central,Indore,Store,Lifestyle,Water Bottle,1,550,0.0,550.0,368.5,181.5,UPI
+ORD-00699,2025-09-10,CUST-0349,Small Business,East,Bhubaneswar,Marketplace,Home Office,Storage Box,4,480,0.15,1632.0,1382.4,249.6,Debit Card
+ORD-01133,2025-09-11,CUST-0348,Consumer,Central,Nagpur,Online,Lifestyle,Backpack,2,1600,0.05,3040.0,2336.0,704.0,Credit Card
+ORD-00289,2025-09-11,CUST-0030,Small Business,West,Mumbai,Online,Furniture,Bookshelf,4,6200,0.0,24800.0,19840.0,4960.0,Credit Card
+ORD-00205,2025-09-12,CUST-0093,Corporate,North,Lucknow,Online,Furniture,Office Chair,5,7800,0.0,39000.0,30420.0,8580.0,Cash
+ORD-00511,2025-09-13,CUST-0016,Consumer,Central,Raipur,Online,Furniture,Office Chair,1,7800,0.1,7020.0,6084.0,936.0,UPI
+ORD-00791,2025-09-15,CUST-0016,Small Business,Central,Nagpur,Online,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,Debit Card
+ORD-00444,2025-09-15,CUST-0093,Corporate,West,Surat,Store,Home Office,Desk Lamp,1,1350,0.15,1147.5,958.5,189.0,Cash
+ORD-00532,2025-09-15,CUST-0129,Small Business,East,Kolkata,Online,Furniture,Office Chair,4,7800,0.0,31200.0,24336.0,6864.0,Net Banking
+ORD-00912,2025-09-15,CUST-0134,Small Business,West,Pune,Online,Home Office,Desk Lamp,3,1350,0.15,3442.5,2875.5,567.0,Debit Card
+ORD-01041,2025-09-16,CUST-0326,Small Business,North,Delhi,Store,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,Cash
+ORD-00011,2025-09-16,CUST-0264,Consumer,Central,Nagpur,Marketplace,Stationery,Notebook Pack,2,250,0.0,500.0,325.0,175.0,Debit Card
+ORD-00423,2025-09-17,CUST-0007,Corporate,Central,Raipur,Online,Furniture,Study Desk,2,9500,0.0,19000.0,15580.0,3420.0,Cash
+ORD-00816,2025-09-17,CUST-0059,Small Business,South,Hyderabad,Store,Lifestyle,Water Bottle,1,550,0.15,467.5,368.5,99.0,Debit Card
+ORD-00484,2025-09-18,CUST-0068,Corporate,Central,Nagpur,Marketplace,Furniture,Bookshelf,1,6200,0.0,6200.0,4960.0,1240.0,Cash
+ORD-00524,2025-09-18,CUST-0293,Small Business,Central,Raipur,Marketplace,Stationery,Gel Pens,1,120,0.15,102.0,74.4,27.6,Credit Card
+ORD-00893,2025-09-18,CUST-0159,Corporate,Central,Indore,Marketplace,Furniture,Office Chair,2,7800,0.1,14040.0,12168.0,1872.0,Net Banking
+ORD-00288,2025-09-18,CUST-0047,Consumer,South,Bengaluru,Store,Lifestyle,Water Bottle,4,550,0.0,2200.0,1474.0,726.0,Debit Card
+ORD-00920,2025-09-18,CUST-0016,Consumer,East,Kolkata,Marketplace,Furniture,Study Desk,3,9500,0.0,28500.0,23370.0,5130.0,Debit Card
+ORD-00550,2025-09-19,CUST-0037,Corporate,North,Delhi,Store,Stationery,Gel Pens,1,120,0.1,108.0,74.4,33.6,Debit Card
+ORD-00485,2025-09-19,CUST-0139,Consumer,East,Bhubaneswar,Online,Accessories,USB-C Hub,1,1800,0.15,1530.0,1350.0,180.0,Debit Card
+ORD-01065,2025-09-20,CUST-0128,Consumer,North,Delhi,Marketplace,Furniture,Study Desk,2,9500,0.15,16150.0,15580.0,570.0,Debit Card
+ORD-01102,2025-09-21,CUST-0192,Small Business,Central,Raipur,Store,Accessories,Laptop Stand,2,850,0.15,1445.0,1224.0,221.0,UPI
+ORD-00209,2025-09-22,CUST-0106,Corporate,West,Surat,Marketplace,Electronics,Monitor,4,12500,0.0,50000.0,42000.0,8000.0,Credit Card
+ORD-00159,2025-09-23,CUST-0093,Consumer,North,Lucknow,Online,Home Office,Storage Box,1,480,0.0,480.0,345.6,134.4,UPI
+ORD-00080,2025-09-24,CUST-0195,Corporate,North,Delhi,Store,Home Office,Storage Box,3,480,0.0,1440.0,1036.8,403.2,Cash
+ORD-01171,2025-09-24,CUST-0306,Consumer,Central,Indore,Online,Electronics,Phone Charger,4,750,0.0,3000.0,2070.0,930.0,Cash
+ORD-00004,2025-09-25,CUST-0021,Small Business,West,Mumbai,Online,Electronics,Headphones,1,2400,0.05,2280.0,1776.0,504.0,UPI
+ORD-00525,2025-09-25,CUST-0340,Consumer,East,Kolkata,Online,Stationery,Notebook Pack,1,250,0.15,212.5,162.5,50.0,Debit Card
+ORD-00009,2025-09-25,CUST-0255,Corporate,South,Kochi,Store,Home Office,Storage Box,2,480,0.05,912.0,691.2,220.8,Cash
+ORD-00611,2025-09-26,CUST-0141,Corporate,North,Lucknow,Online,Electronics,Headphones,2,2400,0.1,4320.0,3552.0,768.0,Credit Card
+ORD-00439,2025-09-28,CUST-0159,Small Business,Central,Indore,Store,Stationery,Printer Paper,1,380,0.1,342.0,288.8,53.2,Debit Card
+ORD-00337,2025-09-29,CUST-0150,Small Business,Central,Nagpur,Marketplace,Home Office,Desk Lamp,5,1350,0.1,6075.0,4792.5,1282.5,UPI
+ORD-00661,2025-09-29,CUST-0071,Corporate,East,Bhubaneswar,Store,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,UPI
+ORD-00830,2025-09-29,CUST-0193,Consumer,Central,Nagpur,Online,Electronics,Phone Charger,2,750,0.05,1425.0,1035.0,390.0,Debit Card
+ORD-00682,2025-09-30,CUST-0165,Consumer,North,Delhi,Online,Electronics,Monitor,3,12500,0.15,31875.0,31500.0,375.0,UPI
+ORD-00588,2025-10-01,CUST-0057,Corporate,North,Jaipur,Online,Lifestyle,Backpack,1,1600,0.1,1440.0,1168.0,272.0,Credit Card
+ORD-00427,2025-10-01,CUST-0022,Consumer,South,Kochi,Store,Electronics,Phone Charger,1,750,0.05,712.5,517.5,195.0,Net Banking
+ORD-00179,2025-10-01,CUST-0080,Small Business,West,Pune,Online,Furniture,Bookshelf,1,6200,0.15,5270.0,4960.0,310.0,Cash
+ORD-00154,2025-10-02,CUST-0012,Small Business,North,Lucknow,Online,Furniture,Bookshelf,5,6200,0.1,27900.0,24800.0,3100.0,Credit Card
+ORD-00901,2025-10-03,CUST-0245,Consumer,South,Chennai,Marketplace,Electronics,Headphones,4,2400,0.1,8640.0,7104.0,1536.0,Debit Card
+ORD-00921,2025-10-04,CUST-0090,Consumer,Central,Raipur,Store,Furniture,Study Desk,1,9500,0.1,8550.0,7790.0,760.0,UPI
+ORD-00250,2025-10-04,CUST-0077,Small Business,East,Bhubaneswar,Store,Home Office,Desk Lamp,1,1350,0.1,1215.0,958.5,256.5,Cash
+ORD-01094,2025-10-04,CUST-0125,Corporate,West,Ahmedabad,Marketplace,Home Office,Desk Lamp,1,1350,0.1,1215.0,958.5,256.5,Credit Card
+ORD-00674,2025-10-05,CUST-0302,Small Business,South,Chennai,Online,Lifestyle,Backpack,1,1600,0.05,1520.0,1168.0,352.0,Credit Card
+ORD-00167,2025-10-05,CUST-0209,Small Business,Central,Nagpur,Online,Accessories,Wireless Mouse,2,650,0.05,1235.0,884.0,351.0,Debit Card
+ORD-01058,2025-10-05,CUST-0081,Consumer,Central,Nagpur,Store,Accessories,Laptop Stand,1,850,0.2,680.0,612.0,68.0,Debit Card
+ORD-00042,2025-10-07,CUST-0148,Consumer,South,Chennai,Online,Home Office,Storage Box,3,480,0.15,1224.0,1036.8,187.2,UPI
+ORD-00335,2025-10-07,CUST-0161,Consumer,East,Guwahati,Store,Stationery,Printer Paper,1,380,0.0,380.0,288.8,91.2,Debit Card
+ORD-00070,2025-10-07,CUST-0010,Consumer,East,Bhubaneswar,Marketplace,Accessories,Keyboard,1,1200,0.1,1080.0,840.0,240.0,Cash
+ORD-00133,2025-10-07,CUST-0215,Consumer,East,Guwahati,Store,Stationery,Notebook Pack,1,250,0.0,250.0,162.5,87.5,Debit Card
+ORD-01057,2025-10-09,CUST-0338,Small Business,West,Pune,Online,Electronics,Phone Charger,1,750,0.0,750.0,517.5,232.5,UPI
+ORD-00498,2025-10-09,CUST-0110,Small Business,Central,Raipur,Store,Accessories,USB-C Hub,1,1800,0.0,1800.0,1350.0,450.0,UPI
+ORD-01000,2025-10-09,CUST-0120,Corporate,North,Jaipur,Store,Furniture,Office Chair,1,7800,0.1,7020.0,6084.0,936.0,Net Banking
+ORD-00158,2025-10-09,CUST-0109,Corporate,Central,Bhopal,Store,Stationery,Gel Pens,2,120,0.15,204.0,148.8,55.2,Cash
+ORD-01089,2025-10-10,CUST-0264,Small Business,South,Hyderabad,Store,Furniture,Office Chair,1,7800,0.15,6630.0,6084.0,546.0,Cash
+ORD-00509,2025-10-10,CUST-0269,Consumer,Central,Nagpur,Marketplace,Lifestyle,Water Bottle,1,550,0.0,550.0,368.5,181.5,UPI
+ORD-00549,2025-10-10,CUST-0020,Small Business,South,Bengaluru,Online,Lifestyle,Water Bottle,1,550,0.1,495.0,368.5,126.5,Debit Card
+ORD-00569,2025-10-11,CUST-0050,Small Business,Central,Indore,Store,Furniture,Office Chair,3,7800,0.05,22230.0,18252.0,3978.0,Debit Card
+ORD-00344,2025-10-13,CUST-0100,Consumer,East,Bhubaneswar,Marketplace,Furniture,Study Desk,3,9500,0.05,27075.0,23370.0,3705.0,Credit Card
+ORD-00155,2025-10-13,CUST-0145,Small Business,South,Kochi,Marketplace,Accessories,Wireless Mouse,3,650,0.0,1950.0,1326.0,624.0,UPI
+ORD-00914,2025-10-14,CUST-0176,Small Business,North,Jaipur,Online,Accessories,Keyboard,3,1200,0.0,3600.0,2520.0,1080.0,UPI
+ORD-00769,2025-10-15,CUST-0181,Small Business,East,Bhubaneswar,Store,Stationery,Notebook Pack,4,250,0.0,1000.0,650.0,350.0,Credit Card
+ORD-00705,2025-10-15,CUST-0036,Small Business,West,Ahmedabad,Online,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,UPI
+ORD-00290,2025-10-15,CUST-0129,Consumer,East,Guwahati,Store,Stationery,Gel Pens,2,120,0.1,216.0,148.8,67.2,UPI
+ORD-01034,2025-10-15,CUST-0201,Corporate,West,Pune,Online,Furniture,Office Chair,2,7800,0.15,13260.0,12168.0,1092.0,Net Banking
+ORD-00219,2025-10-16,CUST-0016,Corporate,South,Hyderabad,Marketplace,Furniture,Bookshelf,3,6200,0.1,16740.0,14880.0,1860.0,Net Banking
+ORD-00580,2025-10-17,CUST-0103,Small Business,North,Jaipur,Online,Furniture,Office Chair,2,7800,0.15,13260.0,12168.0,1092.0,Cash
+ORD-00120,2025-10-17,CUST-0307,Consumer,Central,Nagpur,Store,Accessories,Wireless Mouse,2,650,0.15,1105.0,884.0,221.0,UPI
+ORD-00447,2025-10-17,CUST-0181,Consumer,Central,Indore,Marketplace,Furniture,Office Chair,3,7800,0.0,23400.0,18252.0,5148.0,Debit Card
+ORD-01198,2025-10-17,CUST-0157,Small Business,South,Chennai,Store,Accessories,USB-C Hub,1,1800,0.0,1800.0,1350.0,450.0,Cash
+ORD-01070,2025-10-18,CUST-0329,Small Business,South,Bengaluru,Online,Stationery,Gel Pens,4,120,0.2,384.0,297.6,86.4,Cash
+ORD-00032,2025-10-18,CUST-0249,Small Business,West,Surat,Store,Electronics,Phone Charger,5,750,0.2,3000.0,2587.5,412.5,Net Banking
+ORD-01200,2025-10-20,CUST-0003,Consumer,North,Chandigarh,Marketplace,Furniture,Study Desk,1,9500,0.1,8550.0,7790.0,760.0,Net Banking
+ORD-00174,2025-10-21,CUST-0055,Corporate,Central,Indore,Store,Accessories,Wireless Mouse,4,650,0.05,2470.0,1768.0,702.0,UPI
+ORD-00778,2025-10-24,CUST-0021,Corporate,North,Jaipur,Store,Furniture,Office Chair,1,7800,0.15,6630.0,6084.0,546.0,UPI
+ORD-00233,2025-10-24,CUST-0089,Small Business,Central,Nagpur,Marketplace,Electronics,Headphones,4,2400,0.0,9600.0,7104.0,2496.0,Credit Card
+ORD-00543,2025-10-24,CUST-0260,Consumer,East,Bhubaneswar,Store,Lifestyle,Backpack,1,1600,0.15,1360.0,1168.0,192.0,Debit Card
+ORD-00548,2025-10-25,CUST-0193,Consumer,Central,Raipur,Store,Electronics,Monitor,5,12500,0.0,62500.0,52500.0,10000.0,UPI
+ORD-01131,2025-10-25,CUST-0132,Corporate,Central,Nagpur,Online,Electronics,Monitor,1,12500,0.1,11250.0,10500.0,750.0,Net Banking
+ORD-00127,2025-10-26,CUST-0229,Small Business,Central,Raipur,Marketplace,Stationery,Gel Pens,4,120,0.0,480.0,297.6,182.4,UPI
+ORD-00870,2025-10-27,CUST-0265,Consumer,South,Bengaluru,Online,Home Office,Desk Lamp,3,1350,0.0,4050.0,2875.5,1174.5,Net Banking
+ORD-00502,2025-10-28,CUST-0103,Small Business,Central,Nagpur,Marketplace,Home Office,Desk Lamp,3,1350,0.1,3645.0,2875.5,769.5,Credit Card
+ORD-00596,2025-10-30,CUST-0272,Small Business,North,Jaipur,Marketplace,Furniture,Office Chair,1,7800,0.1,7020.0,6084.0,936.0,Cash
+ORD-00631,2025-10-30,CUST-0017,Consumer,South,Hyderabad,Marketplace,Accessories,USB-C Hub,3,1800,0.15,4590.0,4050.0,540.0,Net Banking
+ORD-00959,2025-10-30,CUST-0139,Consumer,West,Mumbai,Store,Lifestyle,Water Bottle,1,550,0.1,495.0,368.5,126.5,Net Banking
+ORD-00750,2025-10-31,CUST-0275,Corporate,West,Pune,Online,Home Office,Desk Lamp,2,1350,0.0,2700.0,1917.0,783.0,Debit Card
+ORD-00624,2025-10-31,CUST-0149,Consumer,Central,Indore,Store,Electronics,Monitor,3,12500,0.0,37500.0,31500.0,6000.0,Net Banking
+ORD-00287,2025-11-02,CUST-0045,Consumer,West,Surat,Online,Furniture,Study Desk,3,9500,0.1,25650.0,23370.0,2280.0,UPI
+ORD-00469,2025-11-03,CUST-0327,Corporate,Central,Nagpur,Marketplace,Furniture,Study Desk,1,9500,0.15,8075.0,7790.0,285.0,Credit Card
+ORD-00973,2025-11-03,CUST-0054,Small Business,Central,Nagpur,Store,Lifestyle,Backpack,1,1600,0.0,1600.0,1168.0,432.0,Credit Card
+ORD-00709,2025-11-03,CUST-0082,Consumer,South,Chennai,Online,Lifestyle,Water Bottle,2,550,0.1,990.0,737.0,253.0,Debit Card
+ORD-00059,2025-11-04,CUST-0307,Consumer,South,Bengaluru,Marketplace,Stationery,Printer Paper,1,380,0.15,323.0,288.8,34.2,Debit Card
+ORD-00744,2025-11-04,CUST-0119,Consumer,South,Bengaluru,Marketplace,Stationery,Notebook Pack,1,250,0.2,200.0,162.5,37.5,Debit Card
+ORD-00342,2025-11-04,CUST-0094,Corporate,North,Delhi,Marketplace,Electronics,Monitor,2,12500,0.05,23750.0,21000.0,2750.0,Cash
+ORD-01067,2025-11-04,CUST-0171,Consumer,North,Delhi,Online,Furniture,Study Desk,1,9500,0.05,9025.0,7790.0,1235.0,Cash
+ORD-00188,2025-11-04,CUST-0275,Small Business,Central,Raipur,Marketplace,Electronics,Monitor,1,12500,0.0,12500.0,10500.0,2000.0,Credit Card
+ORD-00350,2025-11-05,CUST-0132,Corporate,East,Patna,Marketplace,Electronics,Phone Charger,3,750,0.0,2250.0,1552.5,697.5,UPI
+ORD-00666,2025-11-06,CUST-0300,Small Business,East,Guwahati,Store,Electronics,Monitor,1,12500,0.0,12500.0,10500.0,2000.0,Net Banking
+ORD-00208,2025-11-06,CUST-0349,Small Business,Central,Nagpur,Online,Accessories,USB-C Hub,2,1800,0.15,3060.0,2700.0,360.0,Credit Card
+ORD-00038,2025-11-07,CUST-0013,Consumer,North,Chandigarh,Store,Electronics,Headphones,2,2400,0.1,4320.0,3552.0,768.0,Net Banking
+ORD-00662,2025-11-07,CUST-0253,Corporate,West,Mumbai,Online,Electronics,Headphones,5,2400,0.2,9600.0,8880.0,720.0,UPI
+ORD-01008,2025-11-08,CUST-0189,Consumer,West,Surat,Marketplace,Electronics,Webcam,3,3200,0.0,9600.0,7392.0,2208.0,Cash
+ORD-00452,2025-11-10,CUST-0025,Corporate,South,Kochi,Online,Accessories,Keyboard,2,1200,0.0,2400.0,1680.0,720.0,Cash
+ORD-00122,2025-11-10,CUST-0154,Corporate,South,Hyderabad,Online,Stationery,Printer Paper,1,380,0.0,380.0,288.8,91.2,Cash
+ORD-00393,2025-11-10,CUST-0184,Corporate,West,Surat,Store,Accessories,Keyboard,2,1200,0.15,2040.0,1680.0,360.0,Net Banking
+ORD-00586,2025-11-11,CUST-0273,Consumer,North,Jaipur,Store,Accessories,Keyboard,4,1200,0.2,3840.0,3360.0,480.0,Credit Card
+ORD-00165,2025-11-11,CUST-0179,Small Business,North,Lucknow,Store,Stationery,Notebook Pack,1,250,0.0,250.0,162.5,87.5,Debit Card
+ORD-00573,2025-11-11,CUST-0198,Consumer,East,Patna,Online,Furniture,Office Chair,2,7800,0.05,14820.0,12168.0,2652.0,Debit Card
+ORD-00156,2025-11-12,CUST-0114,Small Business,South,Bengaluru,Online,Electronics,Webcam,1,3200,0.05,3040.0,2464.0,576.0,UPI
+ORD-01134,2025-11-12,CUST-0333,Small Business,East,Guwahati,Marketplace,Lifestyle,Backpack,2,1600,0.0,3200.0,2336.0,864.0,Cash
+ORD-00587,2025-11-12,CUST-0300,Corporate,East,Patna,Store,Home Office,Storage Box,3,480,0.1,1296.0,1036.8,259.2,Credit Card
+ORD-00593,2025-11-13,CUST-0235,Small Business,South,Hyderabad,Online,Electronics,Webcam,3,3200,0.0,9600.0,7392.0,2208.0,Cash
+ORD-00108,2025-11-13,CUST-0336,Consumer,West,Ahmedabad,Store,Lifestyle,Water Bottle,1,550,0.15,467.5,368.5,99.0,Net Banking
+ORD-00601,2025-11-13,CUST-0228,Small Business,West,Surat,Store,Furniture,Bookshelf,3,6200,0.0,18600.0,14880.0,3720.0,Cash
+ORD-00986,2025-11-14,CUST-0330,Corporate,North,Chandigarh,Marketplace,Stationery,Printer Paper,1,380,0.1,342.0,288.8,53.2,Credit Card
+ORD-00168,2025-11-14,CUST-0071,Consumer,Central,Raipur,Online,Electronics,Webcam,2,3200,0.1,5760.0,4928.0,832.0,Debit Card
+ORD-00850,2025-11-15,CUST-0216,Consumer,Central,Indore,Marketplace,Home Office,Desk Lamp,2,1350,0.0,2700.0,1917.0,783.0,Debit Card
+ORD-00997,2025-11-15,CUST-0291,Corporate,Central,Bhopal,Online,Furniture,Office Chair,3,7800,0.1,21060.0,18252.0,2808.0,Net Banking
+ORD-00995,2025-11-16,CUST-0038,Small Business,West,Mumbai,Online,Stationery,Printer Paper,4,380,0.0,1520.0,1155.2,364.8,Credit Card
+ORD-00489,2025-11-17,CUST-0301,Consumer,West,Ahmedabad,Store,Home Office,Desk Lamp,1,1350,0.1,1215.0,958.5,256.5,Net Banking
+ORD-00020,2025-11-17,CUST-0278,Consumer,South,Hyderabad,Online,Accessories,Keyboard,3,1200,0.15,3060.0,2520.0,540.0,Debit Card
+ORD-01020,2025-11-17,CUST-0255,Consumer,East,Patna,Online,Stationery,Notebook Pack,1,250,0.0,250.0,162.5,87.5,Net Banking
+ORD-01139,2025-11-17,CUST-0137,Small Business,East,Kolkata,Store,Accessories,Wireless Mouse,2,650,0.0,1300.0,884.0,416.0,Net Banking
+ORD-00246,2025-11-18,CUST-0028,Consumer,South,Bengaluru,Marketplace,Stationery,Printer Paper,4,380,0.05,1444.0,1155.2,288.8,Debit Card
+ORD-00419,2025-11-18,CUST-0136,Corporate,South,Bengaluru,Store,Lifestyle,Water Bottle,2,550,0.15,935.0,737.0,198.0,Net Banking
+ORD-01112,2025-11-19,CUST-0279,Corporate,South,Hyderabad,Marketplace,Stationery,Gel Pens,1,120,0.0,120.0,74.4,45.6,Net Banking
+ORD-00632,2025-11-19,CUST-0231,Corporate,Central,Indore,Store,Electronics,Headphones,4,2400,0.0,9600.0,7104.0,2496.0,Credit Card
+ORD-01077,2025-11-20,CUST-0224,Consumer,South,Bengaluru,Online,Accessories,Laptop Stand,4,850,0.0,3400.0,2448.0,952.0,Credit Card
+ORD-00364,2025-11-22,CUST-0227,Consumer,South,Hyderabad,Online,Electronics,Webcam,3,3200,0.2,7680.0,7392.0,288.0,Debit Card
+ORD-00640,2025-11-24,CUST-0180,Corporate,West,Pune,Store,Stationery,Gel Pens,1,120,0.1,108.0,74.4,33.6,Credit Card
+ORD-00313,2025-11-25,CUST-0027,Corporate,North,Lucknow,Store,Lifestyle,Water Bottle,3,550,0.1,1485.0,1105.5,379.5,Cash
+ORD-01108,2025-11-26,CUST-0277,Consumer,South,Bengaluru,Store,Stationery,Gel Pens,4,120,0.1,432.0,297.6,134.4,Cash
+ORD-00786,2025-11-26,CUST-0198,Corporate,East,Guwahati,Online,Furniture,Study Desk,1,9500,0.05,9025.0,7790.0,1235.0,Cash
+ORD-00780,2025-11-28,CUST-0051,Consumer,East,Guwahati,Online,Accessories,Wireless Mouse,3,650,0.0,1950.0,1326.0,624.0,Cash
+ORD-00821,2025-11-28,CUST-0148,Small Business,South,Hyderabad,Online,Electronics,Webcam,1,3200,0.15,2720.0,2464.0,256.0,Cash
+ORD-00190,2025-11-30,CUST-0327,Corporate,North,Jaipur,Marketplace,Electronics,Headphones,2,2400,0.0,4800.0,3552.0,1248.0,Net Banking
+ORD-00184,2025-11-30,CUST-0342,Small Business,West,Surat,Marketplace,Furniture,Office Chair,1,7800,0.05,7410.0,6084.0,1326.0,Net Banking
+ORD-00240,2025-12-02,CUST-0063,Small Business,West,Mumbai,Store,Furniture,Study Desk,2,9500,0.15,16150.0,15580.0,570.0,Debit Card
+ORD-01028,2025-12-02,CUST-0009,Corporate,Central,Bhopal,Marketplace,Stationery,Gel Pens,3,120,0.0,360.0,223.2,136.8,Debit Card
+ORD-00590,2025-12-03,CUST-0254,Corporate,North,Chandigarh,Marketplace,Accessories,Laptop Stand,1,850,0.1,765.0,612.0,153.0,Cash
+ORD-00040,2025-12-03,CUST-0020,Small Business,Central,Indore,Store,Accessories,USB-C Hub,2,1800,0.1,3240.0,2700.0,540.0,Cash
+ORD-00731,2025-12-04,CUST-0134,Consumer,South,Hyderabad,Online,Home Office,Storage Box,1,480,0.0,480.0,345.6,134.4,UPI
+ORD-01186,2025-12-05,CUST-0141,Small Business,West,Ahmedabad,Store,Stationery,Printer Paper,2,380,0.0,760.0,577.6,182.4,Debit Card
+ORD-00235,2025-12-05,CUST-0258,Small Business,North,Jaipur,Marketplace,Home Office,Storage Box,2,480,0.15,816.0,691.2,124.8,Credit Card
+ORD-00327,2025-12-06,CUST-0235,Corporate,East,Patna,Online,Accessories,USB-C Hub,2,1800,0.0,3600.0,2700.0,900.0,Debit Card
+ORD-00107,2025-12-07,CUST-0030,Corporate,North,Lucknow,Store,Lifestyle,Water Bottle,3,550,0.1,1485.0,1105.5,379.5,Cash
+ORD-01174,2025-12-08,CUST-0007,Consumer,South,Chennai,Online,Stationery,Printer Paper,4,380,0.15,1292.0,1155.2,136.8,Credit Card
+ORD-00223,2025-12-08,CUST-0024,Consumer,North,Lucknow,Marketplace,Electronics,Monitor,1,12500,0.15,10625.0,10500.0,125.0,Debit Card
+ORD-00512,2025-12-09,CUST-0118,Consumer,Central,Nagpur,Store,Electronics,Phone Charger,3,750,0.0,2250.0,1552.5,697.5,Debit Card
+ORD-00321,2025-12-09,CUST-0084,Small Business,East,Guwahati,Store,Accessories,Laptop Stand,2,850,0.05,1615.0,1224.0,391.0,Net Banking
+ORD-00534,2025-12-11,CUST-0302,Corporate,East,Patna,Online,Accessories,Keyboard,1,1200,0.15,1020.0,840.0,180.0,Cash
+ORD-00687,2025-12-11,CUST-0316,Small Business,North,Delhi,Online,Accessories,USB-C Hub,3,1800,0.1,4860.0,4050.0,810.0,Cash
+ORD-00213,2025-12-11,CUST-0122,Consumer,North,Jaipur,Marketplace,Electronics,Webcam,1,3200,0.2,2560.0,2464.0,96.0,Debit Card
+ORD-00438,2025-12-12,CUST-0007,Small Business,Central,Nagpur,Online,Electronics,Monitor,3,12500,0.05,35625.0,31500.0,4125.0,Cash
+ORD-00422,2025-12-13,CUST-0278,Consumer,North,Lucknow,Marketplace,Electronics,Headphones,1,2400,0.1,2160.0,1776.0,384.0,UPI
+ORD-01119,2025-12-13,CUST-0143,Small Business,East,Patna,Marketplace,Furniture,Study Desk,3,9500,0.0,28500.0,23370.0,5130.0,Credit Card
+ORD-00843,2025-12-13,CUST-0084,Consumer,East,Bhubaneswar,Store,Furniture,Study Desk,1,9500,0.1,8550.0,7790.0,760.0,Net Banking
+ORD-00446,2025-12-13,CUST-0301,Corporate,West,Pune,Store,Accessories,Wireless Mouse,1,650,0.0,650.0,442.0,208.0,Cash
+ORD-00263,2025-12-14,CUST-0264,Small Business,South,Kochi,Marketplace,Stationery,Printer Paper,2,380,0.1,684.0,577.6,106.4,Credit Card
+ORD-00933,2025-12-14,CUST-0057,Consumer,East,Kolkata,Store,Furniture,Bookshelf,2,6200,0.0,12400.0,9920.0,2480.0,Debit Card
+ORD-00415,2025-12-15,CUST-0295,Consumer,North,Lucknow,Online,Stationery,Gel Pens,1,120,0.1,108.0,74.4,33.6,Debit Card
+ORD-00638,2025-12-15,CUST-0050,Small Business,North,Delhi,Store,Furniture,Office Chair,2,7800,0.15,13260.0,12168.0,1092.0,Cash
+ORD-00046,2025-12-16,CUST-0342,Corporate,West,Surat,Online,Accessories,Keyboard,1,1200,0.0,1200.0,840.0,360.0,Cash
+ORD-00406,2025-12-16,CUST-0343,Consumer,South,Hyderabad,Online,Furniture,Office Chair,1,7800,0.1,7020.0,6084.0,936.0,Credit Card
+ORD-00106,2025-12-17,CUST-0204,Consumer,South,Kochi,Online,Furniture,Office Chair,1,7800,0.15,6630.0,6084.0,546.0,Credit Card
+ORD-00296,2025-12-17,CUST-0158,Corporate,North,Chandigarh,Marketplace,Electronics,Webcam,2,3200,0.05,6080.0,4928.0,1152.0,Debit Card
+ORD-01091,2025-12-17,CUST-0217,Small Business,West,Pune,Marketplace,Lifestyle,Backpack,1,1600,0.05,1520.0,1168.0,352.0,Cash
+ORD-01095,2025-12-17,CUST-0225,Small Business,Central,Nagpur,Marketplace,Furniture,Study Desk,1,9500,0.0,9500.0,7790.0,1710.0,Cash
+ORD-00144,2025-12-19,CUST-0268,Consumer,South,Bengaluru,Online,Furniture,Bookshelf,5,6200,0.15,26350.0,24800.0,1550.0,Net Banking
+ORD-01011,2025-12-19,CUST-0197,Corporate,West,Surat,Marketplace,Furniture,Study Desk,4,9500,0.0,38000.0,31160.0,6840.0,Cash
+ORD-01076,2025-12-20,CUST-0137,Small Business,Central,Indore,Store,Accessories,USB-C Hub,1,1800,0.0,1800.0,1350.0,450.0,UPI
+ORD-00455,2025-12-20,CUST-0300,Corporate,East,Kolkata,Marketplace,Furniture,Office Chair,2,7800,0.15,13260.0,12168.0,1092.0,Credit Card
+ORD-00172,2025-12-20,CUST-0105,Consumer,Central,Indore,Online,Electronics,Phone Charger,2,750,0.0,1500.0,1035.0,465.0,Cash
+ORD-01073,2025-12-21,CUST-0218,Consumer,West,Pune,Store,Stationery,Printer Paper,3,380,0.1,1026.0,866.4,159.6,UPI
+ORD-00654,2025-12-21,CUST-0079,Small Business,South,Chennai,Store,Electronics,Headphones,2,2400,0.15,4080.0,3552.0,528.0,Cash
+ORD-00081,2025-12-21,CUST-0156,Consumer,East,Guwahati,Online,Lifestyle,Water Bottle,2,550,0.05,1045.0,737.0,308.0,Cash
+ORD-00480,2025-12-21,CUST-0182,Consumer,South,Kochi,Marketplace,Electronics,Phone Charger,5,750,0.15,3187.5,2587.5,600.0,Net Banking
+ORD-00430,2025-12-21,CUST-0246,Corporate,West,Mumbai,Store,Lifestyle,Water Bottle,2,550,0.0,1100.0,737.0,363.0,Cash
+ORD-00689,2025-12-21,CUST-0050,Consumer,East,Guwahati,Online,Stationery,Gel Pens,3,120,0.05,342.0,223.2,118.8,Debit Card
+ORD-00488,2025-12-22,CUST-0025,Corporate,East,Bhubaneswar,Store,Accessories,Laptop Stand,1,850,0.05,807.5,612.0,195.5,Credit Card
+ORD-00150,2025-12-22,CUST-0163,Small Business,West,Pune,Online,Stationery,Notebook Pack,3,250,0.05,712.5,487.5,225.0,Debit Card
+ORD-00319,2025-12-22,CUST-0006,Small Business,North,Chandigarh,Marketplace,Home Office,Desk Lamp,2,1350,0.0,2700.0,1917.0,783.0,Cash
+ORD-00561,2025-12-23,CUST-0329,Corporate,East,Guwahati,Online,Furniture,Study Desk,1,9500,0.0,9500.0,7790.0,1710.0,Credit Card
+ORD-00788,2025-12-23,CUST-0036,Corporate,Central,Raipur,Online,Accessories,Wireless Mouse,5,650,0.0,3250.0,2210.0,1040.0,Net Banking
+ORD-00579,2025-12-24,CUST-0224,Small Business,Central,Indore,Marketplace,Electronics,Webcam,4,3200,0.0,12800.0,9856.0,2944.0,Debit Card
+ORD-00262,2025-12-25,CUST-0022,Corporate,North,Delhi,Store,Electronics,Webcam,2,3200,0.0,6400.0,4928.0,1472.0,Debit Card
+ORD-00300,2025-12-26,CUST-0002,Small Business,West,Surat,Online,Accessories,USB-C Hub,1,1800,0.0,1800.0,1350.0,450.0,UPI
+ORD-00062,2025-12-28,CUST-0193,Consumer,East,Patna,Online,Furniture,Office Chair,2,7800,0.1,14040.0,12168.0,1872.0,UPI
+ORD-01050,2025-12-29,CUST-0172,Corporate,Central,Raipur,Online,Furniture,Study Desk,4,9500,0.0,38000.0,31160.0,6840.0,Cash
+ORD-01012,2025-12-29,CUST-0121,Small Business,Central,Nagpur,Online,Lifestyle,Water Bottle,2,550,0.15,935.0,737.0,198.0,Cash
+ORD-01017,2025-12-30,CUST-0091,Corporate,East,Guwahati,Marketplace,Lifestyle,Water Bottle,1,550,0.2,440.0,368.5,71.5,Credit Card
+ORD-00789,2025-12-31,CUST-0116,Small Business,Central,Bhopal,Marketplace,Electronics,Monitor,1,12500,0.0,12500.0,10500.0,2000.0,UPI
+ORD-00015,2025-12-31,CUST-0063,Corporate,West,Pune,Online,Furniture,Study Desk,2,9500,0.0,19000.0,15580.0,3420.0,Cash
