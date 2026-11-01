@@ -1,0 +1,6 @@
+SKUs = DISTINCTCOUNT(Inventory[sku])
+Inventory Value = SUM(Inventory[inventory_value])
+Stockout SKUs = SUM(Inventory[stockout])
+Stockout Rate = DIVIDE([Stockout SKUs], [SKUs])
+Units Sold = SUM(Inventory[units_sold])
+Average Lead Time = AVERAGE(Inventory[lead_time_days])
