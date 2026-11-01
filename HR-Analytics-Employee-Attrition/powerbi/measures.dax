@@ -1,0 +1,5 @@
+Headcount = DISTINCTCOUNT(Employees[employee_id])
+Attrition Count = SUM(Employees[attrition])
+Attrition Rate = DIVIDE([Attrition Count], [Headcount])
+Average Monthly Income = AVERAGE(Employees[monthly_income])
+Average Tenure = AVERAGE(Employees[years_at_company])
