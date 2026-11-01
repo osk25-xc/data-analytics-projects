@@ -1,0 +1,6 @@
+Applications = COUNTROWS(Loans)
+Approved Loans = CALCULATE(COUNTROWS(Loans), Loans[loan_status] = "Approved")
+Approval Rate = DIVIDE([Approved Loans], [Applications])
+Default Count = SUM(Loans[defaulted])
+Default Rate = DIVIDE([Default Count], [Approved Loans])
+Average Credit Score = AVERAGE(Loans[credit_score])
