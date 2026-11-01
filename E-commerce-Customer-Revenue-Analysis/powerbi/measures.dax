@@ -1,0 +1,6 @@
+Total Revenue = SUM(Orders[revenue])
+Total Orders = DISTINCTCOUNT(Orders[order_id])
+Total Customers = DISTINCTCOUNT(Orders[customer_id])
+Total Profit = SUM(Orders[revenue]) - SUM(Orders[cost])
+Average Order Value = DIVIDE([Total Revenue], [Total Orders])
+Return Rate = DIVIDE(SUM(Orders[returned]), COUNTROWS(Orders))
