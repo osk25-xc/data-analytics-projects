@@ -1,22 +1,32 @@
 # Data Analytics Projects
 
-A central index for analytics practice, project experiments, and portfolio work.
+An index of data analytics, MIS reporting, and business-intelligence practice repositories.
 
-## Focus Areas
+## Focus areas
+
 - Sales and business performance analysis
 - SQL querying and KPI reporting
-- Excel and Power BI dashboards
-- Python-based data exploration and visualization
+- Excel reporting and dashboard development
+- Power BI data modeling, DAX, and visualization
+- Python-based data exploration
 - Customer and HR analytics
 
-## Project Standards
-Each project should document its business question, dataset source, tools, analysis steps, key findings supported by results, and how to reproduce the work.
+## Project repositories
 
-## Related Portfolio Repositories
-- [Retail Sales Analysis — Excel](https://github.com/osk25-xc/Retail-Sales-Analysis-Excel)
-- [Retail Sales Analysis — Power BI](https://github.com/osk25-xc/Retail-Sales-Analysis-PowerBI)
-- [SQL Business Sales Analysis](https://github.com/osk25-xc/SQL-Business-Sales-Analysis)
-- [Customer Churn Analysis](https://github.com/osk25-xc/Customer-Churn-Analysis)
-- [HR Analytics](https://github.com/osk25-xc/HR-Analytics-Employee-Performance)
+| Repository | Focus |
+|---|---|
+| [Retail Sales Analysis — Excel](https://github.com/osk25-xc/Retail-Sales-Analysis-Excel) | Spreadsheet KPIs and reporting |
+| [Retail Sales Analysis — Power BI](https://github.com/osk25-xc/Retail-Sales-Analysis-PowerBI) | Interactive BI reporting |
+| [SQL Business Sales Analysis](https://github.com/osk25-xc/SQL-Business-Sales-Analysis) | MySQL business queries |
+| [Superstore SQL Analysis](https://github.com/osk25-xc/Superstore-SQL-Analysis) | Retail sales and profitability |
+| [E-commerce Sales Analysis](https://github.com/osk25-xc/Ecommerce-Sales-Analysis) | E-commerce analytics |
+| [Customer Churn Analysis](https://github.com/osk25-xc/Customer-Churn-Analysis) | Customer churn exploration |
+| [Retail Customer Segmentation](https://github.com/osk25-xc/Retail-Customer-Segmentation) | RFM and data quality |
+| [HR Analytics](https://github.com/osk25-xc/HR-Analytics-Employee-Performance) | Employee attrition analysis |
+| [MLOps Churn Project](https://github.com/osk25-xc/mlops-churn-project) | Churn model workflow |
 
-Maintained by **Omkar S. Kshirsagar**.
+## Project documentation standard
+
+Each project README should explain its business question, dataset and source, tools, reproducible steps, key findings supported by actual outputs, and limitations. Clearly label synthetic data and do not claim unverified results.
+
+Maintained by [Omkar S. Kshirsagar](https://github.com/osk25-xc).
