@@ -1,32 +1,17 @@
-# Data Analytics Projects
+# Data Analytics Portfolio Projects
 
-An index of data analytics, MIS reporting, and business-intelligence practice repositories.
+Five end-to-end practice case studies using **synthetic datasets**. Each folder includes a project brief, CSV data, Python starter analysis, PostgreSQL queries and Power BI DAX measures.
 
-## Focus areas
-
-- Sales and business performance analysis
-- SQL querying and KPI reporting
-- Excel reporting and dashboard development
-- Power BI data modeling, DAX, and visualization
-- Python-based data exploration
-- Customer and HR analytics
-
-## Project repositories
-
-| Repository | Focus |
+| Project | Focus |
 |---|---|
-| [Retail Sales Analysis — Excel](https://github.com/osk25-xc/Retail-Sales-Analysis-Excel) | Spreadsheet KPIs and reporting |
-| [Retail Sales Analysis — Power BI](https://github.com/osk25-xc/Retail-Sales-Analysis-PowerBI) | Interactive BI reporting |
-| [SQL Business Sales Analysis](https://github.com/osk25-xc/SQL-Business-Sales-Analysis) | MySQL business queries |
-| [Superstore SQL Analysis](https://github.com/osk25-xc/Superstore-SQL-Analysis) | Retail sales and profitability |
-| [E-commerce Sales Analysis](https://github.com/osk25-xc/Ecommerce-Sales-Analysis) | E-commerce analytics |
-| [Customer Churn Analysis](https://github.com/osk25-xc/Customer-Churn-Analysis) | Customer churn exploration |
-| [Retail Customer Segmentation](https://github.com/osk25-xc/Retail-Customer-Segmentation) | RFM and data quality |
-| [HR Analytics](https://github.com/osk25-xc/HR-Analytics-Employee-Performance) | Employee attrition analysis |
-| [MLOps Churn Project](https://github.com/osk25-xc/mlops-churn-project) | Churn model workflow |
+| [E-commerce Customer & Revenue](E-commerce-Customer-Revenue-Analysis/) | Revenue, customers, profit, returns |
+| [HR Employee Attrition](HR-Analytics-Employee-Attrition/) | Headcount, attrition, workforce |
+| [Bank Loan Risk](Bank-Loan-Risk-Analysis/) | Applications, approvals, credit indicators |
+| [Supply Chain & Inventory MIS](Supply-Chain-Inventory-MIS/) | Stock, replenishment, suppliers |
+| [Food Delivery Operations](Food-Delivery-Operations-Analysis/) | Delivery time, lateness, ratings |
 
-## Project documentation standard
+## Getting started
+Install dependencies with `pip install pandas matplotlib`, then run the `python/analysis.py` file inside a project folder. Import its CSV into PostgreSQL using the table name shown in that project's README, then execute `sql/analysis.sql`. DAX measures are provided as starting points for Power BI.
 
-Each project README should explain its business question, dataset and source, tools, reproducible steps, key findings supported by actual outputs, and limitations. Clearly label synthetic data and do not claim unverified results.
-
-Maintained by [Omkar S. Kshirsagar](https://github.com/osk25-xc).
+## Important
+All included records are programmatically generated synthetic examples. They do not represent real companies, customers, employees, borrowers, suppliers or operational outcomes. Treat outputs as learning exercises, not factual business findings.
