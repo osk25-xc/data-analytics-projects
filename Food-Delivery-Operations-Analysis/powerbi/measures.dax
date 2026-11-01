@@ -1,0 +1,6 @@
+Orders = DISTINCTCOUNT(Deliveries[delivery_id])
+Delivered Orders = CALCULATE([Orders], Deliveries[delivery_status] = "Delivered")
+On-Time Rate = 1 - DIVIDE(SUM(Deliveries[late_delivery]), [Delivered Orders])
+Average Delivery Time = AVERAGE(Deliveries[actual_time_min])
+Average Rating = AVERAGE(Deliveries[rating])
+Average Order Value = AVERAGE(Deliveries[order_value])
